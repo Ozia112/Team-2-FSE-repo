@@ -108,4 +108,6 @@ La asignación con los **miembros** que se encuentran en el equipo *(09/21/2024)
    
  - `TM-07`: Alexander Castañeda
 
+   ![Cronograma](https://github.com/Ozia112/Team-2-FSE-repo/blob/main/assets/cronograma_stage_1.png)
+
 > Escrito por Isaac `TM-01`).
