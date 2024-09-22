@@ -72,6 +72,7 @@ Los pesos son categorizados en tres tipos **Bajo, Mediano y Alto** que para faci
 
 La relación de peso con las tareas queda la siguiente manera:
 
+![Tabla de tareas, asignación y peso](https://github.com/Ozia112/Team-2-FSE-repo/blob/main/assets/task_assignation_by%20weights.png)
 #### Asignación de Identificadores.
 La asignación de **Identificadores para los integrantes del equipo** será implementada para aumentar la flexibilidad de cambios de trabajo en el equipo en caso de un integrante se ausente o cambien los roles asignados previamente en las siguientes etapas del proyecto. La enumeración es asignada por orden de integración en el equipo en el momento en que este se formó. Los integrantes en algún momento del proceso podrán llegar a cambiar de identificador con previo aviso en caso de que se necesite por alguna emergencia.
 
@@ -98,7 +99,8 @@ Las tareas asignadas a los integrantes pueden empezar a realizarse desde el día
 
 El cronograma quedaría de la siguiente manera:
 
+![Cronograma de trabajo](https://github.com/Ozia112/Team-2-FSE-repo/blob/main/assets/schedule_graph_stage_1.png)
 El cronograma está dispuesto a cambios, los procesos pueden tardar más de lo establecido por lo mismo se deja cinco días de margen en caso de inconvenientes con el cronograma establecido previamente.
 ### Flujo de trabajo
-
+![Flujo de trbajo](https://github.com/Ozia112/Team-2-FSE-repo/blob/main/assets/work_flow_graph.png)
 > Written by Isaac ```TM-01```.
