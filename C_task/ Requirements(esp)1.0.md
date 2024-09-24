@@ -15,3 +15,11 @@ Este describe las funciones del sistema debe tener, como las tareas a realizar, 
 2.  **Gestión de cuentas**:
     
     -   _El estudiante_, quiere poder iniciar sesión en todas sus aplicaciones académicas con una sola cuenta, _para_ no tener que recordar múltiples contraseñas.
+
+3.  **Notificaciones**:
+    
+    -   _El estudiante_, quiere recibir notificaciones centralizadas de todas sus aplicaciones académicas, _para_ estar al tanto de cualquier actualización o tarea pendiente.
+
+4.  **Visualización de la primera sesión**:
+    
+    -   _El estudiante_, quiere que la plataforma recuerde su última sesión en la que ingreso a la aplicación, _para_ poder saber cuando fue su ultima conexión.
