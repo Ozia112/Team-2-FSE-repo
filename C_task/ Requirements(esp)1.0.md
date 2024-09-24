@@ -23,3 +23,27 @@ Este describe las funciones del sistema debe tener, como las tareas a realizar, 
 4.  **Visualización de la primera sesión**:
     
     -   _El estudiante_, quiere que la plataforma recuerde su última sesión en la que ingreso a la aplicación, _para_ poder saber cuando fue su ultima conexión.
+
+5.  **Gestión de Tareas y Actividades**
+
+-   _El estudiante_, quiere ver y gestionar todas sus tareas de diferentes aplicaciones en una lista consolidada en UADY HUB, _para_ tener un control completo de lo que debe hacer.
+
+6.  **Configuración y Personalización**
+
+-   _El estudiante_, quiere personalizar el diseño y disposición de la interfaz de UADY HUB, como cambiar temas, colores, o el orden de sus plataformas, _para_ que la plataforma se adapte a sus preferencias.
+
+7.  **Cambio de Idioma**
+
+-   _El estudiante_, quiere poder cambiar el idioma de la interfaz en UADY HUB, _para_ usar la plataforma en el idioma con el que se sienta más cómodo(Español e Ingles).
+
+8.  **Enlace a Recursos Externos**
+
+-   _El estudiante_, quiere tener enlaces rápidos a recursos externos dentro de UADY HUB, _para_ acceder fácilmente a información adicional sin tener que salir de la plataforma.
+
+9.  **Acceso Rápido a Ayuda y Soporte**
+
+-   _El estudiante_, quiere tener un enlace directo a la sección de ayuda o soporte dentro de UADY HUB, _para_ resolver dudas o problemas técnicos de manera rápida y eficiente.
+
+10.  **Barra de Búsqueda Integrada**
+
+-   _Como usuario_, quiere tener una barra de búsqueda en UADY HUB, _para_ encontrar rápidamente información específica o acceder a una aplicación académica sin tener que navegar por la interfaz.
