@@ -1,5 +1,4 @@
 > # Propuesta de valor
-> comodidad y eficiencia
 > 
 > En la Universidad Aútonoma de Yucatán (**UADY**) se utilizan diferentes plataformas y cada una de encuentran alojadas en diferentes plataformas, algunos de ellos son:
 >> ## En linea
