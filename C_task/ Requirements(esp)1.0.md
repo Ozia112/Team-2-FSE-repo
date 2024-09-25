@@ -2,9 +2,9 @@
 Son las características, funcionalidades y condiciones que el sistema debe cumplir para satisfacer las necesidades del cliente o usuario final 
 
 ## Requerimientos Funcionales
-Este describe las funciones del sistema debe tener, como las tareas a realizar, los datos que manejara y las interacciones con el usuario
+los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe responder a diferentes entradas o situaciones, proporcionando un marco claro para el desarrollo y la validación del sistema.
 
-***Lista de requerimientos UADY HUB***
+***Lista de requerimientos funcionales UADY HUB***
 
 ### Historias de Usuario:
 
@@ -54,4 +54,52 @@ Este describe las funciones del sistema debe tener, como las tareas a realizar, 
 
 12.  **Visualización de Cursos Inscritos**
 
-     -  _El estudiante_, quiere que en la pantalla principal de UADY HUB se muestre una lista de los cursos en los que está inscrito, _para_ acceder rápidamente a cada curso y sus herramientas.
+     -  _El estudiante_, quiere que en la pantalla principal de UADY HUB se muestre una lista de los cursos en los que está inscrito, _para_ acceder rápidamente a cada curso y sus herramientas. 
+
+
+# Requerimientos No Funcionales
+Los requerimientos no funcionales describen las propiedades y restricciones del sistema, asegurando que cumpla con las expectativas de calidad y rendimiento.
+
+***Lista de requerimientos no funcionales UADY HUB***
+
+### Historias de Usuario:
+
+1.  **Consistencia Visual**:
+    
+    -   _El usuario_, quiere que todos los elementos visuales del hub sean coherentes, _para_ que la experiencia de navegación sea intuitiva.
+    
+2.  **Accesibilidad Visual**:
+    
+    -   _El usuario con discapacidades visuales_, quiere que el contraste de colores sea adecuado, _para_ poder leer el contenido sin dificultad.
+    
+3.  **Interactividad**:
+    
+    -   _El usuario_, quiere que los elementos interactivos sean fáciles de identificar y utilizar, _para_ mejorar su experiencia.
+    
+4.  **Diseño Adaptable**:
+    
+    -   _El usuario de dispositivos móviles_, quiere que el hub se adapte a diferentes tamaños de pantalla, _para_ tener una buena experiencia sin importar el dispositivo.
+    
+5.  **Personalización**:
+    
+    -   _El usuario_, quiere poder personalizar su experiencia en el hub, _para_ ajustarlo a sus preferencias.
+  
+6.  **Soporte Multilingüe**:
+    
+    -   _El usuario que habla español_, quiere que el hub esté disponible en varios idiomas, _para_ poder usarlo cómodamente.
+    
+7.  **Alertas y Notificaciones**:
+    
+    -   _El usuario_, quiere recibir notificaciones sobre cambios importantes en el hub, _para_ estar siempre informado.
+    
+8.  **Soporte Técnico**:
+    
+    -   _El usuario_, quiere tener acceso a soporte técnico rápido, _para_ resolver cualquier problema que tenga.
+    
+9.  **Facilidad de Navegación**:
+    
+    -   _El usuario_, quiere que el menú de navegación sea fácilmente comprensible y fácil de utilizar, _para_ encontrar lo que busca.
+    
+10.  **Registro de Actividades**:
+    
+     -  _El administrador_, quiere tener un registro de las actividades de los usuarios, _para_ monitorizar el uso del sistema.
