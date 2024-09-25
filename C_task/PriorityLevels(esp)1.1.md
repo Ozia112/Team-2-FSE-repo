@@ -5,7 +5,8 @@ Los niveles de prioridad se utilizan para clasificar la importancia de cada requ
  - [ ] Media : Requerimientos deseables
  - [ ] Baja: Requerimientos deseables que pueden ser eliminados sin afectar la operatividad
 
-### Prioridades 
+### Prioridades
+#### Requerimientos funcionales:
 1.  **integración de aplicaciones**:  *Alta*
 2.  **Gestión de cuentas**: *Alta*
 3.  **Notificaciones**: *Alta*
@@ -16,5 +17,19 @@ Los niveles de prioridad se utilizan para clasificar la importancia de cada requ
 8.  **Enlace a Recursos Externos**: *Baja*
 9.  **Acceso Rápido a Ayuda y Soporte**: *Media*
 10.  **Barra de Búsqueda Integrada**: *Media*
+
+#### Requerimientos NO funcionales:
+1.  **Consistencia Visual:** _Alta_
+2.  **Accesibilidad Visual:** _Media_
+3.  **Interactividad:** _Media_
+4.  **Diseño Adaptable:** _Baja_
+5.  **Personalización:** _Media_
+6. **Soporte Multilingüe:** _Baja_
+7.  **Alertas y Notificaciones:** _Alta_
+8.  **Soporte Técnico**: _Media_
+9.  **Facilidad de Navegación:** _Media_
+10.  **Registro de Actividades:** _Baja_
+
+
 
 
