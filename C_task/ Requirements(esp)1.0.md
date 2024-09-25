@@ -26,24 +26,32 @@ Este describe las funciones del sistema debe tener, como las tareas a realizar, 
 
 5.  **Gestión de Tareas y Actividades**
 
--   _El estudiante_, quiere ver y gestionar todas sus tareas de diferentes aplicaciones en una lista consolidada en UADY HUB, _para_ tener un control completo de lo que debe hacer.
+    -   _El estudiante_, quiere ver y gestionar todas sus tareas de diferentes aplicaciones en una lista consolidada en UADY HUB, _para_ tener un control completo de lo que debe hacer.
 
 6.  **Configuración y Personalización**
 
--   _El estudiante_, quiere personalizar el diseño y disposición de la interfaz de UADY HUB, como cambiar temas, colores, o el orden de sus plataformas, _para_ que la plataforma se adapte a sus preferencias.
+    -   _El estudiante_, quiere personalizar el diseño y disposición de la interfaz de UADY HUB, como cambiar temas, colores, o el orden de sus plataformas, _para_ que la plataforma se adapte a sus preferencias.
 
 7.  **Cambio de Idioma**
 
--   _El estudiante_, quiere poder cambiar el idioma de la interfaz en UADY HUB, _para_ usar la plataforma en el idioma con el que se sienta más cómodo(Español e Ingles).
+    -   _El estudiante_, quiere poder cambiar el idioma de la interfaz en UADY HUB, _para_ usar la plataforma en el idioma con el que se sienta más cómodo(Español e Ingles).
 
 8.  **Enlace a Recursos Externos**
 
--   _El estudiante_, quiere tener enlaces rápidos a recursos externos dentro de UADY HUB, _para_ acceder fácilmente a información adicional sin tener que salir de la plataforma.
+    -   _El estudiante_, quiere tener enlaces rápidos a recursos externos dentro de UADY HUB, _para_ acceder fácilmente a información adicional sin tener que salir de la plataforma.
 
 9.  **Acceso Rápido a Ayuda y Soporte**
 
--   _El estudiante_, quiere tener un enlace directo a la sección de ayuda o soporte dentro de UADY HUB, _para_ resolver dudas o problemas técnicos de manera rápida y eficiente.
+    -   _El estudiante_, quiere tener un enlace directo a la sección de ayuda o soporte dentro de UADY HUB, _para_ resolver dudas o problemas técnicos de manera rápida y eficiente.
 
 10.  **Barra de Búsqueda Integrada**
 
--   _Como usuario_, quiere tener una barra de búsqueda en UADY HUB, _para_ encontrar rápidamente información específica o acceder a una aplicación académica sin tener que navegar por la interfaz.
+     -  _Como usuario_, quiere tener una barra de búsqueda en UADY HUB, _para_ encontrar rápidamente información específica o acceder a una aplicación académica sin tener que navegar por la interfaz.
+
+11. **Opcion mantener sesión**
+
+    -  _El estudiante_, quiere que UADY HUB ofrezca la opción de mantener su sesión iniciada, _para_ evitar la necesidad de volver a autenticar cada vez que acceda a la plataforma.
+
+12.  **Visualización de Cursos Inscritos**
+
+     -  _El estudiante_, quiere que en la pantalla principal de UADY HUB se muestre una lista de los cursos en los que está inscrito, _para_ acceder rápidamente a cada curso y sus herramientas.
