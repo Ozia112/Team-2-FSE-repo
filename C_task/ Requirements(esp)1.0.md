@@ -8,19 +8,19 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
 ### Historias de Usuario:
 
-1.  **Integración de aplicaciones**:
+1.  **Integración de aplicaciones**
     
     -   _El estudiante_, quiere acceder a todas sus aplicaciones académicas desde una única plataforma, _para_ ahorrar tiempo y simplificar su rutina diaria.
 
-2.  **Gestión de cuentas**:
-    
-    -   _El estudiante_, quiere poder iniciar sesión en todas sus aplicaciones académicas con una sola cuenta, _para_ no tener que recordar múltiples contraseñas.
+2.  **Autenticación con Correo Institucional**  
 
-3.  **Notificaciones**:
+    -  _El estudiante_, debe poder iniciar sesión en UADY HUB utilizando su correo institucional @alumno.uady.mx, _para_ asegurar que solo los estudiantes autorizados accedan a la plataforma.
+
+3.  **Notificaciones**
     
     -   _El estudiante_, quiere recibir notificaciones centralizadas de todas sus aplicaciones académicas, _para_ estar al tanto de cualquier actualización o tarea pendiente.
 
-4.  **Visualización de la primera sesión**:
+4.  **Visualización de primera sesión**
     
     -   _El estudiante_, quiere que la plataforma recuerde su última sesión en la que ingreso a la aplicación, _para_ poder saber cuando fue su ultima conexión.
 
@@ -28,13 +28,13 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
     -   _El estudiante_, quiere ver y gestionar todas sus tareas de diferentes aplicaciones en una lista consolidada en UADY HUB, _para_ tener un control completo de lo que debe hacer.
 
-6.  **Configuración y Personalización**
+6. **Interruptor de Tema Claro/Oscuro**
 
-    -   _El estudiante_, quiere personalizar el diseño y disposición de la interfaz de UADY HUB, como cambiar temas, colores, o el orden de sus plataformas, _para_ que la plataforma se adapte a sus preferencias.
+    -   _El estudiante_, debe contar con un interruptor en UADY HUB que le permita cambiar entre un tema claro y un tema oscuro, _para_ ajustar la apariencia de la interfaz según sus preferencias.
 
 7.  **Cambio de Idioma**
 
-    -   _El estudiante_, quiere poder cambiar el idioma de la interfaz en UADY HUB, _para_ usar la plataforma en el idioma con el que se sienta más cómodo(Español e Ingles).
+    -   _El estudiante_, quiere poder cambiar el idioma de la interfaz en UADY HUB, _para_ usar la plataforma en el idioma con el que se sienta más cómodo(Español o Ingles).
 
 8.  **Enlace a Recursos Externos**
 
@@ -46,7 +46,7 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
 10.  **Barra de Búsqueda Integrada**
 
-     -  _Como usuario_, quiere tener una barra de búsqueda en UADY HUB, _para_ encontrar rápidamente información específica o acceder a una aplicación académica sin tener que navegar por la interfaz.
+     -  _Como estudiante_, quiere tener una barra de búsqueda en UADY HUB, _para_ encontrar rápidamente información específica o acceder a una aplicación académica sin tener que navegar por la interfaz.
 
 11. **Opcion mantener sesión**
 
@@ -54,7 +54,19 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
 12.  **Visualización de Cursos Inscritos**
 
-     -  _El estudiante_, quiere que en la pantalla principal de UADY HUB se muestre una lista de los cursos en los que está inscrito, _para_ acceder rápidamente a cada curso y sus herramientas. 
+     -  _El estudiante_, quiere que en la pantalla principal de UADY HUB se muestre una lista de los cursos en los que está inscrito, _para_ acceder rápidamente a cada curso y sus herramientas.
+
+13.  **Función de Cierre de Sesión con Confirmación**  
+
+     - _El estudiante_, debe disponer de un botón para cerrar sesión, el cual debe presentar un diálogo de confirmación antes de finalizar la sesión, _para_ prevenir cierres accidentales.
+
+14.  **Redirección a Plataforma con Confirmación**  
+
+     -  _El estudiante_, quiere que al seleccionar una plataforma en UADY HUB, debe ser redirigido a la plataforma correspondiente con un diálogo de confirmación que incluya una opción para no volver a mostrar el mensaje, _para_ asegurar una navegación consciente.
+
+15.  Compatibilidad con Dispositivos Móviles
+
+     -  UADY HUB, debe ser totalmente compatible con dispositivos móviles, permitiendo a los estudiantes acceder a todas sus funcionalidades desde smartphones y tablets, _para_ facilitar el acceso desde cualquier lugar.
 
 
 # Requerimientos No Funcionales
