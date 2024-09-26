@@ -113,14 +113,16 @@ Es necesario llevar un registro a modo de bitácoras para poder documentar oport
 Cuando se tenga listo el avance del trabajo en el repositorio se deberá de producir un “commit” y efectuar el cambio en la rama principal de la etapa del proyecto correspondiente (**FIS-Project-Stage-1**) a través de la creación de un “**pull request**” en el que se puede analizar los cambios a efectuar.
 Cada día que se vaya a empezar las actividades asignadas el miembro del equipo deberá de crear un “**pull request**” para copiar los archivos de la rama principal del proyecto en su rama personal para poder trabajar con los archivos actualizados y evitar sobreescrituras o duplicaciones accidentales de archivos no deseados.
 A continuación, los pasos a seguir para crear los “**pull request**” mencionados:
-![click in the pull request section](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/click_in_the_pull_request_section.png)
->Click in the pull request section.
 
-![create pull request](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/create_pull_request.png)
->Create pull request
+##
+![click in the pull request section](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/click_in_the_pull_request_section.png "Click in the pull request section.")
 
-![Compare the branches to update the changes](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/compare_branches_reference.png)
->Compare the branches to update the changes
+##
+![create pull request](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/create_pull_request.png "Create pull request.")
+
+##
+![Compare the branches to update the changes](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/compare_branches_reference.png "Compare the branches to update the changes.")
+
 
 ### Reglas y nomenclaturas aceptables para el repositorio
 -	Los miembros del equipo deberán de tener su rama personal organizada y limpia teniendo sus archivos correspondientes en sus carpetas asignadas para imágenes y para las categorías de sus tareas.
