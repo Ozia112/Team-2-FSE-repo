@@ -16,7 +16,7 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
 2.  **Autenticación con Correo Institucional**  
 
-    -  _El [estudiante][blog]_debe poder iniciar sesión en UADY HUB utilizando su correo institucional @alumno.uady.mx, _para_ asegurar que solo los estudiantes autorizados accedan a la plataforma.
+    -  _El [estudiante][blog]_, debe poder iniciar sesión en UADY HUB utilizando su correo institucional @alumno.uady.mx, _para_ asegurar que solo los estudiantes autorizados accedan a la plataforma.
 
 3.  **Notificaciones**
     
