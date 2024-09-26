@@ -64,9 +64,9 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
      -  _El estudiante_, quiere que al seleccionar una plataforma en UADY HUB, debe ser redirigido a la plataforma correspondiente con un diálogo de confirmación que incluya una opción para no volver a mostrar el mensaje, _para_ asegurar una navegación consciente.
 
-15.  Compatibilidad con Dispositivos Móviles
+15.  **Personalización de Nombre y Color del Botón del Curso**
 
-     -  UADY HUB, debe ser totalmente compatible con dispositivos móviles, permitiendo a los estudiantes acceder a todas sus funcionalidades desde smartphones y tablets, _para_ facilitar el acceso desde cualquier lugar.
+     -   _El estudiante_, debe tener la opción de personalizar tanto el nombre como el color del botón de cada curso en UADY HUB, _para_ ajustar la interfaz a sus preferencias visuales.
 
 
 # Requerimientos No Funcionales
