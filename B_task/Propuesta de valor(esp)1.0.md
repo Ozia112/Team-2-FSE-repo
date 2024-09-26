@@ -13,7 +13,9 @@
 >
 >># Similitud
 >Las tres plataformas son impulsadas por Moodle que es una plataforma de aprendizaje para profesores y alumnos para el e-learning.
->
+>># Diferencia
+>Moodle es una herramienta que facilita a profesores y alumnos tener una educación a distancia, ya sea de forma asincrónica o sincrónica. Esta herramienta cuenta con versión web y aplicación móvil. En ambas versiones se pueden visualizar los cursos en los que el alumno está inscrito. En este caso, la versión de la aplicación tiene una característica que permite añadir diferentes plataformas, como En Línea, UADY Virtual y la Unidad Académica de Educación Virtual, pero como perfiles diferentes. Este producto compartirá la característica de añadir las diferentes plataformas de la UADY, pero sin la necesidad de tener diferentes perfiles.
+> 
 >># Valor 
 >Este proyecto tiene como objetivo ayudar a todos los alumnos de nuestra facultad; por lo tanto, será un producto que brindará un espacio para administrar y organizar todas las plataformas de la UADY. Esto cubrirá la necesidad de los alumnos de tener organizados sus diferentes sitios.
 >
