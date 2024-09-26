@@ -10,11 +10,12 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 
 1.  **Integración de aplicaciones**
     
-    -   _El estudiante_, quiere acceder a todas sus aplicaciones académicas desde una única plataforma, _para_ ahorrar tiempo y simplificar su rutina diaria.
+    -   _El [estudiante][definicion]_, quiere acceder a todas sus aplicaciones académicas desde una única plataforma, _para_ ahorrar tiempo y simplificar su rutina diaria.
+      [definicion]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Definition%20of%20users-clients%20(esp)1.1.md
 
 2.  **Autenticación con Correo Institucional**  
 
-    -  _El estudiante_, debe poder iniciar sesión en UADY HUB utilizando su correo institucional @alumno.uady.mx, _para_ asegurar que solo los estudiantes autorizados accedan a la plataforma.
+    -  _El estudiante_debe poder iniciar sesión en UADY HUB utilizando su correo institucional @alumno.uady.mx, _para_ asegurar que solo los estudiantes autorizados accedan a la plataforma.
 
 3.  **Notificaciones**
     
