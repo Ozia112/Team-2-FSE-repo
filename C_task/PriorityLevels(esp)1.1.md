@@ -16,7 +16,14 @@ Los niveles de prioridad se utilizan para clasificar la importancia de cada requ
 7.  **Cambio de Idioma**: *Baja*
 8.  **Enlace a Recursos Externos**: *Baja*
 9.  **Acceso Rápido a Ayuda y Soporte**: *Media*
-10.  **Barra de Búsqueda Integrada**: *Media*
+10. **Barra de Búsqueda Integrada**: *Media*
+11. **Opcion mantener sesión**: *Alta*
+12. **Visualización de Cursos Inscritos**:*Alta*
+13. **Función de Cierre de Sesión con Confirmación**:*Media*
+14. **Redirección a Plataforma con Confirmación**:*Media*
+15. **Personalización de Nombre y Color del Botón del Curso**:*Bajo*
+16. **Facilidad Visual**: *Media*
+17.  **Visualizacion de Actividades**: *Alta*
 
 #### Requerimientos NO funcionales:
 1.  **Consistencia Visual:** _Alta_
