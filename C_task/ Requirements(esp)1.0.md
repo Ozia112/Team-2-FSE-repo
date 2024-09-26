@@ -11,7 +11,8 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 1.  **Integración de aplicaciones**
     
     -   _El [estudiante][blog] _, quiere acceder a todas sus aplicaciones académicas desde una única plataforma, _para_ ahorrar tiempo y simplificar su rutina diaria.
-      [blog]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Definition%20of%20users-clients%20(esp)1.1
+
+[blog]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Definition%20of%20users-clients%20(esp)1.1
 
 2.  **Autenticación con Correo Institucional**  
 
