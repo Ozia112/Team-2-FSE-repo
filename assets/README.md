@@ -1,5 +1,5 @@
-## This folder is created for multimedia assets
-### Files accepted:
+# This folder is created for multimedia assets
+## Files accepted:
 - .png
 - .mp4
 - .gif

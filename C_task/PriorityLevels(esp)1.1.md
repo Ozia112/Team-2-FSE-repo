@@ -16,7 +16,8 @@ Los niveles de prioridad se utilizan para clasificar la importancia de cada requ
 7.  **Cambio de Idioma**: *Baja*
 8.  **Enlace a Recursos Externos**: *Baja*
 9.  **Acceso Rápido a Ayuda y Soporte**: *Media*
-10.  **Barra de Búsqueda Integrada**: *Media*
+10. **Barra de Búsqueda Integrada**: *Media*
+
 
 #### Requerimientos NO funcionales:
 1.  **Consistencia Visual:** _Alta_
