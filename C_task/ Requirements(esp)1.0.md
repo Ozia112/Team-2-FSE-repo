@@ -67,6 +67,14 @@ los requerimientos funcionales definen lo que el sistema debe hacer y cómo debe
 15.  **Personalización de Nombre y Color del Botón del Curso**
 
      -   _El estudiante_, debe tener la opción de personalizar tanto el nombre como el color del botón de cada curso en UADY HUB, _para_ ajustar la interfaz a sus preferencias visuales.
+   
+16.  **Facilidad Visual**
+
+     -  _El alumno_. quiere que el sistema permita la configuración de temas de alto contraste para facilitar la lectura del contenido, _para_ usuarios con discapacidades visuales.
+
+17.  **Visualizacion de Actividades**
+
+     -  _El alumno_, quiere que se registre su actividad en el sistema, _para_ poder ver un historial de su uso del hub y evaluar su progreso.
 
 
 # Requerimientos No Funcionales
