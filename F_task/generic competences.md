@@ -11,7 +11,7 @@
 
 - Planificar y organizar actividades, estableciendo prioridades y asignando recursos de manera adecuada para el proyecto.  
 
-- Asumir la responsabilidad de las tareas asignadas en el equipo, cumpliendo con los compromisos y contribuyendo equitativamente al éxito del grupo.  
+- Asumir la responsabilidad de las tareas asignadas en el equipo, cumpliendo con los compromisos y contribuyendo equitativamente.  
 
 - Participar en la toma de decisiones del equipo de manera democrática, considerando las ideas de todos los miembros y eligiendo las mejores soluciones para el proyecto.
 
