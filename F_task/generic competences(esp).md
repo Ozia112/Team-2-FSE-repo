@@ -1,19 +1,9 @@
-## Competencias genericas ##
-- Expresar ideas y opiniones de manera clara, tanto oralmente como por escrito, asegurando una comunicación fluida dentro del equipo..  
+# Competencias genericas #
 
-- Trabajo en equipo de los diferentes colaboradores del equipo para completar las tareas desiganadas.  
+**Comunicacion de manera oral y escrita de manera clara**   
+- Durante el proyecto se llevaron acabo reuniones en las cuales los integrantes se comunicaban en español para cumplir sus diferentes tareas en el tiempo deseado siendo comprendidas por los integrantes, en el repositorio se subieron archivos para las diferentes tareas que se llevaron a cabo
 
-- Generar ideas nuevas para proponer soluciones a desafíos o posibles contratiempos del proyecto.  
+**Uso de las TIC´S**  
+- Durante el proyecto se usaron herramientas para completar las tareas, la principal siendo github para el repositorio pudiendo entrelazar informacion entre los diferentes integrantes, otra herrameinta que se uso es WhatsApp para poder comunicarnos de manera no presencial y compartir informacion , StackEdit es una harramainta de edicion de tecxto para los archibos usando un ".md", Boardmix herramienta en el cual se uso para crear un diagrama de los casos de uso mediante los niveles de prioridad y los requerimientos.
 
-- Organizar y gestionar el tiempo de manera eficiente, priorizando tareas para cumplir con plazos y objetivos establecidos en el cronograma.  
-
-- Planificar y organizar actividades, estableciendo prioridades y asignando recursos de manera adecuada para el proyecto.  
-
-- Asumir la responsabilidad de las tareas asignadas en el equipo, cumpliendo con los compromisos y contribuyendo equitativamente.  
-
-- Participar en la toma de decisiones del equipo de manera democrática, considerando las ideas de todos los miembros y eligiendo las mejores soluciones para el proyecto.
-
-- Cumplir de manera responsable con las tareas individuales asignadas, asegurando que el desempeño personal contribuya al éxito del equipo en su conjunto.  
-
-- Delegar tareas de manera justa y eficiente por el lider, asegurando que cada miembro del equipo tenga la oportunidad de contribuir según sus habilidades y fortalezas dependiendo del peso de la misma.
-
+**
