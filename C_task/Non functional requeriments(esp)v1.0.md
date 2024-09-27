@@ -24,7 +24,7 @@
 
 ⁠6. Soporte Multilingüe
  
--	El [usuario][definicio] que habla español, quiere que el hub esté disponible en varios idiomas para poder usarlo cómodamente.
+-	El [usuario][definicion] , que habla español, quiere que el hub esté disponible en varios idiomas para poder usarlo cómodamente.
 
 7.  Alertas y Notificaciones
     
@@ -36,30 +36,30 @@
 
 9. Facilidad de Navegación
 
--	El [usuario][definiciones] , quiere que el menú de navegación sea fácilmente comprensible  y fácil de utilizar para todos los usuarios, para encontrar lo que busca.
+-	El [usuario][definicion] , quiere que el menú de navegación sea fácilmente comprensible  y fácil de utilizar para todos los usuarios, para encontrar lo que busca.
 
 10. Registro de Actividades
     
--	El [administrador][definiciones] , quiere tener un registro de las actividades de los usuarios para monitorizar el uso del sistema.
+-	El [administrador][definicion] , quiere tener un registro de las actividades de los usuarios para monitorizar el uso del sistema.
 
 11. Claridad en los Botones de Acción
 
--	El [usuario][definiciones] , quiere que los botones de acción sean fácilmente identificables para que sepa dónde hacer clic sin dudar.
+-	El [usuario][definicion] , quiere que los botones de acción sean fácilmente identificables para que sepa dónde hacer clic sin dudar.
 
 12. Diseño Atractivo
     
--	El [usuario][definiciones] , quiere que el hub tenga un diseño atractivo que lo invite a explorar más.
+-	El [usuario][definicion] , quiere que el hub tenga un diseño atractivo que lo invite a explorar más.
 
 13. Estilo de Texto Legible
     
--	El [usuario][definiciones] , quiere que el texto sea fácil de leer, con un tamaño y tipo de letra adecuado para no forzar la vista.
+-	El [usuario][definicion] , quiere que el texto sea fácil de leer, con un tamaño y tipo de letra adecuado para no forzar la vista.
 
 14. Jerarquía Visual Clara
--	El [usuario][definiciones] , quiere que la jerarquía visual del contenido lo ayude a identificar rápidamente lo más importante dentro del UadyHub.
+-	El [usuario][definicion] , quiere que la jerarquía visual del contenido lo ayude a identificar rápidamente lo más importante dentro del UadyHub.
 
 15. Opciones de Visualización
     
--	El [usuario][definiciones] , quiere tener opciones de visualización (modo claro/oscuro) para adaptarlo a sus preferencias dependiendo en el ambiente en el que se encuentra.
+-	El [usuario][definicion] , quiere tener opciones de visualización (modo claro/oscuro) para adaptarlo a sus preferencias dependiendo en el ambiente en el que se encuentra.
 
 
 
