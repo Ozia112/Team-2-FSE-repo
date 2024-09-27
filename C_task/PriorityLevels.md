@@ -22,5 +22,26 @@ Priority levels are used to rank the importance of each requirements
 12. **Viewing Enrolled Courses**:*High*
 13. **Login Out with Confirmation**:*Media*
 14. **Redirect to Platform with Confirmation**:*Medium*
-15. 
+15. **Course Button Name and Color Customization**:*Low*
+16. **Visual Ease**: *Medium*
+17. **Activity Display**: *High*
+
+#### Non-functional requirements:
+1. **Visual Consistency:** _High_
+2. **Visual Accessibility:** _Medium_
+3. **Interactivity:** _Medium_
+4. **Responsive Design:** _Low_
+5. **Customization:** _Medium_
+6. **Multilingual Support:** _Low_
+7. **Alerts and Notifications:** _High_
+8. **Technical Support**: _Medium_
+9. **Ease of Navigation:** _Medium_
+10. **Activity Log:** _Low_
+11. **Clarity in Action Buttons:**_Medium_
+12. **Attractive Design:**_Medium_
+13. **Legible Text Style :**_Low_
+14. **Clear Visual Hierarchy :**_High_
+15. **Display Options :**_Low_
+
+
 
