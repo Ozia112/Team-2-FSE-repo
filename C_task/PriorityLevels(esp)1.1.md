@@ -37,7 +37,11 @@ Los niveles de prioridad se utilizan para clasificar la importancia de cada requ
 8.  **Soporte Técnico**: _Media_
 9.  **Facilidad de Navegación:** _Media_
 10.  **Registro de Actividades:** _Baja_
-
+11.	**Claridad en los Botones de Acción:**_Media_
+12.	**Diseño Atractivo:**_Media_
+13.	**Estilo de Texto Legible :**_Baja_
+14.	**Jerarquía Visual Clara :**_Alta_
+15.	**Opciones de Visualización :**_Baja_
 
 
 
