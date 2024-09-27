@@ -1,12 +1,12 @@
 # **Requerimientos No Funcionales**
 
-1.	Consistencia Visual
+1. Consistencia Visual
    
--	El [usuario][definicion], quiere que todos los elementos visuales del hub sean coherentes para que la experiencia de navegación sea intuitiva.
+-El [usuario][definicion], quiere que todos los elementos visuales del hub sean coherentes para que la experiencia de navegación sea intuitiva.
 
 [definicion]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Definition%20of%20users-clients%20(esp)1.1.md
 
-2. Accesibilidad Visual
+2.   Accesibilidad Visual
    
 -	El [usuario][definicion] con discapacidades visuales, quiere que el contraste de colores sea adecuado para poder leer el contenido sin dificultad.
 
