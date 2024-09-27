@@ -1,7 +1,21 @@
-##### Competencias genericas #####
-_Comunicacion_, comunicacion de manera efectiva entendiendo y explicando lo que se quire decir de manera oral y escrita.  
+## Competencias genericas ##
+_Expresar ideas y opiniones de manera clara, tanto oralmente como por escrito, asegurando una comunicación fluida dentro del equipo..  
 
-_Trabajo en equipo_, colaboracion de los diferentes perosonas del equipo para completar las tareas desiganadas.  
+_Trabajo en equipo de los diferentes colaboradores del equipo para completar las tareas desiganadas.  
 
-_
+_Generar ideas nuevas para proponer soluciones a desafíos o posibles contratiempos del proyecto.  
+
+_Organizar y gestionar el tiempo de manera eficiente, priorizando tareas para cumplir con plazos y objetivos establecidos en el cronograma.  
+
+_Utilizar herramientas tecnológicas de manera ética y responsable para mejorar la productividad del proyecto alcanzando las metas deseadas.  
+
+_Planificar y organizar actividades, estableciendo prioridades y asignando recursos de manera adecuada para el proyecto.  
+
+_Asumir la responsabilidad de las tareas asignadas en el equipo, cumpliendo con los compromisos y contribuyendo equitativamente al éxito del grupo.  
+
+_Participar en la toma de decisiones del equipo de manera democrática, considerando las ideas de todos los miembros y eligiendo las mejores soluciones para el proyecto.
+
+_Cumplir de manera responsable con las tareas individuales asignadas, asegurando que el desempeño personal contribuya al éxito del equipo en su conjunto.  
+
+_Delegar tareas de manera justa y eficiente por el lider, asegurando que cada miembro del equipo tenga la oportunidad de contribuir según sus habilidades y fortalezas dependiendo del peso de la misma.
 
