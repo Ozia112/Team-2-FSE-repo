@@ -8,15 +8,15 @@
 
 2. Accesibilidad Visual
    
--	El usuario con discapacidades visuales, quiere que el contraste de colores sea adecuado para poder leer el contenido sin dificultad.
+-	El [usuario][definicion] con discapacidades visuales, quiere que el contraste de colores sea adecuado para poder leer el contenido sin dificultad.
 
 3. Interactividad
 
--	El usuario, quiere que los elementos interactivos sean fáciles de identificar y utilizar para mejorar su experiencia.
+-	El [usuario][definicion], quiere que los elementos interactivos sean fáciles de identificar y utilizar para mejorar su experiencia.
 
 4. Diseño Adaptable
    
--	El usuario de dispositivos móviles, quiero que el hub se adapte a diferentes tamaños de pantalla para tener una buena experiencia sin importar el dispositivo.
+-	El [usuario][definicion] de dispositivos móviles, quiero que el hub se adapte a diferentes tamaños de pantalla para tener una buena experiencia sin importar el dispositivo.
 
 5. Personalización
    
