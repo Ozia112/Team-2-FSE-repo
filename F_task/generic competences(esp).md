@@ -7,8 +7,6 @@
 
 - Organizar y gestionar el tiempo de manera eficiente, priorizando tareas para cumplir con plazos y objetivos establecidos en el cronograma.  
 
-- Utilizar herramientas tecnológicas de manera ética y responsable para mejorar la productividad del proyecto alcanzando las metas deseadas.  
-
 - Planificar y organizar actividades, estableciendo prioridades y asignando recursos de manera adecuada para el proyecto.  
 
 - Asumir la responsabilidad de las tareas asignadas en el equipo, cumpliendo con los compromisos y contribuyendo equitativamente.  
