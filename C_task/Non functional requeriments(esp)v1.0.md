@@ -12,7 +12,7 @@
 
 3. Interactividad
 
--	El [usuario][definicion], quiere que los elementos interactivos sean fáciles de identificar y utilizar para mejorar su experiencia.
+-	El [usuario][definicion] , quiere que los elementos interactivos sean fáciles de identificar y utilizar para mejorar su experiencia.
 
 4. Diseño Adaptable
    
@@ -20,7 +20,7 @@
 
 5. Personalización
    
--	El [usuario][definicion], quiere poder personalizar su experiencia en el hub para ajustarlo a sus preferencias. 
+-	El [usuario][definicion] , quiere poder personalizar su experiencia en el hub para ajustarlo a sus preferencias. 
 
 ⁠6. Soporte Multilingüe
  
@@ -28,38 +28,38 @@
 
 7.  Alertas y Notificaciones
     
--	El [usuario][definicion], quiere recibir notificaciones sobre cambios importantes en el hub para estar siempre informado.
+-	El [usuario][definicion] , quiere recibir notificaciones sobre cambios importantes en el hub para estar siempre informado.
 
 8.  Soporte Técnico
 
--	El [usuario][definicion], quiere tener acceso a soporte técnico rápido para resolver cualquier problema que tenga.
+-	El [usuario][definicion] , quiere tener acceso a soporte técnico rápido para resolver cualquier problema que tenga.
 
 9. Facilidad de Navegación
 
--	El [usuario][definiciones], quiere que el menú de navegación sea fácilmente comprensible  y fácil de utilizar para todos los usuarios, para encontrar lo que busca.
+-	El [usuario][definiciones] , quiere que el menú de navegación sea fácilmente comprensible  y fácil de utilizar para todos los usuarios, para encontrar lo que busca.
 
 10. Registro de Actividades
     
--	El [administrador][definiciones], quiere tener un registro de las actividades de los usuarios para monitorizar el uso del sistema.
+-	El [administrador][definiciones] , quiere tener un registro de las actividades de los usuarios para monitorizar el uso del sistema.
 
 11. Claridad en los Botones de Acción
 
--	El [usuario][definiciones], quiere que los botones de acción sean fácilmente identificables para que sepa dónde hacer clic sin dudar.
+-	El [usuario][definiciones] , quiere que los botones de acción sean fácilmente identificables para que sepa dónde hacer clic sin dudar.
 
 12. Diseño Atractivo
     
--	El [usuario][definiciones], quiere que el hub tenga un diseño atractivo que lo invite a explorar más.
+-	El [usuario][definiciones] , quiere que el hub tenga un diseño atractivo que lo invite a explorar más.
 
 13. Estilo de Texto Legible
     
--	El [usuario][definiciones], quiere que el texto sea fácil de leer, con un tamaño y tipo de letra adecuado para no forzar la vista.
+-	El [usuario][definiciones] , quiere que el texto sea fácil de leer, con un tamaño y tipo de letra adecuado para no forzar la vista.
 
 14. Jerarquía Visual Clara
--	El [usuario][definiciones], quiere que la jerarquía visual del contenido lo ayude a identificar rápidamente lo más importante dentro del UadyHub.
+-	El [usuario][definiciones] , quiere que la jerarquía visual del contenido lo ayude a identificar rápidamente lo más importante dentro del UadyHub.
 
 15. Opciones de Visualización
     
--	El [usuario][definiciones], quiere tener opciones de visualización (modo claro/oscuro) para adaptarlo a sus preferencias dependiendo en el ambiente en el que se encuentra.
+-	El [usuario][definiciones] , quiere tener opciones de visualización (modo claro/oscuro) para adaptarlo a sus preferencias dependiendo en el ambiente en el que se encuentra.
 
 
 
