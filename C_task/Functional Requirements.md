@@ -5,14 +5,26 @@ _**UADY HUB Functional Requirements List**_
 1.  **Application Integration**
     
     -   _The student_ wants to access all their academic applications from a single platform, _in order to_ save time and simplify their daily routine.
+      
+    -   **User** Role: Student
+    -   **Action**: The student wants to access all their academic applications from a single platform.
+    -   **Purpose**: In order to save time and simplify their daily routine.
     
 2.  **Authentication with Institutional Email**
     
     -   _The student_ must be able to log in to UADY HUB using their institutional email @alumno.uady.mx, _in order to_ ensure that only authorized students can access the platform.
+   
+    -   **User Role**: Student
+    -   **Action**: The student must be able to log in to UADY HUB using their institutional email @alumno.uady.mx.
+    -   **Purpose**: In order to ensure that only authorized students can access the platform.
     
 3.  **Notifications**
     
     -   _The student_ wants to receive centralized notifications from all their academic applications, _in order to_ stay updated on any pending tasks or updates.
+      
+    -   **User** Role: Student
+    -   **Action**: The student wants to receive centralized notifications from all their academic applications.
+    -   **Purpose**: In order to stay updated on any pending tasks or updates.
     
 4.  **First Session View**
     
