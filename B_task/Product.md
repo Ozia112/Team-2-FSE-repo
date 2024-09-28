@@ -12,11 +12,11 @@
   
   _Limitations:_
 
-  _Regulaciones and regulations:_ Compliance with privacy regulations.
+  _Regulations and regulations:_ Compliance with privacy regulations.
   
-  _Tiempo:_ Product Launch in a Period of Time.
+  _Time:_ Product Launch in a Period of Time.
   
-  _Presupuesto:_ Development and maintenance cost.
+  _Budget:_ Development and maintenance cost.
   
   _Restricciones techniques:_ Limitations in hardware and software.
   
