@@ -1,5 +1,5 @@
 # competencias   
-> descripcion 
+> Conjunto de conocimientos, habilidades, actitudes y valores que los estudiantes deben adquirir y desarrollar para tener un desempeño eficaz en sus estudios y en la vida cotidiana. 
 
 
 ## tabla de contenidos:  
