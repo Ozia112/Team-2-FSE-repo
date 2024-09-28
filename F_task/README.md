@@ -8,4 +8,4 @@
 - competencias especificas
 
 
-Written by `TM-05` , `TM-06`
+Written by `TM-05`  `TM-06`
