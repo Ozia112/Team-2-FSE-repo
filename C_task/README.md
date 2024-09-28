@@ -1,5 +1,5 @@
 ## Table of Contents:
->- [Functional Requirements](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/B_task)
+>- [Functional Requirements](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/Functional%20Requirements.md)
 >    - Product description
 >    - Definition of users/clients
 >    - Value proposition
