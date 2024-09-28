@@ -1,16 +1,12 @@
 ## Table of Contents:
 >- [Functional Requirements](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/Functional%20Requirements.md)
->    - Product description
->    - Definition of users/clients
->    - Value proposition
+>    - In this section there will be a list of functional requirements for our project in a user Stories format.
+
 >- [Non Functional Requirements](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/Non%20Functional%20Requirements.md)
->    - Functional requirements
->    - Non functional requirements
->    - Priority Levels
->    - Artifacts(Case use diagram)
+>    - In this section there will be a list of non functional requirements for our project in a user Stories format.
+
 >- [Priority Levels](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/PriorityLevels.md)
->   - Process description
->   - Process management
->   - Individual contribution metrics
+>   - In this section there will be a list of priority levels of the requirements, both the functional requirements and the non-functional requirements, these will be ranked high, medium and low.
+
 >- [Diagram Use Cases](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/DiagramUseCases.md)
->    - Video presentation
+>    - This file will contain the application's use case diagram in a more visual format where the user's interaction with the interface functions will be seen.
