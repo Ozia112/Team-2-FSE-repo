@@ -9,4 +9,4 @@
 >   - In this section there will be a list of priority levels of the requirements, both the functional requirements and the non-functional requirements, these will be ranked high, medium and low.
 
 >- [Diagram Use Cases](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/DiagramUseCases.md)
->    - This file will contain the application's use case diagram in a more visual format where the user's interaction with the interface functions will be seen.
+>    - Video presentation
