@@ -1,4 +1,4 @@
- Video Script
+# Video Script
 
 Imaginemos a Sam, un alumno de la UADY que ha perdido bastantes puntos en algunas de sus materias.
 A Sam se le olvidan todos los enlaces donde tiene que subir sus tareas y, al no encontrarlos a tiempo, no las puede entregar. Además, a veces va a clases cuando no hay, ya que no le llegan las notificaciones. Esta es una situación que muchos estudiantes enfrentan a diario, y es precisamente el problema que queremos resolver con nuestra aplicación.

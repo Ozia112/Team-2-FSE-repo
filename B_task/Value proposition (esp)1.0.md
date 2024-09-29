@@ -22,8 +22,10 @@
 >```mermaid
 >graph LR
 >A[Plataformas ]  --> B(En linea)
->A --> E(Uady Virtual)
+>A --> F(Uady virtual - EB)
+>F --> D
+>A --> E(Uady Virtual - ES)
 >E --> D
 >A --> C(Unidad Virtual)
->B --> D{HUB UADY}
+>B --> D{UADY HUB}
 >C --> D
