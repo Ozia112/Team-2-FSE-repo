@@ -59,3 +59,24 @@ The user wants the visual hierarchy of the content to help him quickly identify 
 15.Display Options
 
 The user wants to have display options (light/dark mode) to adapt it to their preferences depending on the environment in which they are located.
+
+
+
+- Definition of Intuitive:
+   - An interface or system is intuitive when users can use it naturally and fluidly without having to consult manuals or guides. It refers to the ease with which people understand its operation based on their previous experience and without much cognitive effort. 
+
+High Contrast Explanation (WCAG):
+   - High contrast is a key characteristic in web accessibility, defined by the *Web Content Accessibility Guidelines (WCAG): It refers to the relationship between text and background that facilitates readability. WCAG recommends a minimum contrast of 4.5:1 for normal text and 3:1 for large text, ensuring that content is readable for people with low vision or visual impairments.
+
+Parameters for the characteristics "easy to identify" and "easy to use”:
+   -Easy to identify: The elements in an interface must be clearly distinguishable, that is, users can quickly and clearly identify the available components and functionalities.
+   - Easy to use: The interface should provide a fluid experience, where users can complete tasks with as few clicks or steps as possible. Actions must be clear, coherent and predictable.
+
+“Appeal” parameters for UX/UI:
+   - In UX/UI, an attractive design is characterized by:
+     -Aesthetics: Use of a color palette, typography and visual style that generates a pleasant experience consistent with the brand identity.
+     - Coherence: Maintain a uniform and consistent structure throughout the design, avoiding user confusion.
+     - Smooth animations and transitions: Incorporate small details that make interaction with the interface pleasant.
+
+Definition of visual hierarchy:
+   - Visual hierarchy is the organization of graphic elements in an interface in a way that guides the user about the importance of each one. Key elements should be highlighted through size, color, contrast or location, making navigation easier and improving the user experience.
