@@ -63,6 +63,27 @@
 
 
 
+- Definición de Intuitiva:
+   - Una interfaz o sistema es intuitivo cuando los usuarios pueden usarlo de manera natural y fluida sin necesidad de consultar manuales o guías. Se refiere a la facilidad con la que las personas comprenden su funcionamiento con base en su experiencia previa y sin mucho esfuerzo cognitivo. 
+
+Explicación del alto contraste (WCAG):
+   - El alto contraste es una característica clave en la accesibilidad web, definida por las *Pautas de Accesibilidad para el Contenido Web (WCAG): Se refiere a la relación entre el texto y el fondo que facilita la legibilidad. Las WCAG recomiendan un contraste mínimo de 4.5:1 para texto normal y 3:1 para texto grande, asegurando que los contenidos sean legibles para personas con baja visión o deficiencias visuales.
+
+Parámetros para las características "fácil de identificar" y "fácil de utilizar”:
+   -Fácil de identificar: Los elementos en una interfaz deben ser claramente distinguibles, es decir, que los usuarios puedan identificar de manera rápida y clara los componentes y funcionalidades disponibles.
+   - Fácil de utilizar: La interfaz debe proporcionar una experiencia fluida, donde los usuarios puedan completar tareas con el menor número de clics o pasos posibles. Las acciones deben ser claras, coherentes y predecibles.
+
+Parámetros de "Atractivo" para UX/UI:
+   - En UX/UI, un diseño atractivo se caracteriza por:
+     -Estética: Uso de una paleta de colores, tipografía y estilo visual que genere una experiencia agradable y coherente con la identidad de la marca.
+     - Coherencia: Mantener una estructura uniforme y consistente en todo el diseño, evitando la confusión del usuario.
+     - Animaciones y transiciones suaves: Incorporar pequeños detalles que hagan que la interacción con la interfaz sea placentera.
+
+Definición de jerarquía visual:
+   - La jerarquía visual es la organización de los elementos gráficos en una interfaz de forma que se guíe al usuario sobre la importancia de cada uno. Los elementos clave deben destacarse mediante el tamaño, color, contraste o ubicación, facilitando la navegación y mejorando la experiencia del usuario.
+
+
+
 
     
 
