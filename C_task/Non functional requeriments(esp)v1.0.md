@@ -24,15 +24,15 @@
 
 ⁠6. Soporte Multilingüe
  
--	El [usuario][definicion] , que habla español, quiere que el hub esté disponible en varios idiomas para poder usarlo cómodamente.
+-	El [usuario][definicion] , que habla español, quiere que el hub esté disponible en varios idiomas para poder poder practicar y relacionar otras palabras en el idioma que guste.
 
 7.  Alertas y Notificaciones
     
--	El [usuario][definicion] , quiere recibir notificaciones sobre cambios importantes en el hub para estar siempre informado.
+-	El [usuario][definicion] , quiere recibir notificaciones sobre avisos importantes del hub ya sea que se va a actualizar la plataforma, que hay cambios en el horario de clases, recordatorios de tareas, mensajes importantes del profesor, llegandoles con un número en el icono de la aplicación o con una barra de notificaciones para estar siempre informado.
 
 8.  Soporte Técnico
 
--	El [usuario][definicion] , quiere tener acceso a soporte técnico rápido para resolver cualquier problema que tenga.
+-	El [usuario][definicion] , quiere tener acceso a soporte técnico rápido para resolver cualquier problema que tenga, en este podra encontrar preguntas frecuentes si tiene cierto problema y un correo al que se podra contactar si no puedo resolver el problema.
 
 9. Facilidad de Navegación
 
