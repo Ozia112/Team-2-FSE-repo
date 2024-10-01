@@ -4,7 +4,7 @@
 ## table of contents:
 - [generic competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-05-branch/F_task/generic%20competencies.md)
 
-- specific competencies
+- [specific competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/F_task/specific%20competences.md)
 
 
 Written by `TM-05`  `TM-06`
