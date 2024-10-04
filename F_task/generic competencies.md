@@ -9,4 +9,5 @@
 **Knowledge management**
 - During the project, information was collected from the different members, assigning tasks to each of them with their own priority. The tasks were assigned through previously established meetings of time and date to finalize the project schedule.
 
-  Written by `TM-05`
+
+Written by `TM-05`
