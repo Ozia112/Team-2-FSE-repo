@@ -28,8 +28,8 @@
 >- Video
 >    - [Source assets](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/assets)
 >    - Video presentation
->- Competencies
->    - Generic competencies
->    - Specific competencies
+>- [Competencies](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/F_task)
+>    - [Generic competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/generic%20competencies.md)
+>    - [Specific competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/specific%20competences.md)
 
 Written by `TM-01`
