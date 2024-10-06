@@ -12,25 +12,7 @@
 >We will also need to create a summary/documentary video that encompasses the most important aspects of the first stage of the project, with a script that is clear and with a pleasant rhythm for the viewer. In addition to multimedia content that accompanies the video and graphically illustrates its documentary intention.
 
 ## Table of Contents:
->- [Product]
->    - [Product description]
->    - [Definition of users/clients]
->    - [Value proposition]
->- [Requirements]
->    - [Functional requirements]
->    - [Non functional requirements]
->    - [Priority Levels]
->    - [Artifacts(Case use diagram)]
->- [Process]
->   - [Process description]
->   - [Process management]
->   - [Individual contribution metrics]
->- [Video]
->    - [Source assets]
->    - [Video presentation]
->- [Competencies]
->    - [Generic competencies]
->    - [Specific competencies]
+
 
 
 [Product]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/B_task
