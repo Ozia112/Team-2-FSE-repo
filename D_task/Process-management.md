@@ -90,4 +90,6 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
 
 Time lapsed: 06:30:50 06/10/2024
 > Written by ``TM-01``
+ 
+
 [Milanote]: https://app.milanote.com/1SXBZT182JDI7a/stage-2?p=TaWzHE9JOuG
