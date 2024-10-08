@@ -41,10 +41,10 @@
   [Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/Non%20Functional%20Requirements.md
   [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/PriorityLevels.md
   [Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/DiagramUseCases.md
-[Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/D_task
-  [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/D_task/Process%20description.md#workflow
-  [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/D_task/Process%20description.md#schedule
-  [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/D_task/Process%20description.md#tasks-to-be-completed
+[Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(D)Process
+  [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process%20description.md
+  [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md
+  [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Metrics_and_contributions.md
 [Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/E_task
   [Source assets]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/assets
   [Video presentation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/E_task/Video%20Presentation.md
