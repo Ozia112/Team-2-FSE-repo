@@ -12,6 +12,13 @@ The assignment with team members (09/21/2024) is as follows:
 - `TM-05`: Cristofer Barrera
 - `TM-06`: Adrián Rosado
 - `TM-07`: Alexander Castañeda
+### Roles and Responsibilities
+- `Project Manager`: _Responsible for the overall management of the project, in charge of distributing tasks across the different stages among all members, taking into account their skills._
+- `Repository Manager`: _Responsible for organizing the project to improve readability and ensuring that repository navigation is user-friendly for those visiting the directory._
+- `Log Keeper`: _Responsible for recording and organizing the logs of all project members in a readable and easy-to-analyze format to enable quick and efficient data analysis._
+- `Task Owner`: _Members who have been assigned a specific project task._
+- `Assistant`: _Members assigned to assist the task owner in solving the issues related to the specific task._
+---
 ## Workflow
 ### Iterations
 The workflow will be structured in six-day iterations (except in specific cases), during which the different activities have been distributed. At the beginning of each iteration, a general report will be made on all changes implemented, objectives achieved, possible corrections, and the resolution of any questions the team may have regarding the previous iteration or upcoming activities.  
@@ -84,5 +91,5 @@ To be able to work in an orderly manner on the project, the creation of personal
 >    -	Team members must keep their personal branches organized and clean, with their corresponding files placed in their assigned folders for images and task categories.
 >    - The usage of assets like images need to be upload in the folder named “assets”  
 
-Time lapsed: 02:24:26 07/10/2024
+Time lapsed: 02:34:26 07/10/2024
 >Written by `TM-01`.
