@@ -93,9 +93,9 @@ The assignment of tasks and the start and delivery dates are as follows:
 In this section, we discuss the issues encountered during the first project submission and the solutions implemented to ensure smoother work and avoid facing the same problems again.
 
 #### Issues
-- **Many delays in the delivery of different activities and lack of incentive to finish the work on time:** Throughout the first submission, many activities were delivered and corrected just a few days before the deadline, preventing proper review and submission with the expected quality of the tasks.[Delay's Solution]
+- **Many delays in the delivery of different activities and lack of incentive to finish the work on time:** Throughout the first submission, many activities were delivered and corrected just a few days before the deadline, preventing proper review and submission with the expected quality of the tasks.[[Delay's Solution]]
 
-- **Poor video quality and lack of appeal:** Due to insufficient supervision of the activity (F)Presentation, the final result of the video ended up being ineffective in properly communicating our intentions because of low audio quality, poor script structure, and an unappealing outcome that made it difficult to retain the viewer's attention.[Poor video quality's Solution]
+- **Poor video quality and lack of appeal:** Due to insufficient supervision of the activity (F)Presentation, the final result of the video ended up being ineffective in properly communicating our intentions because of low audio quality, poor script structure, and an unappealing outcome that made it difficult to retain the viewer's attention.[[Poor video quality's Solution]]
 
 #### Solutions:
 ##### - **Anticipated delivery date:** 
@@ -113,5 +113,5 @@ Time lapsed: 00:00:00 07/10/2024
  
 
 [Milanote]: https://app.milanote.com/1SXBZT182JDI7a/stage-2?p=TaWzHE9JOuG
-[Delay's Solution]:
-[Poor video quality's Solution]: 
+[Delay's Solution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/(D)Process/Process-management.md#--anticipated-delivery-date
+[Poor video quality's Solution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/(D)Process/Process-management.md#--quality-parameters-file
