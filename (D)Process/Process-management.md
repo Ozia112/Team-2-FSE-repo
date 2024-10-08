@@ -15,15 +15,15 @@ I will explain how to use it correctly.
 Keep in mind that the GitHub section serves primarily as a visual guide for the activities that need to be completed for the project.
 
 - The main page of the project will appear in your screen if you click in the five option in the main tabs of GitHub.
-![Project main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/main_page_github_project.png "This is what the main page of the project section looks like")
+![Project main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project.png "This is what the main page of the project section looks like")
   - In here you will see too many views option but first we will focus on the to do list section.
 #
-![Add Item Button](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/main_page_github_project(add_item).png "In this button you will create a task")
+![Add Item Button](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project(add_item).png "In this button you will create a task")
 #
-![Click in the item name](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/main_page_github_project(click_item).png "Click in the name of the item")
+![Click in the item name](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project(click_item).png "Click in the name of the item")
 #
 - Every task needs to be added for each member of the team, adding the following information:
-![Item menu](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/main_page_github_project(menu_item).png "This is the item menu and there shows the fields information that need to be filled")
+![Item menu](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project(menu_item).png "This is the item menu and there shows the fields information that need to be filled")
   - Task priority
   - Task weight
   - Start date(**established in the schedule**)
@@ -34,7 +34,7 @@ And that would be it for the project section on github.
 In Milanote, we will graphically manage the images used in the project, 
 and we will also be able to create checklists to facilitate the individual management of micro-tasks or large tasks, 
 as well as the correction of errors that occur during weekly iterations.
-![Milanote Example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/milanote_example.png "This is an example of use of milanote")
+![Milanote Example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/milanote_example.png "This is an example of use of milanote")
 #
 In milanote will discuss concepts desings for the UX/UI and the adition of diferents resources in the repo.
 
@@ -42,7 +42,7 @@ In milanote will discuss concepts desings for the UX/UI and the adition of difer
 ### Timeline Schedule Stage 2
 Throughout the project, various tasks will be carried out and scheduled for delivery, with the final deadline set for October 22. However, this does not apply to all 
 tasks. Below is a timeline with the tasks and their respective start and end dates:
-![Schedule Timeline](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/Schedule_stage_2.png "This is the schedule programmed ofr the next month")
+![Schedule Timeline](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/Schedule_stage_2.png "This is the schedule programmed ofr the next month")
 #
 ### Task List
 #### (B)Product
@@ -85,11 +85,32 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
 - F1.0 Update generic competencies.
 - F2.0 Update specific competencies.
 ### Task asignation
-![Task Assignation](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/Task_assignation.png "This is the task assignation by now")
+The assignment of tasks and the start and delivery dates are as follows:
+![Task Assignation](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/Task_assignation.png "This is the task assignation by now")
 #
 
-Time lapsed: 06:30:50 06/10/2024
+### Issues and implemented solutions:
+In this section, we discuss the issues encountered during the first project submission and the solutions implemented to ensure smoother work and avoid facing the same problems again.
+
+#### Issues
+- **Many delays in the delivery of different activities and lack of incentive to finish the work on time:** Throughout the first submission, many activities were delivered and corrected just a few days before the deadline, preventing proper review and submission with the expected quality of the tasks.[Delay's Solution]
+
+- **Poor video quality and lack of appeal:** Due to insufficient supervision of the activity (F)Presentation, the final result of the video ended up being ineffective in properly communicating our intentions because of low audio quality, poor script structure, and an unappealing outcome that made it difficult to retain the viewer's attention.[Poor video quality's Solution]
+
+#### Solutions:
+- **Anticipated delivery date:** All project tasks have an established due date; however, tasks that need to be completed at the last minute have a final delivery date set for October 22, 2024. This allows for the implementation of the second solution to the problem:
+   - **Reassignment of delayed tasks:** Tasks that do not meet the final delivery date will be reassigned to other team members, and the task weights will be rebalanced to compensate those who have completed extra work. The reassignment will occur when:
+       - A task correction is not submitted on time.
+       - The entire task is not submitted on time.
+
+- **Quality Parameters File:** 
+   - To ensure that the video for the second submission does not suffer from the same issues as the first, a document will be created outlining the parameters the video must meet to guarantee the expected quality. This document should be used as a guide for proper production; however, additional quality parameters can be researched and added later.
+---
+Time lapsed: 06:30:50 06/10/2024  
+Time lapsed: 00:00:00 07/10/2024
 > Written by ``TM-01``
  
 
 [Milanote]: https://app.milanote.com/1SXBZT182JDI7a/stage-2?p=TaWzHE9JOuG
+[Delay's Solution]:
+[Poor video quality's Solution]: 
