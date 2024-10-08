@@ -82,6 +82,7 @@ To be able to work in an orderly manner on the project, the creation of personal
 >    - The source Branch for the personal Branch it must be the main branch of the project stage (FIS-Project-Stage-1)
 >    - In your Branch you need to create a directory for your work with the main category of your task followed by the word “_task”, for example if your task assigned is BA1.1 you need to create a directory named as B_task
 >    -	Team members must keep their personal branches organized and clean, with their corresponding files placed in their assigned folders for images and task categories.
->    - The usage of assets like images need to be upload in the folder named “assets”
+>    - The usage of assets like images need to be upload in the folder named “assets”  
+
 Time lapsed: 02:24:26 07/10/2024
 >Written by `TM-01`.
