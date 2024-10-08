@@ -45,14 +45,14 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
 ![Schedule Timeline](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/Process(D)/Schedule_stage_2.png "This is the schedule programmed ofr the next month")
 #
 ### Task List
-#### Product (B)
+#### (B)Product
 - B1.0 Product Evolution
   - Explain the changes made in the project, the differences between the first and second deliveries. Evidence must be inserted in the document.
-#### Requirements (C)
+#### (C)Requirements
 - C1.0 Requirements Evolution
   - C1.1 All functional requirements are specified, along with a more detailed description of the user needs and the limits of what we can offer.
   - C1.2 All non-functional requirements are specified, defining the parameters needed to concretely establish the requirements.
-#### Design (G)
+#### (G)Design
 - G1.0 Interface Sketches
   - G1.1 Sketches are created by hand or digitally as proposals for the project’s interface requirements.
   - G1.2 Each interface proposal is linked to its corresponding project requirement through the established format (Markdown).
@@ -64,7 +64,7 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
 - G3.0 Create a simulation of three functional project requirements that are interactive (preferably the main ones).
   - G3.1 Develop and link simulation tests with the feedback collection activity.
   - G3.2 Create charts to validate the simulation.
-#### Process (D)
+#### (D)Process
 - D1.0 Process Description
   - Describe and include evidence of the sprints, sprint sizes, planning, activities, their responsible parties, roles, and results.
 - D2.0 Process Management
@@ -73,7 +73,7 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
   - D3.1 Include time measurement metrics for project execution.
   - D3.2 Include the division of tasks and their weight in relation to the entire project.
   - D3.3 Organization of the repository.
-#### Presentation (E)
+#### (E)Presentation
 - E1.0 Script Development
   - Create a script that can successfully guide the creation of the video from scratch, specifying scene changes, video pacing, timing for inserting graphic materials, and the necessary dialogue for the explanation (check the video parameters).
 - E2.0 Video Recordings
@@ -81,7 +81,7 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
   - E2.2 Edit the recorded audio to ensure cohesion in tone, volume, and video pacing.
 - E3.0 Video Editing
   - The culmination of all audiovisual materials into a video explaining the product according to the established parameters, with a runtime of approximately 5:00 minutes, with a minimum variance of 20 seconds.
-#### Competencies (F)
+#### (F)Competencies
 - F1.0 Update generic competencies.
 - F2.0 Update specific competencies.
 ### Task asignation
