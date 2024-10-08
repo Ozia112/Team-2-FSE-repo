@@ -98,12 +98,12 @@ In this section, we discuss the issues encountered during the first project subm
 - **Poor video quality and lack of appeal:** Due to insufficient supervision of the activity (F)Presentation, the final result of the video ended up being ineffective in properly communicating our intentions because of low audio quality, poor script structure, and an unappealing outcome that made it difficult to retain the viewer's attention.[Poor video quality's Solution]
 
 #### Solutions:
-- **Anticipated delivery date:** All project tasks have an established due date; however, tasks that need to be completed at the last minute have a final delivery date set for October 22, 2024. This allows for the implementation of the second solution to the problem:
+##### - **Anticipated delivery date:** All project tasks have an established due date; however, tasks that need to be completed at the last minute have a final delivery date set for October 22, 2024. This allows for the implementation of the second solution to the problem:
    - **Reassignment of delayed tasks:** Tasks that do not meet the final delivery date will be reassigned to other team members, and the task weights will be rebalanced to compensate those who have completed extra work. The reassignment will occur when:
        - A task correction is not submitted on time.
        - The entire task is not submitted on time.
 
-- **Quality Parameters File:** 
+##### - **Quality Parameters File:** 
    - To ensure that the video for the second submission does not suffer from the same issues as the first, a document will be created outlining the parameters the video must meet to guarantee the expected quality. This document should be used as a guide for proper production; however, additional quality parameters can be researched and added later.
 ---
 Time lapsed: 06:30:50 06/10/2024  
