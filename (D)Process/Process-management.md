@@ -108,7 +108,7 @@ In this section, we discuss the issues encountered during the first project subm
    - To ensure that the video for the second submission does not suffer from the same issues as the first, a document will be created outlining the parameters the video must meet to guarantee the expected quality. This document should be used as a guide for proper production; however, additional quality parameters can be researched and added later.
 ---
 Time lapsed: 06:30:50 06/10/2024  
-Time lapsed: 00:00:00 07/10/2024
+Time lapsed: 01:31:30 07/10/2024
 > Written by ``TM-01``
  
 
