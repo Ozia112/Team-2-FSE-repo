@@ -29,6 +29,7 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
   - Start date(**established in the schedule**)
   - End date(**established in the schedule**)
   - Assign your GitHub user to the task
+#### --> Insert here Status section
 And that would be it for the project section on github.
 ## [Milanote board][Milanote]
 In Milanote, we will graphically manage the images used in the project, 
