@@ -7,4 +7,4 @@
 - [specific competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/specific%20competences.md)
 
 
-Written by `TM-05`  `TM-06`
+Written by `TM-05` 
