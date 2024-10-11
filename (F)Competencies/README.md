@@ -4,7 +4,7 @@
 ## table of contents:
 - [generic competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(F)Competencies/GenericCompetencies.md)
 
-- [specific competencies]()
+- [specific competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(F)Competencies/SpecificCompetences.md)
 
 
 Written by `TM-05` 
