@@ -1,9 +1,10 @@
 # Especific competences #
 
-**Risk management**
+**titulo**
 - 
 
-**Planning and organization**
+**titulo**
 - 
-**Technical knowledge**
+**titulo**
 - 
+
