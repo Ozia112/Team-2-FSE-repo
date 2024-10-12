@@ -59,3 +59,6 @@ _**UADY HUB Functional Requirements List**_
     -   **User Role**: Student
     -   **Action**: The student wants the platforms to notify when they are under maintenance or out of service.
     -   **Purpose**: To stay informed and better plan the use of academic tools.
+  
+
+>Written by `TM-03`
