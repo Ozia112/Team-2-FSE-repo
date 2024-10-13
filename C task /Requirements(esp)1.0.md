@@ -1,3 +1,0 @@
-# Requerimentos
-
-### Requerimientos Funcionales
