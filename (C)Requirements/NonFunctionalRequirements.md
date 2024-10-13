@@ -55,10 +55,6 @@
 
     -  The user wants to have display options (light/dark mode) to adapt it to their preferences depending on the environment in which they are located.
 
-
-
-
-
 Definition of Intuitive:
    - An interface or system is intuitive when users can use it naturally and fluidly without having to consult manuals or guides. It refers to the ease with which people understand its operation based on their previous experience and without much cognitive effort. 
 
@@ -77,3 +73,5 @@ Parameters for the characteristics "easy to identify" and "easy to use”:
 
 Definition of visual hierarchy:
    - Visual hierarchy is the organization of graphic elements in an interface in a way that guides the user about the importance of each one. Key elements should be highlighted through size, color, contrast or location, making navigation easier and improving the user experience.
+
+>Written by `TM-02`.
