@@ -29,6 +29,14 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
   - Start date(**established in the schedule**)
   - End date(**established in the schedule**)
   - Assign your GitHub user to the task
+### Status
+- #### To do
+  To do refers to a list of pending tasks or items that require attention
+- #### In progress
+  In progress refers to the status of a task or work that is being actively developed but has not yet been completed
+- #### Review
+  Review (or code review) is the process by which other
+- #### Done
 And that would be it for the project section on github.
 ## [Milanote board][Milanote]
 In Milanote, we will graphically manage the images used in the project, 
