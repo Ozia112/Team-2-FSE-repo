@@ -10,7 +10,7 @@ _**UADY HUB Functional Requirements List**_
     -   **Action**: The student wants to access all their academic applications from a single platform.
     -   **Purpose**: In order to save time and simplify their daily routine.
     
-2.  **Authentication with Institutional Email**
+2.  #### Authentication with Institutional Email**
     
     -   _The student_ must be able to log in to UADY HUB using their institutional email @alumno.uady.mx, _in order to_ ensure that only authorized students can access the platform.
    
