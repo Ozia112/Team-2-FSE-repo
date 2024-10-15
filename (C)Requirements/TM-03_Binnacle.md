@@ -8,5 +8,9 @@
 
 ### 14/10/2024
 - ``C1.0|Requirements Evolution:`` A new folder called (C)requirements was created, which contains the same files of the first version of the old C_Task folder, where the old ones are stored, and the new documents that are added are the evolution of those, improved and updated, likewise, they can be identified with the new name format for example: FunctionalRequirements. **Time lapsed: 00:37:58**
+---
+- ### 15/10/2024
+- ``C1.1| Editing functional requeriments:`` A new requirement was added, and the document hierarchy was structured with titles, subtitles, and sub-subtitles for better organization and clarity, reflecting the update from 7 to 8 requirements. **Time lapsed: 00:10:35**
+
 
 >Written by `TM-03`.
