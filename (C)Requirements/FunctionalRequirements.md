@@ -1,6 +1,6 @@
-_**UADY HUB Functional Requirements List**_
+# UADY HUB Functional Requirements List
 
-### User Stories:
+## User Stories
 
 1.  **Application Integration**
     
