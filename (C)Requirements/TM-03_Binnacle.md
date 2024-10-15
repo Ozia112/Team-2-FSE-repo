@@ -7,6 +7,6 @@
 - ``C1.1|Modification of the functional requirements format:`` The structure of the document is modified, adding its hierarchy of title and subtitles. **Time lapsed: 00:02:25**
 
 ### 14/10/2024
-- ``C1.0|Requirements Evolution:`` A new folder called (C)requirements was created, which contains the same files of the first version of the old C_Task folder, where the old ones are stored, and the new documents that are added are the evolution of those, improved and updated, likewise, they can be identified with the new name format for example: FunctionalRequirements. **Time lapsed: 00:20:58**
+- ``C1.0|Requirements Evolution:`` A new folder called (C)requirements was created, which contains the same files of the first version of the old C_Task folder, where the old ones are stored, and the new documents that are added are the evolution of those, improved and updated, likewise, they can be identified with the new name format for example: FunctionalRequirements. **Time lapsed: 00:37:58**
 
 >Written by `TM-03`.
