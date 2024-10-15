@@ -42,7 +42,7 @@
   
     -   **User Role**: Student
     -   **Action**: The student wants to be able to change the interface language in UADY HUB.
-    -   **Purpose**: To use the platform in the language they feel most comfortable with (Spanish or English).
+    -   **Purpose**: To use the platform in the language they feel most comfortable with (ESP or ING).
     
 6.  ### Enrolled Courses Display
     
