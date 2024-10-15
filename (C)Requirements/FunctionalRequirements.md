@@ -2,7 +2,7 @@
 
 ## User Stories
 
-1.  ### Application Integration
+1.  ### Plataforms Integration
     
     -   _The student_ wants to access all their academic applications from a single platform, _in order to_ save time and simplify their daily routine.
       
@@ -42,7 +42,7 @@
   
     -   **User Role**: Student
     -   **Action**: The student wants to be able to change the interface language in UADY HUB.
-    -   **Purpose**: To use the platform in the language they feel most comfortable with (ESP or ING).
+    -   **Purpose**: To use the platform in the language they feel most comfortable with (Spanish or English).
     
 6.  ### Enrolled Courses Display
     
