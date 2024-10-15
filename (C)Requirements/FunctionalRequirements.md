@@ -59,5 +59,13 @@
     -   **User Role**: Student
     -   **Action**: The student wants the platforms to notify when they are undergoing maintenance or are out of service.
     -   **Purpose**: In order to stay informed and better plan the use of academic tools.
+  
+8. ### Search and Filter Bar
+
+    -  _The student_ wants to be able to filter by courses or platforms, and also search directly by the name of the platform or course, _in order to_ improve navigation.
+
+    -   **User Role**: Student
+    -   **Action**: The student wants to filter by courses or platforms, and search directly by the name of the platform or course.
+    -   **Purpose**: In order to a better navegation.
 
 >Written by `TM-03`.
