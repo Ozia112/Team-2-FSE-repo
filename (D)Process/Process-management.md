@@ -29,6 +29,19 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
   - Start date(**established in the schedule**)
   - End date(**established in the schedule**)
   - Assign your GitHub user to the task
+### Status Description
+- #### To do
+  To do refers to a list of pending tasks or items that require attention.
+  ![Todo example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/todo.jpeg)
+- #### In progress
+  In progress refers to the status of a task or work that is being actively developed but has not yet been completed.
+  ![In progress example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/inprogress.jpeg)
+- #### Review
+  Review (or code review) is the process by which other developers review and comment on the code  of  pull request (PR) before it is merged into the main branch of the project.
+  ![Review example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/review.jpeg)
+- #### Done
+  Done indicates that a task or job has been successfully completed.
+  ![Done example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/done.jpeg)
 And that would be it for the project section on github.
 ## [Milanote board][Milanote]
 In Milanote, we will graphically manage the images used in the project, 
@@ -46,44 +59,44 @@ tasks. Below is a timeline with the tasks and their respective start and end dat
 #
 ### Task List
 #### (B)Product
-- B1.0 Product Evolution
+- [``B1.0``](## "TM-06") Product Evolution
   - Explain the changes made in the project, the differences between the first and second deliveries. Evidence must be inserted in the document.
 #### (C)Requirements
-- C1.0 Requirements Evolution
-  - C1.1 All functional requirements are specified, along with a more detailed description of the user needs and the limits of what we can offer.
-  - C1.2 All non-functional requirements are specified, defining the parameters needed to concretely establish the requirements.
+- [``C1.0``](## "TM-03,TM-02") Requirements Evolution
+  - [``C1.1``](## "TM-03") All functional requirements are specified, along with a more detailed description of the user needs and the limits of what we can offer.
+  - [``C1.2``](## "TM-02") All non-functional requirements are specified, defining the parameters needed to concretely establish the requirements.
 #### (G)Design
-- G1.0 Interface Sketches
-  - G1.1 Sketches are created by hand or digitally as proposals for the project’s interface requirements.
-  - G1.2 Each interface proposal is linked to its corresponding project requirement through the established format (Markdown).
-- G2.0 Interface Validation
-  > Collecting feedback from potential users
-  - G2.1 Create an interview format that meets the parameters and validates non-functional requirements (high contrast, interface agility, user experience).
-  - G2.2 Conduct interviews with potential users and record their responses.
-  - G2.3 Create charts and evaluation tables that correctly present the interview results.
-- G3.0 Create a simulation of three functional project requirements that are interactive (preferably the main ones).
-  - G3.1 Develop and link simulation tests with the feedback collection activity.
-  - G3.2 Create charts to validate the simulation.
+- [``G1.0``](## "TM-02, TM-06") Interface Sketches
+  - [``G1.1``](## "TM-02") Sketches are created by hand or digitally as proposals for the project’s interface requirements.
+  - [``G1.2``](## "TM-06") Each interface proposal is linked to its corresponding project requirement through the established format (Markdown).
+- [``G2.0``](## "TM-04, TM-07, TM-06") Interface Validation
+   Collecting feedback from potential users
+  - [``G2.1``](## "TM-04") Create an interview format that meets the parameters and validates non-functional requirements (high contrast, interface agility, user experience).
+  - [``G2.2``](## "TM-04, TM-06") Conduct interviews with potential users and record their responses.
+  - [``G2.3``](## "TM-07") Create charts and evaluation tables that correctly present the interview results.
+- [``G3.0``](## "TM-02, TM-05") Create a simulation of three functional project requirements that are interactive (preferably the main ones).
+  - [``G3.1``](## "TM-07")Develop and link simulation tests with the feedback collection activity.
+  - [``G3.2``](## "TM-07") Create charts to validate the simulation.
 #### (D)Process
-- D1.0 Process Description
+- [``D1.0``](## "TM-01, TM-06") Process Description
   - Describe and include evidence of the sprints, sprint sizes, planning, activities, their responsible parties, roles, and results.
-- D2.0 Process Management
+- [``D2.0``](## "TM-01, TM-06") Process Management
   - Include the tools used for project management (GitHub, Milanote, WhatsApp, Discord).
-- D3.0 Process Metrics
-  - D3.1 Include time measurement metrics for project execution.
-  - D3.2 Include the division of tasks and their weight in relation to the entire project.
-  - D3.3 Organization of the repository.
+- [``D3.0``](## "TM-01, TM-07") Process Metrics
+  - [``D3.1``](## "TM-01, TM-07") Include time measurement metrics for project execution.
+  - [``D3.2``](## "TM-01") Include the division of tasks and their weight in relation to the entire project.
+  - [``D3.3``](## "TM-01") Organization of the repository.
 #### (E)Presentation
-- E1.0 Script Development
+- [``E1.0``](## "TM-04, TM-03") Script Development
   - Create a script that can successfully guide the creation of the video from scratch, specifying scene changes, video pacing, timing for inserting graphic materials, and the necessary dialogue for the explanation (check the video parameters).
-- E2.0 Video Recordings
-  - E2.1 Record the necessary scenes and audio for the video as indicated by the script to assemble them later.
-  - E2.2 Edit the recorded audio to ensure cohesion in tone, volume, and video pacing.
-- E3.0 Video Editing
+- [``E2.0``](## "TM-03, TM-04, TM-05") Video Recordings
+  - [``E2.1``](## "TM-04, TM-05") Record the necessary scenes and audio for the video as indicated by the script to assemble them later.
+  - [``E2.2``](## "TM-03") Edit the recorded audio to ensure cohesion in tone, volume, and video pacing.
+- [``E3.0``](## "TM-05") Video Editing
   - The culmination of all audiovisual materials into a video explaining the product according to the established parameters, with a runtime of approximately 5:00 minutes, with a minimum variance of 20 seconds.
 #### (F)Competencies
-- F1.0 Update generic competencies.
-- F2.0 Update specific competencies.
+- [``F1.0``](## "TM-05") Update generic competencies.
+- [``F2.0``](## "TM-05") Update specific competencies.
 ### Task asignation
 The assignment of tasks and the start and delivery dates are as follows:
 ![Task Assignation](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/Task_assignation.png "This is the task assignation by now")
