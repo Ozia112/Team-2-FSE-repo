@@ -2,7 +2,7 @@
 
 ## User Histories
 
-1. ### [Visual Consistency]([#### Definition of Intuitive](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#definition-of-intuitive))
+1. ### [Visual Consistency](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#definition-of-intuitive)
  
    -  The user wants all the visual elements of the hub to be coherent so that the navigation experience is intuitive. Use the same font type, size, and color for all similar texts,A design consisting of icons, buttons, borders, and shadows. Charts can be styled in a consistent way to make them look like they're part of the same whole.
    
