@@ -2,7 +2,7 @@
 
 ## User Histories
 
-1. ### [Visual Consistency](c)
+1. ### [Visual Consistency](#### Definition of Intuitive)
  
    -  The user wants all the visual elements of the hub to be coherent so that the navigation experience is intuitive. Use the same font type, size, and color for all similar texts,A design consisting of icons, buttons, borders, and shadows. Charts can be styled in a consistent way to make them look like they're part of the same whole.
    
