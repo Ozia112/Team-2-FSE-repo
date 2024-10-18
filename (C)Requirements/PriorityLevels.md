@@ -1,9 +1,10 @@
-# Priority Levels 
+## Priority Levels 
 Priority levels are used to rank the importance of each requirements
+
 ### Classification
-- [ ] High: Essential requirements 
- - [ ] Medium : Desirable requirements
- - [ ] Low: Desirable requirements that can be eliminated without affecting operability
+- High: Essential requirements 
+- Medium : Desirable requirements
+- Low: Desirable requirements that can be eliminated without affecting operability
 
 ### Priorities
 #### Functional requirements
