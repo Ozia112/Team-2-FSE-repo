@@ -2,9 +2,9 @@
 
 ## User Histories
 
-1. ### [Visual Consistency](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#definition-of-intuitive)
+1. ### Visual Consistency
  
-   -  The user wants all the visual elements of the hub to be coherent so that the navigation experience is intuitive. Use the same font type, size, and color for all similar texts,A design consisting of icons, buttons, borders, and shadows. Charts can be styled in a consistent way to make them look like they're part of the same whole.
+   -  The user wants all the visual elements of the hub to be coherent so that the navigation experience is [intuitive]. Use the same font type, size, and color for all similar texts,A design consisting of icons, buttons, borders, and shadows. Charts can be styled in a consistent way to make them look like they're part of the same whole.
    
 3. ### Visual Accessibility
  
@@ -25,7 +25,7 @@
 
 8. ### Ease of Navigation
 
-   -  The user wants the navigation menu to be easily understandable and easy to use for all users to find what they are looking for. A comprehensible navigation menu makes it easy to access all available information, regardless of the user's technical skills.  Users can quickly find what they are looking for, reducing the time and effort required to complete tasks.
+   -  The user wants the navigation menu to be easily understandable and [easy to use] for all users to find what they are looking for. A comprehensible navigation menu makes it easy to access all available information, regardless of the user's technical skills.  Users can quickly find what they are looking for, reducing the time and effort required to complete tasks.
  
 
 9. ### Clarity in Action Buttons
@@ -68,3 +68,12 @@
 
 ### Visual hierarchy:
    - Visual hierarchy is the organization of graphic elements in an interface in a way that guides the user about the importance of each one. Key elements should be highlighted through size, color, contrast or location, making navigation easier and improving the user experience.
+
+
+[intuitive]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#intuitive
+
+[High Contrast]:
+
+[easy to use]:https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#easy-to-identify-and-easy-to-use
+[Appeal]:
+[Visual hierarchy]:
