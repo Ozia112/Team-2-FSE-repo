@@ -17,4 +17,7 @@ Priority levels are used to rank the importance of each requirements
 6. Enrolled Courses Display: *Medium*
 7. Platform Status: *Medium*
 8. Search and Filter Bar: *High*
+
+   
+   > Written by `TM-02`.
    
