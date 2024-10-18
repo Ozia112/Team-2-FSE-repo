@@ -2,7 +2,7 @@
 
 ## User Histories
 
-1. ### [Visual Consistency](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/Definitions.md)
+1. ### [Visual Consistency](c)
  
    -  The user wants all the visual elements of the hub to be coherent so that the navigation experience is intuitive. Use the same font type, size, and color for all similar texts,A design consisting of icons, buttons, borders, and shadows. Charts can be styled in a consistent way to make them look like they're part of the same whole.
    
@@ -48,7 +48,7 @@
 
     -  The user wants to have display options (light/dark mode) to adapt it to their preferences depending on the environment in which they are located.
 
-Definition of Intuitive:
+#### Definition of Intuitive:
    - An interface or system is intuitive when users can use it naturally and fluidly without having to consult manuals or guides. It refers to the ease with which people understand its operation based on their previous experience and without much cognitive effort. 
 
 High Contrast Explanation (WCAG):
