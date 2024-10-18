@@ -85,10 +85,10 @@ Yellow: Low
 
 [intuitive]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#intuitive
 
-[High color contrast]: https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#high-contrast-wcag
+[High color contrast]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#high-contrast-wcag
 
-[easy to use]:https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#easy-to-identify-and-easy-to-use
+[easy to use]:https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#easy-to-identify-and-easy-to-use
 
-[Typography]: https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#appeal-parameters-for-uxui
+[Typography]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#appeal-parameters-for-uxui
 
-[Visual hierarchy]: https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#visual-hierarchy
+[Visual hierarchy]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#visual-hierarchy
