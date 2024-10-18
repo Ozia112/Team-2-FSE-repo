@@ -29,6 +29,7 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
   - Start date(**established in the schedule**)
   - End date(**established in the schedule**)
   - Assign your GitHub user to the task
+
 ### Status Description
 - #### To do
   To do refers to a list of pending tasks or items that require attention.
@@ -42,6 +43,7 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
 - #### Done
   Done indicates that a task or job has been successfully completed.
   ![Done example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/done.jpeg)
+
 And that would be it for the project section on github.
 ## [Milanote board][Milanote]
 In Milanote, we will graphically manage the images used in the project, 
