@@ -1,5 +1,5 @@
 ### 11/10/2024
-- ``(F)Competencies:`` Creation of the competency folders as well as updating the names with the nomenclature.  
+- ``(F)Competencies:`` Creation of the competencies folders as well as updating the names with the nomenclature.  
   **Time lapsed: 00:08:04**
 ---
 ### 13/10/2024
