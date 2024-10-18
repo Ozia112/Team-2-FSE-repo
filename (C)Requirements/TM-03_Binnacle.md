@@ -12,5 +12,8 @@
 ### 15/10/2024
 - ``C1.1| Editing functional requeriments:`` A new requirement was added, and the document hierarchy was structured with titles, subtitles, and sub-subtitles for better organization and clarity, reflecting the update from 7 to 8 requirements. **Time lapsed: 00:10:35**
 
+---
+### 17/10/2024
+- ``C1.1| Editing file requeriments:`` A new file whit name README has been generated with updated data, including linked sections to reflect the latest progress. This update enhances navigation and helps prevent any misunderstandings. **Time lapsed: 00:22:39**
 
 >Written by `TM-03`.
