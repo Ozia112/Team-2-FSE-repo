@@ -8,7 +8,7 @@
    
 2. ### Visual Accessibility
  
-   -    Proper color contrast is critical to ensure that the content is readable. Without good contrast, text can merge with the background, making reading extremely difficult and, in some cases, impossible. Maintaining high color contrast allows users with low vision to clearly discern text from the background, reducing eye strain and improving the user experience.
+   -    Proper color contrast is critical to ensure that the content is readable. Without good contrast, text can merge with the background, making reading extremely difficult and, in some cases, impossible. Maintaining [high color contrast] allows users with low vision to clearly discern text from the background, reducing eye strain and improving the user experience.
    
      
 3. ### Adaptive Design
@@ -38,11 +38,11 @@
 
 10. ### Readable Text Style
 
-    -  The user wants the text to be easy to read, with an appropriate size and font so as not to strain the eyes. Having easy-to-read text is vital for accessibility and visual comfort for users. Proper font size and legible typography reduce eye fatigue, especially on prolonged readings.
+    -  The user wants the text to be easy to read, with an appropriate size and font so as not to strain the eyes. Having easy-to-read text is vital for accessibility and visual comfort for users. Proper font size and legible [typography] reduce eye fatigue, especially on prolonged readings.
 
 11. ### Clear Visual Hierarchy
 
-    -  The user wants the visual hierarchy of the content to help him quickly identify what is most important with in the UadyHub. This allows users to quickly identify the most important information, improving efficiency and the overall experience.
+    -  The user wants the [visual hierarchy] of the content to help him quickly identify what is most important with in the UadyHub. This allows users to quickly identify the most important information, improving efficiency and the overall experience.
 
 12. ### Display Options
 
@@ -85,8 +85,10 @@ Yellow: Low
 
 [intuitive]: https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#intuitive
 
-[High Contrast]:
+[High color contrast]: https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#high-contrast-wcag
 
 [easy to use]:https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#easy-to-identify-and-easy-to-use
-[Appeal]:
-[Visual hierarchy]:
+
+[Typography]: https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#appeal-parameters-for-uxui
+
+[Visual hierarchy]: https://github.com/Ozia112/Team-2-FSE-repo/edit/TM-02-Branch/(C)Requirements/NonFuncionalRequirements.md#visual-hierarchy
