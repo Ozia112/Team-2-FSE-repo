@@ -30,6 +30,20 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
   - End date(**established in the schedule**)
   - Assign your GitHub user to the task
 
+### Status Description
+- #### To do
+  To do refers to a list of pending tasks or items that require attention.
+  ![Todo example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/todo.jpeg)
+- #### In progress
+  In progress refers to the status of a task or work that is being actively developed but has not yet been completed.
+  ![In progress example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/inprogress.jpeg)
+- #### Review
+  Review (or code review) is the process by which other developers review and comment on the code  of  pull request (PR) before it is merged into the main branch of the project.
+  ![Review example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/review.jpeg)
+- #### Done
+  Done indicates that a task or job has been successfully completed.
+  ![Done example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/done.jpeg)
+
 And that would be it for the project section on github.
 ## [Milanote board][Milanote]
 In Milanote, we will graphically manage the images used in the project, 
