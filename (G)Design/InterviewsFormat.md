@@ -20,7 +20,7 @@ Fecha:
 
 3. - ¿Te gustaría practicar otros idiomas dentro de la plataforma?
 
-4. - ¿Si tuvieras un problema con la plataforma, crees que podrías encontrar fácilmente soporte técnico?
+*4. - ¿Si tuvieras un problema con la plataforma, crees que podrías encontrar fácilmente soporte técnico?
 
 5. - ¿Consideras útil la idea de incluir preguntas frecuentes y una opción para contactar por correo electrónico?
 
