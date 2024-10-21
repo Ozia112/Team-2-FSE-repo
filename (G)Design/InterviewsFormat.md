@@ -37,3 +37,6 @@ Fecha:
 11. - ¿Qué te parece el estilo del texto en la aplicación, es legible y cómodo para la vista?
 
 12. - ¿Sientes que la aplicación te ayuda a identificar rápidamente los elementos más importantes?
+
+
+>Written by `TM-04`. 
