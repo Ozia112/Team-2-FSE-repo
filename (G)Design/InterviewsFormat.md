@@ -24,13 +24,12 @@ Fecha:
 
 5. - ¿Consideras útil la idea de incluir preguntas frecuentes y una opción para contactar por correo electrónico?
 
-6. - ¿Cómo calificarías la facilidad para navegar dentro de UadyHub?
+6. - ¿Cómo calificarías la facilidad para navegar dentro de UadyHub?*
 
-7. - ¿Te resultaría sencillo encontrar lo que estarías buscando usando el menú de navegación?
 
 8. - ¿Consideras que los botones de acción son fácilmente identificables?
 
-9. - ¿Sabrías dónde hacer clic sin dudar?
+
 
 10. - ¿Te parece atractivo el diseño de UadyHub?
 
