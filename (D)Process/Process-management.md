@@ -8,11 +8,13 @@ Links to the project log and an explanation of the team’s meeting and work sch
 
 Lastly, a section will outline the final tasks expected from the team.
 
-## Project section(github)
+## -[Project section][Project section] (github)
 ### Intructions in the Project Section
 To ensure the proper use of the project section on GitHub, 
 I will explain how to use it correctly. 
 Keep in mind that the GitHub section serves primarily as a visual guide for the activities that need to be completed for the project.
+
+[Project section]:https://github.com/users/Ozia112/projects/5/views/1
 
 - The main page of the project will appear in your screen if you click in the five option in the main tabs of GitHub.
 ![Project main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project.png "This is what the main page of the project section looks like")
