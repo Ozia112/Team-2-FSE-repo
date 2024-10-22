@@ -26,9 +26,11 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
 ![Item menu](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project(menu_item).png "This is the item menu and there shows the fields information that need to be filled")
   - Task priority
   - Task weight
-  - Start date(**established in the schedule**)
-  - End date(**established in the schedule**)
+  - Start date(**established in the [schedule:][schedule]**)
+  - End date(**established in the [schedule:][schedule]**)
   - Assign your GitHub user to the task
+
+[schedule]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md#timeline-schedule-stage-2
 
 ### Status Description
 - #### To do
