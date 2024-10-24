@@ -8,11 +8,13 @@ Links to the project log and an explanation of the team’s meeting and work sch
 
 Lastly, a section will outline the final tasks expected from the team.
 
-## Project section(github)
+## -[Project section][Project section] (github)
 ### Intructions in the Project Section
 To ensure the proper use of the project section on GitHub, 
 I will explain how to use it correctly. 
 Keep in mind that the GitHub section serves primarily as a visual guide for the activities that need to be completed for the project.
+
+[Project section]:https://github.com/users/Ozia112/projects/5/views/1
 
 - The main page of the project will appear in your screen if you click in the five option in the main tabs of GitHub.
 ![Project main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project.png "This is what the main page of the project section looks like")
@@ -26,9 +28,25 @@ Keep in mind that the GitHub section serves primarily as a visual guide for the 
 ![Item menu](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage2/(D)Process/main_page_github_project(menu_item).png "This is the item menu and there shows the fields information that need to be filled")
   - Task priority
   - Task weight
-  - Start date(**established in the schedule**)
-  - End date(**established in the schedule**)
+  - Start date(**established in the [schedule:][schedule]**)
+  - End date(**established in the [schedule:][schedule]**)
   - Assign your GitHub user to the task
+
+[schedule]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md#timeline-schedule-stage-2
+
+### Status Description
+- #### To do
+  To do refers to a list of pending tasks or items that require attention.
+  ![Todo example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/todo.jpeg)
+- #### In progress
+  In progress refers to the status of a task or work that is being actively developed but has not yet been completed.
+  ![In progress example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/inprogress.jpeg)
+- #### Review
+  Review (or code review) is the process by which other developers review and comment on the code  of  pull request (PR) before it is merged into the main branch of the project.
+  ![Review example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/review.jpeg)
+- #### Done
+  Done indicates that a task or job has been successfully completed.
+  ![Done example](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/assets/Stage2/(D)Process/done.jpeg)
 
 And that would be it for the project section on github.
 ## [Milanote board][Milanote]
