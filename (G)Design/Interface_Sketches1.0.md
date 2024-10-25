@@ -9,4 +9,4 @@ as well as the conceptualization of a proposal to integrate various virtual plat
 
 >Written by `TM-02`. 
 
-[Login]:https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-06-branch/(C)Requirements/FunctionalRequirements.md#authentication-with-institutional-email
+[Login]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md#authentication-with-institutional-email
