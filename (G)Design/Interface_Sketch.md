@@ -13,5 +13,10 @@ as well as the conceptualization of a proposal to integrate various virtual plat
 
 ![Log in](https://github.com/user-attachments/assets/6ae37684-2358-4dcb-af5b-d78bd8be7636)  ![main_page platforms](https://github.com/user-attachments/assets/0c987877-0ddc-4a2c-a998-c8dc0b4f0cc9) 
 
+## Requirements confirmation
+### -[Loign:][Login]
+#### The student must be able to log in to UADY HUB using their institutional email @alumno.uady.mx, in order to ensure that only authorized students can access the platform.
 
->Written by `TM-02`.
+>Written by `TM-02`. 
+
+[Login]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md#authentication-with-institutional-email
