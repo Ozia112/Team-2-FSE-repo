@@ -61,11 +61,16 @@ Task Assignment and Weight
 The tasks will be divided according to the weight of the tasks that has been assigned depending on their complexity and the calculation of the duration of the task.
 Weight and Allowance
 The weights are categorized into three types : Low, Medium and High, which to facilitate the measurement of the distribution, numerical values will be assigned to each category, as follows:
-`Bass`: 1
+
+`Low`: 1
+
 `Medium`: 2
+
 `Height`: 3
+
 The weight relationship with the tasks is as follows:
-![Task Asignation by weights](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/task_assignation_by%20weights.png "Task Assignation")
+
+![Task Asignation by weights](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/assets/task_assignation_by%20weights.png "Task Assignation")
 ### ID’s Assignation.
 The assignment of Identifiers for team members will be implemented to increase the flexibility of team job changes in case a member is absent or previously assigned roles change in the next stages of the project. The enumeration is assigned in order of integration into the team at the time it was formed. At some point in the process, members may change their identifier with prior notice in case it is needed due to an emergency.
 The assignment with team members (09/21/2024) is as follows:
@@ -79,7 +84,7 @@ The assignment with team members (09/21/2024) is as follows:
 ## Schedule
 The tasks assigned to the members can begin to be carried out from tomorrow (09/22/2024) except for categories E and F that have to wait for at least categories B and C to be completed. While D begins to be prepared from day one (09/21/2024) due to administrative reasons of the project.
 The schedule would be as follows:
-![Schedule Graph](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/schedule_graph_stage_1v1.2.png "Schedule program")
+![Schedule Graph](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/assets/schedule_graph_stage_1v1.2.png "Schedule program")
 The schedule is open to changes, the processes may take longer than established, so five days of margin is left in case of inconveniences with the previously established schedule.
 ## Workflow
 ### Protocols 
@@ -93,13 +98,13 @@ Once progress has been made on the work in the repository, a commit should be ma
 Each day, before starting the assigned activities, the team member must create a pull request to copy the files from the main project branch into their personal branch to work with the updated files and avoid accidental overwriting or duplication of unwanted files.
 Below are the steps to follow to create the mentioned pull requests:
 ##
-![Pull request step1](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/click_in_the_pull_request_section.png)
+![Pull request step1](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/assets/click_in_the_pull_request_section.png)
 > Click in the pull request section
 ##
-![Pull request step2](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/create_pull_request.png)
+![Pull request step2](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/assets/create_pull_request.png)
 > Click in the create new pull request button
 ##
-![Compare branchs](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/compare_branches_reference.png)
+![Compare branchs](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/assets/compare_branches_reference.png)
 > Make a comparision between the two branches to create a copy
 ### Rules and acceptable nomenclatures for the repository
   -	Team members must keep their personal branches organized and clean, with their corresponding files placed in their assigned folders for images and task categories.
@@ -110,7 +115,7 @@ Below are the steps to follow to create the mentioned pull requests:
    - File names must always be written in English. If the task was originally written in Spanish, this should be specified next to the file name with “(esp)” beside the file version. The final file must be entirely in English, and it does not need to specify the language as it is assumed to be in English.
 ### Workflow protocol
 The workflow follows simple Git protocols for faster work, so no other person is needed to confirm changes to the main branch. All changes must be stored in different files for modular management, as outlined in the following diagram:
-![Flujo de trbajo](https://github.com/Ozia112/Team-2-FSE-repo/blob/main/assets/work_flow_graph.png)
+![Flujo de trbajo](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/assets/work_flow_graph.png)
 ### Branch Creation
 To be able to work in an orderly manner on the project, the creation of personal branches for each team member is completely necessary. The creation of these branches must follow rules and protocols so that order is maintained in the course of the work.
 #### Rules:
