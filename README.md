@@ -12,24 +12,44 @@
 >We will also need to create a summary/documentary video that encompasses the most important aspects of the first stage of the project, with a script that is clear and with a pleasant rhythm for the viewer. In addition to multimedia content that accompanies the video and graphically illustrates its documentary intention.
 
 ## Table of Contents:
->- [Product](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/B_task)
->    - Product description
->    - Definition of users/clients
->    - Value proposition
->- [Requirements](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/C_task)
->    - Functional requirements
->    - Non functional requirements
->    - Priority Levels
->    - Artifacts(Case use diagram)
->- [Process](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/D_task)
->   - Process description
->   - Process management
->   - Individual contribution metrics
->- Video
->    - [Source assets](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/assets)
->    - [Video presentation](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/E_task/Video%20Presentation.md)
->- [Competencies](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/F_task)
->    - [Generic competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/generic%20competencies.md)
->    - [Specific competencies](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/specific%20competences.md)
+>- [Product]
+>    - [Product description]
+>    - [Definition of users/clients]
+>    - [Value proposition]
+>- [Requirements]
+>    - [Functional requirements]
+>    - [Non functional requirements]
+>    - [Priority Levels]
+>    - [Artifacts(Case use diagram)]
+>- [Process]
+>   - [Process description]
+>   - [Process management]
+>   - [Individual contribution metrics]
+>- [Video]
+>    - [Source assets]
+>    - [Video presentation]
+>- [Competencies]
+>    - [Generic competencies]
+>    - [Specific competencies]
+
+[Product]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/B_task
+[Product description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Product.md
+[Definition of users/clients]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Definition%20%20of%20users-clients1.1.md
+[Value proposition]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/B_task/Value%20proposition1.0.md
+[Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/C_task
+[Functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/Functional%20Requirements.md
+[Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/Non%20Functional%20Requirements.md
+[Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/PriorityLevels.md
+[Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/C_task/DiagramUseCases.md
+[Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/D_task
+[Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/D_task/Process%20description.md
+[Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/D_task/Process%20description.md#schedule
+[Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/D_task/Process%20description.md#tasks-to-be-completed
+[Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/E_task
+[Source assets]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/assets
+[Video presentation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/E_task/Video%20Presentation.md
+[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/F_task
+[Generic competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/generic%20competencies.md
+[Specific competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/F_task/specific%20competences.md
 
 Written by `TM-01`
