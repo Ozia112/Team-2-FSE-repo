@@ -56,9 +56,9 @@
 14. ### Notification colors
     
      -  To distinguish the levels of priority in the tasks, it is marked in colors according to the level of urgency: 
-Red: High 
+Red: High ,
 Blue: Medium
-Yellow: Low
+Green: Low
 
 
 ## Definitions:
