@@ -1,7 +1,7 @@
 # FIS Project Stage 1 (Place holder name: *UADY HUB*)
 ## Introduction
 >The project consists of the [**proposal**][Product] of a software product that serves as a potential solution to a social issue in the environment. It should be able to facilitate certain aspects for the [**target users**][Definition of users/clients] we have in mind when defining the product proposal.
-## First Stage
+## Second Stage
 ### Product Definition
 >The first stage of the project involves defining the proposed product through a general description, identifying the target user and the client, as well as comparing it with other products that may offer similar solutions to ours. Additionally, it aims to create a strong distinction between the alternatives and our product through its value proposition.
 ### Definition of functional and non-functional requirements.
@@ -25,30 +25,40 @@
 >   - [Process description]
 >   - [Process management]
 >   - [Individual contribution metrics]
+>- [Design]
+>   - [UI sketchs]
+>   - [Feedback interview  format]
+>   - [FeedBack Information]
 >- [Video]
->    - [Source assets]
->    - [Video presentation]
+>   - [Source assets]
+>   - [Video Script]
+>   - [Video presentation]
 >- [Competencies]
->    - [Generic competencies]
->    - [Specific competencies]
+>   - [Generic competencies]
+>   - [Specific competencies]
 
-[Product]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/B_task
-  [Product_description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/B_task/Product.md
-  [Definition of users/clients]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/B_task/Definition%20%20of%20users-clients1.1.md
-  [Value proposition]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/B_task/Value%20proposition1.0.md
-[Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/C_task
-  [Functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/Functional%20Requirements.md
-  [Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/Non%20Functional%20Requirements.md
-  [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/PriorityLevels.md
-  [Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/C_task/DiagramUseCases.md
+[Product]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(B)Product
+  [Product_description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/Product.md
+  [Definition of users/clients]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/DefinitionOfUsersClients.md
+  [Value proposition]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ValueProposition.md
+[Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(C)Requirements
+  [Functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md
+  [Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/NonFunctionalRequirements.md
+  [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/%20PriorityLevels.md
+  [Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/DiagramUseCases.md
 [Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(D)Process
   [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process%20description.md
   [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md
   [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Metrics_and_contributions.md
-[Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/E_task
-  [Source assets]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/assets
-  [Video presentation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/E_task/Video%20Presentation.md
-[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/F_task
-  [Generic competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/F_task/generic%20competencies.md
-  [Specific competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/F_task/specific%20competences.md
+[Design]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(G)Design
+  [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/Interface_Sketches1.0.md
+  [Feedback interview  format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md
+  [FeedBack Information]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/FeedbackInformation.md
+[Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(E)Presentation
+  [Source assets]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/assets/Stage2/(E)Presentation
+  [Video Script]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(E)Presentation/VideoScriptP1.md
+  [Video presentation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(E)Presentation/VideoPresentation.md
+[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(F)Competencies
+  [Generic competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(F)Competencies/GenericCompetencies.md
+  [Specific competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(F)Competencies/SpecificCompetences.md
 Written by `TM-01`
