@@ -51,7 +51,7 @@
   [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md
   [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Metrics_and_contributions.md
 [Design]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(G)Design
-  [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/Interface_Sketches1.0.md
+  [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/Interface_Sketch.md
   [Feedback interview  format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md
   [FeedBack Information]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/FeedbackInformation.md
 [Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(E)Presentation
