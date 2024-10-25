@@ -33,7 +33,7 @@ The work protocols will be managed in brief iterations that will be reviewed eve
 - After completing a commit on a task, immediately create a pull request (PR) to update the repository as soon as possible. (Changes will only be reviewed in the Stage 2 branch.)
 -	Each folder must contain a README.md file, serving as an explanatory text of the folder and its table of contents to allow for smoother navigation for the reader.
 ##### Naming
-- Name your files using PascalCase (ExampleFileName), kebab-case (Example-file-name), or snake_case (Example_file_name). // The naming convention is still to be decided.
+- Name your files using PascalCase (ExampleFileName)
 - The images used for tasks should be stored in specific folders depending on which file they are used in, following this structure: "assets/Stage2/ExampleTask/".
 - Activity folders now will be named with their ID in parentheses followed by their category. Example: (D)Process.
 -	Images should always be saved in the folder named assets, and they must have descriptive names in English to ensure image references in markdown files are well-structured.
