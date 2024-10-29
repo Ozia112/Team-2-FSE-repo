@@ -68,7 +68,7 @@ Throughout this month, the proposal evolves to a product that might help and res
 [Design]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(G)Design
   [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterfaceSketch.md
   [Feedback interview  format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md
-  [FeedBack Information]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/FeedbackInformation.md
+  [FeedBack Information]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewResultsGraphs.md
 [Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(E)Presentation
   [Source assets]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/assets/Stage2/(E)Presentation
   [Video Script]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(E)Presentation/VideoScriptP1.md
