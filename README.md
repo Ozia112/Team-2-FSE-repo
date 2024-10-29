@@ -59,7 +59,7 @@ Throughout this month, the proposal evolves to a product that might help and res
 [Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(C)Requirements
   [Functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md
   [Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/NonFunctionalRequirements.md
-  [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/%20PriorityLevels.md
+  [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/PriorityLevels.md
   [Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/DiagramUseCases.md
 [Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(D)Process
   [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/ProcessDescription.md
