@@ -2,6 +2,14 @@
 ## Introduction
 >The project consists of the [**proposal**][Product] of a software product that serves as a potential solution to a social issue in the environment. It should be able to facilitate certain aspects for the [**target users**][Definition of users/clients] we have in mind when defining the product proposal.
 Throughout this month, the proposal evolves to a product that might help and resolve problems found in situations that some new students at the Autonomous University of Yucatan (UADY) can face. These students often struggle with remembering and constantly checking the various online courses platforms that the university offers. Currently, the potential user group is limited to the Faculty of Mathematics. 
+## Roles
+-	```Project Manager```: TM-01
+-	```Repository Manager```: TM-01
+-	```Log Keeper```: TM-07, 
+- ```Log keeper assistant```: TM-03
+-	```Task Owner```: All members
+-	```Assistant```: TM-03, TM-05, TM-06, TM-07
+
 ## Second Stage
 ### Product Evolution
 >In this second delivery, changes were made compared to the first, which were then evaluated and compared to more precisely identify when began the project increment between September and October.
@@ -21,6 +29,7 @@ Throughout this month, the proposal evolves to a product that might help and res
 >    - [Product description][Product_description]
 >    - [Definition of users/clients]
 >    - [Value proposition]
+>    - [Product Evolution]
 >- [Requirements]
 >    - [Functional requirements]
 >    - [Non functional requirements]
@@ -46,17 +55,18 @@ Throughout this month, the proposal evolves to a product that might help and res
   [Product_description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/Product.md
   [Definition of users/clients]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/DefinitionOfUsersClients.md
   [Value proposition]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ValueProposition.md
+  [Product Evolution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ProducteEvolution.md
 [Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(C)Requirements
   [Functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md
   [Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/NonFunctionalRequirements.md
   [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/%20PriorityLevels.md
   [Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/DiagramUseCases.md
 [Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(D)Process
-  [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process%20description.md
-  [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md
-  [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Metrics_and_contributions.md
+  [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/ProcessDescription.md
+  [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/ProcessManagement.md
+  [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/MetricsAndContributions.md
 [Design]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(G)Design
-  [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/Interface_Sketch.md
+  [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterfaceSketch.md
   [Feedback interview  format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md
   [FeedBack Information]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/FeedbackInformation.md
 [Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(E)Presentation
