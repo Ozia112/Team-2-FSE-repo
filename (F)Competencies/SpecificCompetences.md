@@ -1,21 +1,28 @@
 # Especific competences #
 
-**historia de usuario** 
-- Durente la escritura de las historias de usuario se usaron guias de scrum para tener una buena redaccion de las mismas.
 
-**comunicacion** 
--  Durante el proyecto uno de ls factores humanos mas importantes a sido la comuniccacion entre los integrantes haciendo el trabajo mas facil y menos pesado, pudiendo llevar un ritmo constante en el desarropyo del proyecto.
+**User Story**
+
+- During the writing of user stories, Scrum guidelines were used to ensure clear and effective drafting.  
+
+**Communication**
+
+- During the project, one of the most important human factors was the communication among team members, which made the work easier and less burdensome, allowing for a steady pace in the project's development.  
+
+**Scrum**
+
+- With the use of Scrum, the project was built through a series of iterations called sprints, which divided the project into smaller fragments.  
+
+**Backlog**
+
+- A list of the project’s various activities that helped us prioritize tasks, from the most to the least important.  
+
+**Sprints**
+
+- Sprints were used to focus on a set of specific tasks that could be accomplished within the designated time frame. 
+
+**Tasks**
+
+- Each team member had a set of tasks assigned by the team leader, who created a task table specifying what each member would do.  
   
-**scrum** 
-- con el uso de scrum el proyecto se construyo en una serie de iteraciones llamadas sprints que dividen el proyecto en fragmentos más pequeños.
-
-**backlog** 
-- Lista de las diferentes actividades del proyecto que nos ayudo a priorizar las tareas de las mas importantes a las de menor importancia .
-
-**sprints** 
-- se uso para enfocarnos en un grupo de tareas especificas que sean alcanzables en el lapzo de timpo designado.
-
-**tareas**
-- Cada integrante de equipo tenia una serie de tareas designadas por el lider del equipo el cual realizo una tabla de taras donde se decia que haria cada miembro del equipo
-
 Written by `TM-05`
