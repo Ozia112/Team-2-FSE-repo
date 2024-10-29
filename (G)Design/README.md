@@ -9,9 +9,9 @@
 ## 
 
 # Table of Contents:
-- [Simulation Tests](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-07-branch/(G)Design/Interface_Sketch.md#second-sketch)
-- [Interview Format](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-07-branch/(G)Design/InterviewsFormat.md)
-- [Interview Results Graphs](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-07-branch/(G)Design/InterviewResultsGraphs.md)
+- [Simulation Tests](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/Interface_Sketch.md#second-sketch)
+- [Interview Format](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md)
+- [Interview Results Graphs](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewResultsGraphs.md)
 
 # Binnacles :
 > [TM-7](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-07-branch/(G)Design/.TM-07_Binnacle.md)
