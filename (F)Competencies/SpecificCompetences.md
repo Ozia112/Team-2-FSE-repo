@@ -1,21 +1,21 @@
 # Especific competences #
 
-**Risk Management** 
-- Ability to identify, assess and evaluate the risks that may affect the project through strategies and reviewing tasks periodically.
+**historia de usuario** 
+- Durente la escritura de las historias de usuario se usaron guias de scrum para tener una buena redaccion de las mismas.
 
-**Planning and Organization** 
-- Ability to structure tasks, schedules and resources efficiently, making the organization of the team and its members faster.
+**comunicacion** 
+-  Durante el proyecto uno de ls factores humanos mas importantes a sido la comuniccacion entre los integrantes haciendo el trabajo mas facil y menos pesado, pudiendo llevar un ritmo constante en el desarropyo del proyecto.
+  
+**scrum** 
+- con el uso de scrum el proyecto se construyo en una serie de iteraciones llamadas sprints que dividen el proyecto en fragmentos más pequeños.
 
-**Technical Knowledge** 
-- Technical skills related to the specific area of ​​the project such as audio and video editing and the creation of the project interface.
+**backlog** 
+- Lista de las diferentes actividades del proyecto que nos ayudo a priorizar las tareas de las mas importantes a las de menor importancia .
 
-**Effective Communication** 
-- Ability to transmit clear and concise information between team members to work harmoniously with others, being able to continue the work if it is dependent on others as well as helping to understand.
+**sprints** 
+- se uso para enfocarnos en un grupo de tareas especificas que sean alcanzables en el lapzo de timpo designado.
 
-**Problem Solving** 
-- Ability to find solutions to unknown challenges without putting other members at risk and solve them in the assigned time of the task.
-
-**Resource Management**
-- Ability to assign and manage resources within the project, facilitating the search and accessibility of these resources, helping members.
+**tareas**
+- Cada integrante de equipo tenia una serie de tareas designadas por el lider del equipo el cual realizo una tabla de taras donde se decia que haria cada miembro del equipo
 
 Written by `TM-05`
