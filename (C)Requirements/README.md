@@ -12,7 +12,7 @@
 - [Diagram Use Cases](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/DiagramUseCases.md)
     - A visual presentation of the project's use cases in diagram format.
 
-- [TM-03_Binnacle](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/TM-03_Binnacle.md)
+- [TM-03_Binnacle](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-03-Branch/(C)Requirements/.TM-03_Binnacle.md)
     - The logbook of member TM-03, where progress, timelines, and changes made during the project development are recorded.
 
 - [TM-02_Binnacle](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/TM-02_Binnacle.md)
