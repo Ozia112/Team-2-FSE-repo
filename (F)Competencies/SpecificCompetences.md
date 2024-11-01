@@ -1,21 +1,28 @@
 # Especific competences #
 
-**Risk Management** 
-- Ability to identify, assess and evaluate the risks that may affect the project through strategies and reviewing tasks periodically.
 
-**Planning and Organization** 
-- Ability to structure tasks, schedules and resources efficiently, making the organization of the team and its members faster.
+**User Story**
 
-**Technical Knowledge** 
-- Technical skills related to the specific area of ​​the project such as audio and video editing and the creation of the project interface.
+- During the writing of user stories, Scrum guidelines were used to ensure clear and effective drafting.  
 
-**Effective Communication** 
-- Ability to transmit clear and concise information between team members to work harmoniously with others, being able to continue the work if it is dependent on others as well as helping to understand.
+**Communication**
 
-**Problem Solving** 
-- Ability to find solutions to unknown challenges without putting other members at risk and solve them in the assigned time of the task.
+- During the project, one of the most important human factors was the communication among team members, which made the work easier and less burdensome, allowing for a steady pace in the project's development.  
 
-**Resource Management**
-- Ability to assign and manage resources within the project, facilitating the search and accessibility of these resources, helping members.
+**Scrum**
 
+- With the use of Scrum, the project was built through a series of iterations called sprints, which divided the project into smaller fragments.  
+
+**Backlog**
+
+- A list of the project’s various activities that helped us prioritize tasks, from the most to the least important.  
+
+**Sprints**
+
+- Sprints were used to focus on a set of specific tasks that could be accomplished within the designated time frame. 
+
+**Tasks**
+
+- Each team member had a set of tasks assigned by the team leader, who created a task table specifying what each member would do.  
+  
 Written by `TM-05`
