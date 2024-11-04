@@ -7,5 +7,8 @@ Original
 # Criterio de aceptación 
 * Dado que el usuario quiera añadir un nuevo horario, cuando toque el boton *crear un horario* luego se le mostrara una nueva ventana.
 * Dado que el usuario desee recibir una notificación de cuando sera su clase, cuando toque el boton *notificarme*, *luego* se le confirmara que sera notificado.
-* Dado que el usuario desee editar el horario, cuando toque el boton de *icono de lapiz*, luego se le mostrara de nueva la ventana que quiere editar.
+* Dado que el usuario desee editar el horario, cuando toque el boton de *editar*, luego se le mostrara de nueva la ventana que quiere editar.
+# Wireframes y simulaciones
+
+  
 
