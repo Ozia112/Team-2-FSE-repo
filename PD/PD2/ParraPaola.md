@@ -18,6 +18,12 @@
 
 -*Enter*: Botón que al darle click ingresa al sistema.
 
-![Login](https://github.com/user-attachments/assets/b14b6a91-b0e5-4f41-90a0-67241c517d8f)
+
+Link: https://www.figma.com/proto/VAYW3svCC8Lbb7rRKgJjAJ/PD2_ParraPaola?node-id=6-85&node-type=canvas&t=RhbdewpQQfYzMupL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1 
+
+![PD2_ParraPaola](https://github.com/user-attachments/assets/256a0476-2885-4b12-a136-85cea3b3f28c)
+
+
+
 
 >Written by  `TM-02`.
