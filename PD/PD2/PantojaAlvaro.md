@@ -10,7 +10,11 @@ Busqueda
 * Cada búsqueda del usuario se guardara en un historial de búsqueda
 
 wireframe :
+
 https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/PD/PD2/PantojaAlvaro_PD(1).png
 
+assets/Stage2/PD/PantojaAlvaro_PD(2).png
 
- Link simulación :  https://www.figma.com/proto/gfyy6vQSQwZnGjEeGmLMVB/pd_2?node-id=4-2&node-type=frame&t=Ck3uHXp22CYhroSd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
+
+ Link simulación : 
+ https://www.figma.com/proto/gfyy6vQSQwZnGjEeGmLMVB/pd_2?node-id=4-2&node-type=frame&t=Ck3uHXp22CYhroSd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
