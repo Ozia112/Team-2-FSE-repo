@@ -5,20 +5,19 @@
 ### Descripción:
 - El usuario se registrará con su correo institucional para acceder al sistema.
 ### Historia de usuario:
-- **Como** estudiante **quiero** acceder al sistema con el mismo correo y contraseña **para** ahorrar tiempo y reducir el riesgo de confusión y error al ingresar información de inicio de sesión
-(para acceder a los servicios de informacion que proporciona la plataforma). 
+- **Como** estudiante **quiero** acceder al sistema con el mismo correo y contraseña **para** acceder a mi informacion personal dentro de la plataforma junto con la informacion que se proporcione. 
 ### Criterios de aceptación: 
 -  El usuario debe estar registrado en el sistema.
 - El usuario debe contar con un correo institucional y contraseña dados por el mismo.
-- El usuario debe acceder en un horario distinto de las fechas establecidas en el sistema para el mantenimiento de este mismo.
-### Prototipo Login para celular:
+- En caso de algun error se notificara al usuario.
+- Si alguna de las credenciales es incorrecta a las anteriormente registrada no se la dara acceso al sistema.
+### Prototipo-Login para celular:
 
--*School Enrollment*: Espacio para ingresar la matrícula.
+-*institutional mail*: Espacio para ingresar el correo institucional.
 
 -*Password*: Espacio para ingresar la contraseña.
 
 -*Enter*: Botón que al darle click ingresa al sistema.
 
-![Login](https://github.com/user-attachments/assets/b14b6a91-b0e5-4f41-90a0-67241c517d8f)
-
->Written by  `TM-02`.
+[prototipo](https://www.figma.com/proto/WvjhIytEmTgpsn0ml86WUS/Untitled?node-id=0-1&t=s8JX0rZRKYmnFRdN-1)
+>Written by  `TM-05`.
