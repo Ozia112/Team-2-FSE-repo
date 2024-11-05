@@ -13,7 +13,7 @@ wireframe :
 
 https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/PD/PD2/PantojaAlvaro_PD(1).png
 
-assets/Stage2/PD/PantojaAlvaro_PD(2).png
+https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/PD/PantojaAlvaro_PD(2).png
 
 
  Link simulación : 
