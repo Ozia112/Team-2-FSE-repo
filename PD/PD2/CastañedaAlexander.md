@@ -1,5 +1,5 @@
 # Requirimiento Funcional 
-Original
+[Original](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/PD/PD2/RForiginal.jpg)
 # Descripción 
 * El usuario quiere añadir un horario de sus clases
 # Historia de Usuario 
