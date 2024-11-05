@@ -19,5 +19,5 @@
 
 -*Enter*: Botón que al darle click ingresa al sistema.
 
-[prototipo](https://www.figma.com/proto/WvjhIytEmTgpsn0ml86WUS/Untitled?node-id=0-1&t=s8JX0rZRKYmnFRdN-1)
+[prototipo interactivo](https://www.figma.com/proto/WvjhIytEmTgpsn0ml86WUS/Untitled?node-id=0-1&t=s8JX0rZRKYmnFRdN-1)
 >Written by  `TM-05`.
