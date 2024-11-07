@@ -91,5 +91,13 @@ To be able to work in an orderly manner on the project, the creation of personal
 >    -	Team members must keep their personal branches organized and clean, with their corresponding files placed in their assigned folders for images and task categories.
 >    - The usage of assets like images need to be upload in the folder named “assets”  
 
+
+```mermaid
+graph
+
+
+
+```
+
 Time lapsed: 02:34:26 07/10/2024
 >Written by `TM-01`.
