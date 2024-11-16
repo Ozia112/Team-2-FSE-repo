@@ -39,7 +39,8 @@ Example:
  Sprint 1
 
  Department: Design
-
+ 
+ 16/10/24
    > D2.0 Creation of the file and sections: Introduction, Project (GitHub), Milanote, Task Assignment, Timeline, and Task List. Time lapsed: 06:30:50
    > 
 >---
