@@ -178,3 +178,5 @@ The user modifies the filtering criteria in the Filter Bar.
 The user applies the new filters.
 
 Expected Result: The system updates the displayed data according to the new filtering criteria.
+
+> Written by `TM-02`
