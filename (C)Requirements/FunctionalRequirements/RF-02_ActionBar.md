@@ -1,81 +1,86 @@
 # Action Bar
 
-- Barra que conteiene un conjunto de botones que permiten la rápida navegación por la plataforma.
+- A bar containing a set of buttons that allow quick navigation through the platform.
 
-## Descripción
-- La barra de accion debe de contar con tres botones principales que se comportan como posiciones o estados en la aplicación.
-- No puede haber mas de un botón presionado y estos se resaltan durante todo el momento en el que el usuario este dentro de esa `accion`.
-- Las acciones se definen como las posiciones en las que puede estar la aplicación. En total son tres y son:
-  - Notificaciones
-  - Pagina de inicio
-  - Añadir Plataforma
-### Notificaciones
-- El usuario podrá acceder a esta sección a traves del boton izquierdo en la barra de acción.
-- En la seccion de `notificaciones`, el usuario podrá ver diferents `items` que contienen información relevante. Estos `items` se dividen en tres tipos:
-  - `Tarea`
-  - `Examen`
-  - `Noticia/Novedad`  
-Cada `item` de notificación incluye:
-    - Nombre de la plataforma
-    - Fecha de inicio
-    - Fecha de expiración(excepto para las noticias, que no tienen fecha de expiración).
-    - Nombre del curso
-    - Descripción
-    - Una etiqueta que indique el tipo de notificación.
-- Al apretar la opción de `ver` en el item de notificación se redirigirá al usuario a la `plataforma`, `curso` y `actividad/noticia` especificado en la notificación.
-- Estas notificaciones podran ser buscadas facilmente a traves del [`RF-03`], el sistema de busqueda y filtrado de la aplicación.
+## Description
+- The action bar must have three main buttons that act as positions or states within the application.
+- Only one button can be pressed at a time, and these buttons remain highlighted as long as the user is within that `action`.
+- The actions are defined as the positions the application can be in. There are three in total:
+  - Notifications
+  - Home Page
+  - Add Platform
 
-### Pagina de inicio
-- El usuario puede acceder a esta sección mediante el boton central.
-- En esta seccion se muestran items que pueden contener las plataformas(`item.plataforma`) o los cursos de estas plataformas(`item.curso`).  
-Para los items de tipo plataforma:
-  - :one: Podrás acceder a las plataformas que tengas registradas previamente mediante un click o presionarlas.
-  - :two: Se indicará la cantidad de notificaciones que contengan las plataformas y se colorearan dependiendo de la cantidad:
-    - <span style="background-color:#62c51e;color:#262628;"><strong>Verde</strong></span>: Este color indica que no hay notificaciones pendientes en la plataforma, alerta baja.
-    - <span style="background-color:#0c2e93;color:#ffffff;"><strong>Azúl</strong></span>: Este color indica la cantidad media de notificaciones 1-3, alerta media.
-    - <span style="background-color:#ff2323;color:#ffffff;"><strong>Rojo</strong></span>: Este color indica la cantidad más alta de notificaciones, alerta alta.
-    >*Los colores son extraidos de la guia de diseño en la documentación*
-  - :three: En la esquina superior izquierda se mostrará información del estado de la plataforma:
-    - <span style="background-color:#3bac31;color:#262628;"><strong>Verde</strong></span>: Online, la plataforma esta funcionando correctamente y se puede acceder sin problemas.
-    - <span style="background-color:#ffde66;color:#262628;"><strong>Amarillo</strong></span>: La plataforma esta en mantenimiento, no se puede acceder a la plataforma debido a que se esta trabajando en ella. Normalmente los estudiantes son avisados antes de que esto suceda.
-    - <span style="background-color:#e66e34;color:#262628"><strong>Naranja</strong></span>: La plataforma esta fuera de servicio por algun problema no especificado. El usuario no puede acceder a la plataforma debido a que esta fuera de servicio.
-     >*Los colores son extraidos de la guia de diseño en la documentación*
-  - :four: Se muestra el logo de la plataforma.
-  - :five: Se muestra el nombre de la plataforma.
-  - :six: Se muestra una breve descripcion de la plataforma.
+### Notifications
+- The user can access this section through the left button on the action bar.
+- In the `notifications` section, the user can see different `items` containing relevant information. These `items` are divided into three types:
+  - `Task`
+  - `Exam`
+  - `News`  
+  Each notification `item` includes:
+    - Platform name
+    - Start date
+    - Expiration date (except for news, which do not have an expiration date)
+    - Course name
+    - Teacher name
+    - A label indicating the type of notification
+- By pressing the `view` option on the notification item, the user will be redirected to the specified `platform`, `course`, and `activity/news` in the notification.
+- These notifications can be easily searched through [`RF-03`], the application's search and filter system.
 
- - Para los items tipo curso:
-   - :one: Se heredan las carateristicas: :two:,:three: y :five: de los `items.plataforma`.
-   - :two: Se muestra el nombre del curso.
-   - :three: Se muestra el numero de semestre en el que se encuentra el curso.
-   - Se muestra el nombre del profesor a cargo del curso.
-- Los items pueden ser buscados y filtrados como se especifica en [`RF-03`].
-### Agregar plataforma
-- El usuario puede acceder a esta seccion mediante el boton derecho de la barra de acción.
-- En esta sección se podrá agregar plataformas ingresando el URl en un campo de texto indicado en la plataforma. La aplicación detectará la plataforma y creará el item que sera mostrado en a seccion de pagina de inicio.
-- La plataforma utilizará las credenciales introducidas previamente cuando se inició sesión por primera vez(`correo institucional`). En caso de que la plataforma ingresada necesite usuario y contraseña que no sean el correo institucional la aplicación te pedirá el correo o usuario y la contraseña para poder ingresar y en caso de necesitarlo un captcha.
-- La primera vez que el usuario inicie sesion en la aplicación se mostrará la seccion de agregar plataforma y las otras estarán bloqueadas hasta que se termine el porceso de agregar una plataforma.
-``` mermaid
+### Home
+- The user can access this section through the central button.
+- In this section, items are displayed that can contain platforms (<span style="color:#CE9178;">item.platmform</span>) or courses from these platforms (<span style="color:#CE9178;">item.course</span>).
+For platform-type items:
+  - :one: You can access the platforms you have previously registered by clicking or pressing them.
+  - :two: The number of notifications contained in the platforms will be indicated and colored depending on the quantity:
+    - <span style="background-color:#62c51e;color:#262628;"><strong>Green</strong></span>: This color indicates that there are no pending notifications on the platform, low alert.
+    - <span style="background-color:#0c2e93;color:#ffffff;"><strong>Blue</strong></span>: This color indicates a medium number of notifications, 1-3, medium alert.
+    - <span style="background-color:#ff2323;color:#ffffff;"><strong>Red</strong></span>: This color indicates the highest number of notifications, high alert.
+    >*The colors are extracted from the design guide in the documentation*
+  - :three: In the upper left corner, information about the platform's status will be displayed:
+    - <span style="background-color:#3bac31;color:#262628;"><strong>Green</strong></span>: Online, the platform is functioning correctly and can be accessed without problems.
+    - <span style="background-color:#ffde66;color:#262628;"><strong>Yellow</strong></span>: The platform is under maintenance, it cannot be accessed because it is being worked on. Normally, students are notified before this happens.
+    - <span style="background-color:#e66e34;color:#262628"><strong>Orange</strong></span>: The platform is out of service due to an unspecified problem. The user cannot access the platform because it is out of service.
+     >*The colors are extracted from the design guide in the documentation*
+  - :four: The platform's logo is displayed.
+  - :five: The platform's name is displayed.
+  - :six: A brief description of the platform is displayed.
+
+ - For course-type items:
+   - :one: The characteristics :two:, :three:, and :five: from `items.platform` are inherited.
+   - :two: The course name is displayed.
+   - :three: The semester number of the course is displayed.
+   - The name of the professor in charge of the course is displayed.
+- The items can be searched and filtered as specified in [`RF-03`].
+
+Sure, here's the translation:
+
+### Add Platform
+- The user can access this section through the right button on the action bar.
+- In this section, platforms can be added by entering the URL in a text field indicated on the platform. The application will detect the platform and create the item that will be displayed in the home page section.
+- The platform will use the credentials previously entered when the user first logged in (`institutional email`). If the entered platform requires a username and password different from the institutional email, the application will ask for the email or username and password to log in, and if necessary, a captcha.
+- The first time the user logs into the application, the add platform section will be displayed, and the others will be locked until the process of adding a platform is completed.
+## UADY HUB's data behavior:
+```mermaid
 graph TD
-    A[Usuario ingresa correo y contraseña] --> B[Iniciar sesión]
-    B --> C[Correo Institucional]--> G
-    B --> C2[Contraseña]--> G
-    B --> D[Crear item de plataforma]
-    D --> E[Pedir URL de la plataforma escolar]
-    E --> F[Usuario ingresa URL]
-    F --> G[Utilizar correo y contraseña en la plataforma]
-    G --> H[Captcha, si es necesario]
+    A[User enters email and password] --> B[Log in]
+    B --> C[Institutional Email] --> G
+    B --> C2[Password] --> G
+    B --> D[Create platform item]
+    D --> E[Request school platform URL]
+    E --> F[User enters URL]
+    F --> G[Use email and password on the platform]
+    G --> H[Captcha, if necessary]
     H --> I[URL]
-    I --> J[Buscar datos de la plataforma]
-    J --> K[Estado: <br/>- Online<br/>- Maintenance<br/>- Offline]
-    J --> K2[Nombre de plataforma] --> L
-    J --> K3[Cursos inscritos] --> L
-    J --> K4[Numero de notificaciones] --> L
+    I --> J[Fetch platform data]
+    J --> K[Status: <br/>- Online<br/>- Maintenance<br/>- Offline]
+    J --> K2[Platform name] --> L
+    J --> K3[Enrolled courses] --> L
+    J --> K4[Number of notifications] --> L
     
-    K --> L[Mostrar en items.plataforma]
+    K --> L[Display in items.platform]
     J --> 
-    L --> M[Mostrar en items. cursos]
-    subgraph Base de Datos
+    L --> M[Display in items.courses]
+    subgraph Database
         C
         C2
         I
@@ -86,7 +91,7 @@ graph TD
         K4
     end
 ```
-
+## ER graph
 ``` mermaid
 erDiagram
     USER {
