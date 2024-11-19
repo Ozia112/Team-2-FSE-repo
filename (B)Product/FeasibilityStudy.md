@@ -22,7 +22,7 @@ There are similar projects within the UADY aimed at managing academic platforms,
 
 ## Technical Requirements
 
-The project will utilize a variety of programming languages and tools, including Python, C++, Java, HTML, PHP, and platforms such as Jupyter Notebook. The system must be compatible with a wide range of devices, including smartphones, tablets, and desktop computers, and it must function on both Android and iOS operating systems. This ensures that students can access the platform from any device of their choice.
+The project will utilize a variety of programming languages and tools, including Python, MySQL, C++, Java, HTML, PHP, and platforms such as Jupyter Notebook. The system must be compatible with a wide range of devices, including smartphones, tablets, and desktop computers, and it must function on both Android and iOS operating systems. This ensures that students can access the platform from any device of their choice.
 
 ## Identified Risks
 
