@@ -34,15 +34,30 @@ Each department must create its respective binnacle, ensuring the following poin
 
    - Duration of the activity
 
-Example:
->---
- Sprint 1
 
- Department: Design
- 
- 16/10/24
-   > D2.0 Creation of the file and sections: Introduction, Project (GitHub), Milanote, Task Assignment, Timeline, and Task List. Time lapsed: 06:30:50
-   > 
->---
 
-You need to create the binnacle in your respective department's folder. Once you finish the binnacle, you must submit a pull request to my department (Binnacles/Changelogs) for review.
+## Template
+### DD/MM/YY 
+Department: [<span style="color:#CE9178;">Department</span>]  
+[<span style="color:#CE9178;">ID-Activity</span>]: 
+   >- [<span style="color:#CE9178;">Parts</span>] 
+   >- [<span style="color:#CE9178;">Parts</span>]
+   >- [<span style="color:#CE9178;">Parts</span>]
+   >- [<span style="color:#CE9178;">Parts</span>]
+   
+   Time lapsed: [<span style="color:#CE9178;">HH/MM/SS</span>]
+> 
+---
+Example: 
+
+>---
+### 12/11/2024
+Department: [<span style="color:#CE9178;">Desing</span>]  
+[<span style="color:#CE9178;">TM-7</span>]: 
+   >- [<span style="color:#CE9178;">D2.0</span>] 
+   >- [<span style="color:#CE9178;">Creation</span>]
+   >- [<span style="color:#CE9178;">Introduction</span>]
+
+   Time lapsed: [<span style="color:#CE9178;">HH/MM/SS</span>]
+> 
+---
