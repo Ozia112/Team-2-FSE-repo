@@ -16,4 +16,16 @@ Deparment: (C)Requirements
 >- In the process of evolving the requirements, both functional and non-functional requirements were reduced to simplify the scope and improve development feasibility. Functional requirements were reduced from 8 to 3, combining and eliminating key elements. Non-functional requirements were consolidated into broader categories, such as "Visual Consistency and Accessibility" and "Ease of Use," removing those deemed non-essential. This optimization ensures a more focused and efficient development process.  
 Time lapsed: 00:35:31
 ---
-pendiente terminar
+
+### 19/11/2024
+Deparment: (G)Design
+(G3.0) Matching requirements
+>- Taking into account the functional requirements already defined in the departments folder, I added them to the document along with a brief description that explains their function. Additionally, an image was included to validate each requirement, assigning an "Accepted" or "Correct" value for this criterion.  
+Time lapsed: 00:30:27
+---
+### 19/11/2024
+Deparment: (G)Design
+(G3.0) G3.1 Matching artefacts
+>- With the requirements refined and detailed, the prototype was created to validate the functional requirements. In this activity, I only added the description of the task and then included the link that takes the user directly to the matching of the artifacts, which is the verification of the user stories in action.  
+Time lapsed: 00:06:50
+

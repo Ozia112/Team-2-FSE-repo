@@ -133,3 +133,56 @@ erDiagram
 ```
 
 [`RF-03`]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-3/PD/PD2/OrtizIsaac.md
+
+
+
+# Artifacts 
+- User Story:
+As a user, I want to quickly access different sections of the application through the Activity Bar to improve my workflow.
+
+
+- Acceptance Criteria:
+    - The Activity Bar must contain icons for the main sections of the application.
+
+    - Clicking on an icon should change the view to that section.
+
+- Use Case:
+
+User: Person using the application and navigating through the Activity Bar.
+
+- Scenario:
+
+**Scenario 1**: Successful Navigation
+
+Context: The user is on the main screen of the application.
+
+Actions:
+
+The user clicks on an icon in the Activity Bar.
+
+Expected Result: The application changes to the corresponding view, and the user can interact with that section.
+
+**Scenario** 2: Icon Customization
+
+Context: The user wants to customize the Activity Bar.
+
+Actions:
+
+The user opens the settings menu of the Activity Bar.
+
+The user drags and drops icons to rearrange them.
+
+The user hides some icons.
+
+Expected Result: The Activity Bar updates according to the user's preferences, and changes are reflected immediately.
+
+Scenario 3: Personalized Activity Bar on Start
+
+Context: The user has previously customized the Activity Bar.
+
+Actions:
+
+The user opens the application.
+
+Expected Result: The Activity Bar displays the icons in the user's customized arrangement.
+> Written by `TM-02`
