@@ -10,6 +10,10 @@ Centralized Management: Users can organize and manage multiple platforms through
 
 Simplified Access: Uady Hub offers a single sign-on process where users only need one username and password. These credentials are saved in the user's profile, allowing for quick and hassle-free access to all integrated platforms. This feature simplifies the login process and reduces the complexity associated with managing multiple accounts.
 
-These innovative features make Uady Hub a superior solution for educational management, providing a more integrated and user-friendly experience compared to traditional platforms. By centralizing multiple educational resources and simplifying access, Uady Hub enhances the overall learning experience for students.
+
+
+The *innovation* of Uady Hub also extends to course filtering. Unlike Moodle, where users typically have to search and switch platforms to access different courses, Uady Hub, with all platforms integrated, allows filtering of all the courses a user is enrolled in. This eliminates the need to switch from one platform to another, enabling students to quickly find the courses and materials they need within a single unified interface.
+
+This greatly facilitates course navigation and management, improving efficiency and allowing students to focus more on their learning rather than on the logistics of accessing their courses.
 
 > Written by  `TM-02`
