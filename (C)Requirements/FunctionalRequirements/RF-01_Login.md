@@ -22,3 +22,68 @@
 - In the third bar you will find that it says login, after filling in your data correctly you will touch the bar that will allow you to enter the 
 
 - Below you can find a button that you can activate and deactivate so that when you press it, the session is saved and you do not have to repeat filling out the data every time you log in.
+
+
+# Artifacts 
+
+- User Story:
+As a registered user, I want to be able to log into the system using my username and password to access my courses and materials.
+
+- Acceptance Criteria:
+    -  The system must allow the user to enter their username and password.
+
+    -  The system must verify the user's credentials.
+
+    - If the credentials are valid, the system must redirect the user to the main page.
+
+   -  If the credentials are invalid, the system must display an error message.
+
+- Use Case:
+
+   - User: Person who wants to access the system.
+
+   - Authentication System: Service that verifies the user's credentials.
+
+- Scenario:
+
+**Scenario 1:** Successful Login
+
+Context: The user is on the login page.
+
+Actions:
+
+The user enters their correct username and password.
+
+The user submits the form.
+
+Expected Result: The system verifies the credentials, logs the user in, and redirects them to the main page with a welcome message.
+
+
+****Scenario 2:**** Incorrect Credentials
+
+Context: The user is on the login page.
+
+Actions:
+
+The user enters an incorrect username and/or password.
+
+The user submits the form.
+
+Expected Result: The system displays an error message indicating the credentials are incorrect.
+
+**Scenario 3**:Password Recovery
+
+Context: The user has forgotten their password.
+
+Actions:
+
+The user selects the "Forgot my password" option.
+
+The system redirects the user to the password recovery page.
+
+The user enters their registered email address.
+
+The system sends a recovery link to the user's email.
+
+Expected Result: The user can follow the recovery process to reset their password and regain access to the system.
+> Written by `TM-02`

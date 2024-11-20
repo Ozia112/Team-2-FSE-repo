@@ -18,3 +18,70 @@
   - If you search for the name of the platform, the full name will appear 
 
   - If you search for the teacher's name, their full name and the subject they teach will appear.
+
+  # Artifacts 
+  - User Story:
+As a user, I want to filter data by date to view only the records from a specific period.
+
+- Acceptance Criteria:
+   - The user must be able to select a date range.
+
+   - The system must display only the records within the selected date range.
+
+- Use Case:
+Data Filtering with Filter Bar: This use case describes the process by which a user can apply filters to the data displayed in the application using the Filter Bar.
+
+Actors:
+User: Person using the application and applying filters through the Filter Bar.
+
+- Scenario:
+
+**Scenario 1**: Date Filtering
+
+Context: The user wants to view records from a specific period.
+
+Actions:
+
+The user selects a date range in the Filter Bar.
+
+The user applies the filter.
+
+Expected Result: The system displays only the records that fall within the selected date range.
+
+**Scenario 2**: Category Filtering
+
+Context: The user wants to view records from a specific category.
+
+Actions:
+
+The user selects one or more categories in the Filter Bar.
+
+The user applies the filter.
+
+Expected Result: The system displays only the records that belong to the selected categories.
+
+**Scenario 3**: No Matching Results
+
+Context: The user applies a filter, but there are no data that match the selected criteria.
+
+Actions:
+
+The user selects filtering criteria.
+
+The user applies the filter.
+
+Expected Result: The system displays a message indicating no results were found.
+
+**Scenario 4**: Modifying Filters
+
+Context: The user wants to change the filtering criteria.
+
+Actions:
+
+The user modifies the filtering criteria in the Filter Bar.
+
+The user applies the new filters.
+
+Expected Result: The system updates the displayed data according to the new filtering criteria.
+
+> Written by `TM-02`
