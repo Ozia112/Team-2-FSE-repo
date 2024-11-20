@@ -36,15 +36,15 @@ Each department must create its respective binnacle, ensuring the following poin
 
 ## Template
 ### DD/MM/YY 
-Department: <span style="color:#CE9178;">(letterDepartment)Department</span>
-   (TaskNumber) NameTask 
-   >- Task information
-   >- Task information
-   >- Task information   
+Department: <span style="color:#CE9178;">(letterDepartment)Department</span>  
+(TaskNumber) TaskName
+   >- Task detail 1
+   >- Task detail 2
+   >- Task detail 3  
    Time lapsed: HH:MM:SS
 >---
 ## Example: 
-### 18/19/24 
+### 18/11/24 
 Department: <span style="color:#CE9178;">(C)Requirements</span>  
 (C1.2) Requirements Evolution (**Action Bar**) 
    >- Se creó el archivo .md del RF-02_ActionBar
