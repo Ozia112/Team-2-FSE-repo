@@ -6,7 +6,7 @@ Department: <span style="color:#CE9178;">(C)Requirements</span>
    >- The requirement was specified in parts:
    >   - Possible actions (Notifications, Home, Add Platform)
    >      - Actions specified include the creation of: item.notification, item.platform, item.course
-   >- A diagram of information behaviors within the application was createdn
+   >- A diagram of information behaviors within the application was created
    >- An ERD was created  
    Time lapsed: 08:45:54
 >
