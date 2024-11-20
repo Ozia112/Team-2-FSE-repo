@@ -16,6 +16,7 @@ Deparment: (C)Requirements
 >- In the process of evolving the requirements, both functional and non-functional requirements were reduced to simplify the scope and improve development feasibility. Functional requirements were reduced from 8 to 3, combining and eliminating key elements. Non-functional requirements were consolidated into broader categories, such as "Visual Consistency and Accessibility" and "Ease of Use," removing those deemed non-essential. This optimization ensures a more focused and efficient development process.  
 Time lapsed: 00:35:31
 ---
+
 ### 19/11/2024
 Deparment: (G)Design
 (G3.0) Matching requirements
