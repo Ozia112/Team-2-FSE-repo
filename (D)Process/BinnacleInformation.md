@@ -19,18 +19,16 @@ Each department must create its respective binnacle, ensuring the following poin
 - The file name must follow this structure: [.] Team ID [_] Binnacle.
 	Example: .TM-01_Binnacle.
 3.	Activity Reports:
-
  - Each report must include the following information:
+   - Date
 
-      - Sprint number
+   - Sprint number
 
-      - Department
+   - Department
 
    - Activity ID
 
    - Description of changes or tasks completed
-
-    - Date
 
    - Duration of the activity
 
@@ -38,26 +36,23 @@ Each department must create its respective binnacle, ensuring the following poin
 
 ## Template
 ### DD/MM/YY 
-Department: [<span style="color:#CE9178;">Department</span>]  
-[<span style="color:#CE9178;">ID-Activity</span>]: 
-   >- [<span style="color:#CE9178;">Parts</span>] 
-   >- [<span style="color:#CE9178;">Parts</span>]
-   >- [<span style="color:#CE9178;">Parts</span>]
-   >- [<span style="color:#CE9178;">Parts</span>]
-   
-   Time lapsed: [<span style="color:#CE9178;">HH/MM/SS</span>]
-> 
----
-Example: 
-
+Department: <span style="color:#CE9178;">(letterDepartment)Department</span>
+   (TaskNumber) NameTask 
+   >- Task information
+   >- Task information
+   >- Task information   
+   Time lapsed: HH:MM:SS
 >---
-### 12/11/2024
-Department: [<span style="color:#CE9178;">Desing</span>]  
-[<span style="color:#CE9178;">TM-7</span>]: 
-   >- [<span style="color:#CE9178;">D2.0</span>] 
-   >- [<span style="color:#CE9178;">Creation</span>]
-   >- [<span style="color:#CE9178;">Introduction</span>]
-
-   Time lapsed: [<span style="color:#CE9178;">HH/MM/SS</span>]
-> 
+## Example: 
+### 18/19/24 
+Department: <span style="color:#CE9178;">(C)Requirements</span>  
+(C1.2) Requirements Evolution (**Action Bar**) 
+   >- Se creó el archivo .md del RF-02_ActionBar
+   >- Se especificó el requerimiento por partes:
+   >   - Acciones posibles(Notifications,Home,Add Platform)
+   >      - Se especifican las acciones, creacion de: item.notification, item.platform, item.course
+   >- Se crea un diagrama de comportamientos de la infromacion dentro de la aplicación
+   >- Se crea un diagrama de ER   
+   Time lapsed: 08:45:54
+>
 ---
