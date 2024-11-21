@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 16/11/2024
 Deparment: (C)Requirements
 Created Task Assignment
@@ -35,4 +36,9 @@ Deparment: (C)Requirements
 Time lapsed: 00:29:23
 ---
 Bueno bueno bueno
+=======
+prueba
+# Hora hijos de su puta madre
+>>>>>>> parent of 1cccfd0 (Merge branch 'TM-03-Branch' of https://github.com/Ozia112/Team-2-FSE-repo into TM-03-Branch)
 
+## vamonos alv
