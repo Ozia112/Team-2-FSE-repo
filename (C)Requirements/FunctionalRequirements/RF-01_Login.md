@@ -1,27 +1,29 @@
 # Login
 
-- Set of three bars where you enter your data in the first two and in the third you press to access 
+- Set of four elements where you will enter your data in the first two text fields, in the third you press the button to access and the fourth is the login checkbox
 
 ## Description:
 
-- The Login has three bars, one where the email address is provided, the bottom one where the password is placed and the last one which is the bar where you click after entering the previous two
+- The Login has 2 text fields, a button and a checkbox, the first text field where the email is provided, in the second below where the password is entered, then there is the log in button where you click after entering the two previous text fields and finally below the log in button is the checkbox to leave the login open
 
-- Clicking on any of the first two bars will open your keyboard so you can enter the data 
+- Clicking on any of the first text fields will open your keyboard so you can enter the data
 
-- The login bar opens after entering the institutional email and password provided by the university as a means of authentication 
+- The login button opens after entering the institutional email and password provided by the university as a means of authentication
 
+- The checkbox is below the log in button and can be activated and deactivated to leave the session open or closed
 
 ### Login:
 
-- Upon entering the app, the user will find a welcome interface with the title of the product and an image of the uady, then they will find three bars at the bottom
+- When entering the app the user will find a welcome interface with the title of “uadyhub” and the uady logo, then you will find two text fields and a button to log in
 
-- The user will find in the first bar that says email, where when touching it their keyboard is displayed to enter the institutional email of @alumnos.uady.mx
+- The user will find in the first text field that says email, where when touching it the keyboard is displayed to enter the institutional email @alumnos.uady.mx
 
-- In the second bar you will find that it says password, just like in the previous bar, click to enter your password provided with the email
+- In the second text field you will find that it says password, just like in the previous text field you click to enter your password provided with the email
 
-- In the third bar you will find that it says login, after filling in your data correctly you will touch the bar that will allow you to enter the 
+- After the two text fields you will find the log in button, after filling out your data correctly you will touch the bar that will allow you to enter the
+platform
 
-- Below you can find a button that you can activate and deactivate so that when you press it, the session is saved and you do not have to repeat filling out the data every time you log in.
+- Below you will find a checkbox button that you can activate and deactivate so that when you activate it the session is saved and you do not have to repeat filling out the data every time you enter and when you leave it off every time you enter you will have to fill out the data
 
 
 # Artifacts 
