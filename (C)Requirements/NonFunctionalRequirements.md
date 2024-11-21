@@ -30,7 +30,7 @@
      - Story 3: Smooth Navigation
         As a user, I want navigation between sections to be quick and straightforward so I can complete my tasks with the fewest possible clicks.
 
-   - **Acceptance Criteria:*
+   - **Acceptance Criteria:**
      - Menus are logically organized and clearly labeled.
      - Buttons are easily identifiable with descriptive labels and noticeable colors.
      - Key functionalities can be accessed within a few clicks.
