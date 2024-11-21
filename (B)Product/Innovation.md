@@ -1,4 +1,5 @@
-
+# Innovation of Uady Hub
+Uady Hub's innovation lies in its ability to centralize and simplify the management of multiple educational platforms. This feature allows users to enroll in and manage their courses across various UADY platforms seamlessly, all within a single account.
 
 ### Key Innovative Features:
 - Platform Organization:
@@ -16,4 +17,3 @@ The *innovation* of Uady Hub also extends to course filtering. Unlike Moodle, wh
 This greatly facilitates course navigation and management, improving efficiency and allowing students to focus more on their learning rather than on the logistics of accessing their courses.
 
 > Written by  `TM-02`
-
