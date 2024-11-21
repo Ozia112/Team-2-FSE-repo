@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### 16/11/2024
 Deparment: (C)Requirements
 Created Task Assignment
@@ -29,16 +28,3 @@ Deparment: (G)Design
 >- With the requirements refined and detailed, the prototype was created to validate the functional requirements. In this activity, I only added the description of the task and then included the link that takes the user directly to the matching of the artifacts, which is the verification of the user stories in action.  
 Time lapsed: 00:06:50
 ---
-### 21/11/2024
-Deparment: (C)Requirements
-(C3.0) Final Non Functional Requirements.md
->- In this activity, the number of non-functional requirements was reduced by focusing on the most essential and relevant ones. Additionally, their descriptions, user stories, and acceptance criteria were specified in greater detail. This helps ensure that user needs are clear and that the platform's development meets precise expectations, facilitating an optimal experience.  
-Time lapsed: 00:29:23
----
-Bueno bueno bueno
-=======
-prueba
-# Hora hijos de su puta madre
->>>>>>> parent of 1cccfd0 (Merge branch 'TM-03-Branch' of https://github.com/Ozia112/Team-2-FSE-repo into TM-03-Branch)
-
-## vamonos alv
