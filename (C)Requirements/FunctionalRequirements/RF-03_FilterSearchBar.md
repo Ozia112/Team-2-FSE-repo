@@ -60,28 +60,9 @@ The user applies the filter.
 
 Expected Result: The system displays only the records that belong to the selected categories.
 
-**Scenario 3**: No Matching Results
 
-Context: The user applies a filter, but there are no data that match the selected criteria.
 
-Actions:
 
-The user selects filtering criteria.
+> Description section written by `TM-04`  
+> Artifacts section written by `TM-02`
 
-The user applies the filter.
-
-Expected Result: The system displays a message indicating no results were found.
-
-**Scenario 4**: Modifying Filters
-
-Context: The user wants to change the filtering criteria.
-
-Actions:
-
-The user modifies the filtering criteria in the Filter Bar.
-
-The user applies the new filters.
-
-Expected Result: The system updates the displayed data according to the new filtering criteria.
-
-> Written by `TM-02`
