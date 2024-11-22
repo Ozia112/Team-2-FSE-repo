@@ -73,19 +73,7 @@ The user submits the form.
 
 Expected Result: The system displays an error message indicating the credentials are incorrect.
 
-**Scenario 3**:Password Recovery
 
-Context: The user has forgotten their password.
 
-Actions:
-
-The user selects the "Forgot my password" option.
-
-The system redirects the user to the password recovery page.
-
-The user enters their registered email address.
-
-The system sends a recovery link to the user's email.
-
-Expected Result: The user can follow the recovery process to reset their password and regain access to the system.
-> Written by `TM-02`
+> Description section written by `TM-04`  
+> Artifacts section written by `TM-02`
