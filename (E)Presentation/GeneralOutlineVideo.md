@@ -11,9 +11,7 @@
 Each member answers 3 key questions.
 - **Scene**: Member in a well-lit space with graphics or text on screen indicating their name and role.
 - **Suggested Questions**:
-1. **What was your role at the start of the project, and how did it evolve through the deliveries?**
-2. **What was the biggest challenge you faced, and how did you solve it?**
-3. **What key learning or skill did you gain from working on this project?**
+1. **What is your role in the project and how did it evolve throughout the deliverables?**
 
 #### **4. Team in Action**
 - Show clips of the team collaborating, running simulations, or reviewing deliveries.
