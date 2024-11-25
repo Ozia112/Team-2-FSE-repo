@@ -1,39 +1,40 @@
-### **Protocolo para Pruebas de Simulaciones**  
+### **Protocol for Simulation Testing**
 
-El propósito de esta entrevista es evaluar tu opinión analizando el prototipo de la interfaz de la aplicación UadyHub. Esta aplicación tiene como objetivo facilitando a los estudiantes el acceso a sus cursos, notificaciones y otros recursos académicos. Te haremos completar una serie de tareas al igual que algunas preguntas sobre la funcionalidad del prototipo de interfaz, con el fin de recopilar datos para la documentacion.
- 
-- No se juzga su desempeño, sino la funcionalidad de la simulación. 
+The purpose of this interview is to evaluate your opinion by analyzing the UadyHub application interface prototype. This application aims to facilitate students' access to their courses, notifications, and other academic resources. We will have you complete a series of tasks as well as some questions about the functionality of the interface prototype, in order to collect data for documentation.
 
-### Datos del tester: 
-- Nombre
-- Sexo(masculino/femenino)
-- Edad
-- Nacionalidad 
-- Discapacidad
-- idioma
+- Your performance is not judged, but rather the functionality of the simulation.
 
- 
-#### **Tareas a realizar**:   
-   - Completar tareas específicas.      
+### Tester data:
+- Name
+- Sex (male/female)
+- Age
+- Nationality
+- Disability
+- Language
 
+#### **Tasks to be performed**:
+- Complete specific tasks.
+>- 1-Search for a course taught by "X" teacher: It is expected that the tester can find a specific course within the simulation.
 
-## Encuesta de satisafaccion
+>- 2-Search for notifications from "X" platform: The tester is expected to find notifications from a specific platform.
 
-- Escala 1 al 5   
-**5**-Totalmente satisfactorio: Cumplio completamente lo que se esperado.   
-**4**-Satisafecho: Cumplio lo esperadon.   
-**3**-Neutral: Se tomo lo esperado de forma neutral considerandose entre satisfecho y poco satisfecho.  
-**2**-Poco satisfecho: No cumple completamente con lo esperado de manera satisfactoria.   
-**1**-Nada satisfecho: No cumple con nada de lo esperado. 
+>- 3-Search for the task that is due first: The tester is expected to find the task that is due first on the current date using all the resources within the simulation.
 
-   >- 1. **Facilidad de uso**: ¿Qué tan fácil te resultó navegar por la simulación?  
-   >- 2. **Claridad de la interfaz**: ¿La información en pantalla fue clara y comprensible?     
-   >- 3. **Satisfacción general**: ¿Qué tan satisfecho quedaste con la experiencia en general?  
-   >- 4. **Recomendación**: ¿Recomendarías esta aplicación a otros estudiantes?  
+## Satisfaction survey
 
-#### **Entrevista post-prueba**  
-- ¿Qué fue lo que más te gustó de la simulación?  
-- ¿Encontraste algo confuso o difícil de usar?  
-- ¿Qué mejorarías o agregarías a la app?  
+- Scale 1 to 5
+**5**-Completely satisfactory: It completely fulfilled what was expected.
+**4**-Satisfied: It fulfilled what was expected.
+**3**-Neutral: The expected was taken in a neutral way, considering between satisfied and somewhat satisfied.
+**2**-Somewhat satisfied: It does not completely fulfill what was expected in a satisfactory manner.
+**1**-Not at all satisfied: It does not fulfill anything of what was expected.
 
+>- 1.**Ease of use**: How easy was it for you to navigate the simulation?
+>- 2.**Interface clarity**: Was the information on the screen clear and understandable?
+>- 3.**Overall satisfaction**: How satisfied were you with the overall experience?
+>- 4.**Recommendation**: Would you recommend this app to other students?
 
+#### **Post-test interview**
+- What did you like most about the simulation?
+- Did you find anything confusing or difficult to use?
+- What would you improve or add to the app?
