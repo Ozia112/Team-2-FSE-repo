@@ -14,11 +14,11 @@ The purpose of this interview is to evaluate your opinion by analyzing the UadyH
 
 #### **Tasks to be performed**:
 - Complete specific tasks.
->- 1-Search for a course taught by "X" teacher: It is expected that the tester can find a specific course within the simulation.
+>- 1- Search for a course taught by Professor Rocio: The evaluator is expected to be able to find a specific course within the simulation.
 
->- 2-Search for notifications from "X" platform: The tester is expected to find notifications from a specific platform.
+>- 2- Search for Online FMAT assignments within the notifications section: The evaluator is expected to find notifications from a specific platform.
 
->- 3-Search for the task that is due first: The tester is expected to find the task that is due first on the current date using all the resources within the simulation.
+>- 3- Search for the assignment that is due first in the notifications section: The evaluator is expected to find the assignment that is due first on the current date using all the resources within the simulation.
 
 ## Satisfaction survey
 
