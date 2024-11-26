@@ -11,7 +11,16 @@
 Each member answers 3 key questions.
 - **Scene**: Member in a well-lit space with graphics or text on screen indicating their name and role.
 - **Suggested Questions**:
-1. **What is your role in the project and how did it evolve throughout the deliverables?**
+    - **Product** :
+How did you decide the value of the product compared to other proposals?    
+    - **Requirements** :
+What was the most difficult thing when defining what the app needed?  
+    - **Design** :
+What part of the design do you think is the most useful or what was the most difficult requirement when building it into the prototype?  
+    - **Process** :
+How were the sprints divided and why?  
+    - **Competencies** :
+What did you and your team learn during this project?  
 
 #### **4. Team in Action**
 - Show clips of the team collaborating, running simulations, or reviewing deliveries.
