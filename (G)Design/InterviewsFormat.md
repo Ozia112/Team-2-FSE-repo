@@ -1,8 +1,8 @@
 ### **Protocol for Simulation Testing**
 
-The purpose of this interview is to evaluate your opinion by analyzing the UadyHub application interface prototype. This application aims to facilitate students' access to their courses, notifications, and other academic resources. We will have you complete a series of tasks as well as some questions about the functionality of the interface prototype, in order to collect data for documentation.
+El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del prototipo de interfaz de la aplicación UadyHub, que tiene como objetivo facilitar el acceso de los estudiantes a sus cursos, notificaciones y otros recursos académicos. Te pediremos que completes una serie de tareas, así como algunas preguntas sobre la funcionalidad del prototipo de interfaz, con el fin de recopilar datos para la documentación.
 
-- Your performance is not judged, but rather the functionality of the simulation.
+- No se juzga tu desempeño, sino la funcionalidad de la simulación.
 
 ### Tester data:
 - Name
@@ -14,11 +14,11 @@ The purpose of this interview is to evaluate your opinion by analyzing the UadyH
 
 #### **Tasks to be performed**:
 - Complete specific tasks.
->- 1- Search for a course taught by Professor Rocio: The evaluator is expected to be able to find a specific course within the simulation.
+>- 1- Búsqueda de un curso impartido por la profesora Rocio: Se espera que el evaluador pueda encontrar un curso específico dentro de la simulación.
 
->- 2- Search for Online FMAT assignments within the notifications section: The evaluator is expected to find notifications from a specific platform.
+>- 2- Búsqueda de tareas de FMAT en línea dentro de la sección de notificaciones: Se espera que el evaluador encuentre notificaciones de una plataforma específica.
 
->- 3- Search for the assignment that is due first in the notifications section: The evaluator is expected to find the assignment that is due first on the current date using all the resources within the simulation.
+>- 3- Búsqueda de la tarea que vence primero en la sección de notificaciones: Se espera que el evaluador encuentre la tarea que vence primero en la fecha actual utilizando todos los recursos dentro de la simulación.
 
 ## Satisfaction survey
 
