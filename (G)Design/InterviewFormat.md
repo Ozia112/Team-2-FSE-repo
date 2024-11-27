@@ -39,7 +39,8 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
     >- 2.**Claridad de la interfaz**: ¿La información en la pantalla era clara y comprensible?
     >- 3.**Satisfacción general**: ¿Qué tan satisfecho quedó con la experiencia general?
     >- 4.**Recomendación**: ¿Recomendaría esta aplicación a otros estudiantes?  
-[Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png) 
+
+![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png) 
 
 #### **Entrevista posterior a la prueba**
 - ¿Qué fue lo que más le gustó de la simulación?
