@@ -6,11 +6,22 @@ For the evolution of the interfaces, a check box was added to the login interfac
 
 ![Log in](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/PHOTO-2024-11-27-13-42-21.jpg)
 
- With this, we move on to the interfaces within the app. Significant changes are observed with respect to our old prototype. In the new design, the search bar is presented with a selector that allows you to alternate between “Courses” and “Platforms”, giving a more direct option to filter information. The header of the interface shows a minimalist design with a leopard print background and the word “UADY HUB” in the center, while in the old design a similar header appears, but includes an additional description that says: “Find your courses faster!”. The new prototype also organizes courses as individual cards with details such as the instructor’s name, platform, and an indication of pending notifications represented by a number next to a colorful icon, whereas the old prototype groups available platforms more generally, without dividing courses directly. The new design has removed platform-specific notifications that were displayed in the old design. The new prototype also introduces a simplified design to the bottom navigation icons (notifications, home, and add), removing options such as mail and settings that were present in the old design. In the old design, additional descriptions appear below each platform that briefly explain its function, something that is omitted in the new prototype, favoring a cleaner, more direct approach. This shows an evolution toward a more functionality-focused and less text-heavy design.
- 
-  There were no changes to the notification interfaces, we continue to manage them in the same way and these were some of the components that we improved compared to the old interfaces
+ With this, we move on to the interfaces within the app. Significant changes are observed with respect to our old prototype. In the new design, a selector is presented that allows you to alternate between “Courses” and “Platforms”, giving a more direct option to filter information. The header of the interface has been significantly reduced so that it doesn't take up too much space on the home page
+  
+![Main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/PHOTO-2024-11-27-15-11-46.jpg)
 
-For the process of choosing the new changes that were made, we had meetings where we got together as a team to give our opinion on what could be improved so that it looks more comfortable to the eye, that it is better described, so that you don't have to struggle to find information, we asked some people what they thought about the new ideas that we had and what they thought were good ideas.
+
+  The new prototype also organizes courses as individual cards with details such as the instructor’s name, platform, and an indication of pending notifications represented by a number next to a colorful icon.
+  
+  ![Main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/PHOTO-2024-11-27-15-12-44.jpg)
+
+The new prototype also introduces a simplified design in the bottom navigation icons (notifications, home, and add), removing options such as email and settings that were present in the old design.
+
+![Main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/PHOTO-2024-11-27-16-32-42.jpg)
+
+There were no changes in the notifications interfaces; we continue to handle them in the same way and these were some of the components that we improved compared to the old interfaces
+
+For the process of choosing the new changes that were made, we went through our meetings where we got together as a team to give our opinion on what could be improved so that it looks more comfortable to the eye, that it is better described, so that you do not have to struggle to find information, we asked some people what they thought about the new ideas that we had and what they thought were good ideas
 
 
 # Tools
