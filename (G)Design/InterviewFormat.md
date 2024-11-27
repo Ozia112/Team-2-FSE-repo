@@ -43,7 +43,7 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 ![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png) 
 >- Estoy satisfecho con la experiencia general que tuve.  
 ![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png)
->- Recomandarias esta aplicacion a otros estudiantes.  
+>- Recomendarias esta aplicacion a otros estudiantes.  
 ![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png)
 
 ### **Preguntas Cualitativas**
