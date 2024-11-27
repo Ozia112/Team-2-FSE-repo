@@ -6,12 +6,14 @@
 
 ### **Sección 2: Entrevistas(1 minuto/cdu)**  
 
-- Cambios dentro del area de producto(0.45s)  
+- Cambios dentro del area de producto(0.45s)
+  De las principales cosas para el area de producto fue la identificacion de los usuarios primarios, secuandarios y/o potenciales los cuales se identificaron mediante entrevistas y una investigacion para 
 
 
 **[Pregunta para Alexander]**: *"¿Cómo decidiste el valor del producto en comparación con otras propuestas?"*
 
-- Cambios dentro del area de requerimientos(0.45s)
+- Cambios dentro del area de requerimientos(0.45s)  
+
     
  
 **[Pregunta para Rolando]**: *"¿Qué fue lo más difícil a la hora de definir lo que necesitaba la app?"* 
@@ -20,12 +22,14 @@
  
 **[Pregunta para Paola]**: *"¿Qué parte del diseño crees que es la más útil o cuál fue el requerimiento más difícil a la hora de construirlo en el prototipo?"*
 
-- Cambios dentro del area de proceso(0.45s)
+- Cambios dentro del area de proceso(0.45s)  
+
  
 **[Pregunta para Issac]**: *"¿Cómo se dividieron los sprints y por qué?"*
  
  - Cambios dentro del area de competencias(0.45s)  
- Duraante el proyecto se 
+   Otro de los cambios mas notables de proyectro fueron las competencias las cuales se 
+ 
  
 **[Pregunta para Álvaro]**: *"¿Qué aprendieron tú y tu equipo durante este proyecto?"*
 
