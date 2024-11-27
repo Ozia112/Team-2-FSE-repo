@@ -33,12 +33,13 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 **4-Satisfecho**: Cumplió con lo esperado.  
 **3-Neutral**: Lo esperado se tomó de manera neutra, considerándose entre satisfecho y algo satisfecho.  
 **2-Algo satisfecho**: No cumple completamente con lo esperado de manera satisfactoria.  
-**1-Nada satisfecho**: No cumple con nada de lo esperado. 
+**1-Nada satisfecho**: No cumple con nada de lo esperado.  
 
     >- 1.**Facilidad de uso**: ¿Qué tan fácil fue para usted navegar por la simulación?
     >- 2.**Claridad de la interfaz**: ¿La información en la pantalla era clara y comprensible?
     >- 3.**Satisfacción general**: ¿Qué tan satisfecho quedó con la experiencia general?
-    >- 4.**Recomendación**: ¿Recomendaría esta aplicación a otros estudiantes?
+    >- 4.**Recomendación**: ¿Recomendaría esta aplicación a otros estudiantes?  
+[Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png) 
 
 #### **Entrevista posterior a la prueba**
 - ¿Qué fue lo que más le gustó de la simulación?

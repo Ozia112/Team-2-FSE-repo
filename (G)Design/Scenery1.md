@@ -6,7 +6,7 @@ para las pruebas de usabilidad. A pesar de las limitaciones, logra cumplir con l
 
 ## Usability
 
-La usabilidad tiene como objetivo medir qué tan fácil e intuitivo es para los usuarios interactuar con nuestra aplicación. Esto nos permitirá identificar áreas de mejora en la experiencia del usuario, optimizando aspectos como la navegación, la claridad de la interfaz y la eficiencia en la realización de tareas.  
+La usabilidad tiene como objetivo medir qué tan fácil es para los usuarios complatar una tarea especifica con la simulacion de interfaz proporcionada. Esto nos permitirá identificar áreas de mejora en la experiencia del usuario, optimizando aspectos como la navegación, la claridad de la interfaz y la eficiencia en la realización de tareas.  
 
 A través de métricas como el número de toques necesarios para completar las tareas específicas. Además, esta evaluación proporcionará información valiosa sobre posibles puntos de fricción en el flujo de uso, ayudándonos a priorizar cambios o ajustes en futuras iteraciones.  
 
