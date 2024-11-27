@@ -18,14 +18,15 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 ## Escenario1
 - Solo esta agregada la plataforma En linea FMAT.
 - Esta inscrito a 2 diferentes cursos de En linea FMAT.  
-- Por defecto estan ordenados del mas pronto al menos pronto por la fecha.   
+- Por defecto estan ordenados del mas pronto al menos pronto por la fecha de entrega.   
 - Por defecto los elementos estan ordenados de manera alfabetica.  
 - Esta desabilitado la opcion de agregar plataforma.
+- Esta desabilitado la opcion de cambiar orden.
   
 ### Tareas
   - Busca la tarea que se entrege primero en el curso de grometria.(Resultado esperado ADA#10)
-  - Busca el examen del curso de algoritmia.  
-  - Busca el dia de suspension de clases en el curso de geometria.
+  - Busca el examen del curso de algoritmia.(Resultado esperado Prueba de desempeño 3)
+  - Busca el dia de suspension de clases en el curso de geometria.(Resultado esperado 2 de dicimbre)
 
 ## Encuesta de satisfaccion 
 
