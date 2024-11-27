@@ -23,7 +23,7 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 - Esta desabilitado la opcion de agregar plataforma.
   
 ### Tareas
-  - Busca la tarea que vence primero del curso de grometra.
+  - Busca la tarea que se entrege primero en el curso de grometria.(Resultado esperado ADA#10)
   - Busca el examen del curso de algoritmia.
 
 ## Encuesta de satisfaccion 
@@ -35,15 +35,16 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 **2-Algo satisfecho**: No cumple completamente con lo esperado de manera satisfactoria.  
 **1-Nada satisfecho**: No cumple con nada de lo esperado.  
 
-    >- 1.**Facilidad de uso**: ¿Qué tan fácil fue para usted navegar por la simulación?
-    >- 2.**Claridad de la interfaz**: ¿La información en la pantalla era clara y comprensible?
-    >- 3.**Satisfacción general**: ¿Qué tan satisfecho quedó con la experiencia general?
-    >- 4.**Recomendación**: ¿Recomendaría esta aplicación a otros estudiantes?  
-
-----------------------¿Que tan satisfecho estas?----------------------  
+>- Encontro facil navegar por la interfaz.  
+![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png)   
+>- La informacion en la pantalla era clara y comprensible.  
 ![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png) 
+>- Estoy satisfecho con la experiencia general que tuve.  
+![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png)
+>- Recomandarias esta aplicacion a otros estudiantes.  
+![Tabla de satisfaccion](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/chart1to5.png)
 
-#### **Entrevista posterior a la prueba**
+### **Preguntas Cualitativas**
 - ¿Qué fue lo que más le gustó de la simulación?
 - ¿Encontró algo confuso o difícil de usar?
 - ¿Qué mejoraría o agregaría a la aplicación?
