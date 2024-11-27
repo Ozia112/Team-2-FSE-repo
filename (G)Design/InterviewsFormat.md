@@ -1,4 +1,4 @@
-### **Protocol for Simulation Testing**
+# Protocolo de pruebas de simulacion
 
 El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del prototipo de interfaz de la aplicación
  UadyHub, que tiene como objetivo facilitar el acceso de los estudiantes a sus cursos, notificaciones y otros recursos 
@@ -7,7 +7,7 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 
 - No se juzga tu desempeño, sino la funcionalidad de la simulación.
 
-### Tester data:
+## Datos del tester:
 - Name
 - Sex (male/female)
 - Age
@@ -15,26 +15,25 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 - Disability
 - Language
 
-#### **Tasks to be performed**:
-- **Scenery#1**  
->- Solo esta agregada la plataforma En linea FMAT.
->- Esta inscrito a 2 diferentes cursos de En linea FMAT.  
->- Por defecto estan ordenados del mas pronto al menos pronto por la fecha.   
->- Por defecto los elementos estan ordenados de manera alfabetica.  
->- Esta desabilitado la opcion de agregar plataforma.
+## Escenario1
+- Solo esta agregada la plataforma En linea FMAT.
+- Esta inscrito a 2 diferentes cursos de En linea FMAT.  
+- Por defecto estan ordenados del mas pronto al menos pronto por la fecha.   
+- Por defecto los elementos estan ordenados de manera alfabetica.  
+- Esta desabilitado la opcion de agregar plataforma.
   
-  **Task**
+### Tareas
   - Busca la tarea que vence primero del curso de grometra.
   - Busca el examen del curso de algoritmia.
 
-## Satisfaction survey
+## Encuesta de satisfaccion 
 
 - Scale 1 to 5  
-**5-Completamente satisfactorio**: It completely fulfilled what was expected.  
-**4-Satisfecho**: It fulfilled what was expected.      
-**3-Neutral**: The expected was taken in a neutral way, considering between satisfied and somewhat satisfied.    
-**2-Algo satisfecho**: It does not completely fulfill what was expected in a satisfactory manner.   
-**1-Nada satisfecho**: It does not fulfill anything of what was expected.  
+**5-Completamente satisfactorio**: Cumplió completamente con lo esperado.  
+**4-Satisfecho**: Cumplió con lo esperado.  
+**3-Neutral**: Lo esperado se tomó de manera neutra, considerándose entre satisfecho y algo satisfecho.  
+**2-Algo satisfecho**: No cumple completamente con lo esperado de manera satisfactoria.  
+**1-Nada satisfecho**: No cumple con nada de lo esperado. 
 
     >- 1.**Facilidad de uso**: ¿Qué tan fácil fue para usted navegar por la simulación?
     >- 2.**Claridad de la interfaz**: ¿La información en la pantalla era clara y comprensible?
