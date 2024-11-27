@@ -14,27 +14,27 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 
 #### **Tasks to be performed**:
 - Complete specific tasks.
->- 1- Búsqueda de un curso impartido por la profesora Rocio: Se espera que el evaluador pueda encontrar un curso específico dentro de la simulación.
+>- 1- Búsqueda de un curso impartido por la profesora Rocio: The evaluator is expected to be able to find a specific course within the simulation.
 
->- 2- Búsqueda de tareas de FMAT en línea dentro de la sección de notificaciones: Se espera que el evaluador encuentre notificaciones de una plataforma específica.
+>- 2- Búsqueda de tareas de algoritmia dentro de la sección de notificaciones: The tester is expected to find notifications from a specific platform.
 
->- 3- Búsqueda de la tarea que vence primero en la sección de notificaciones: Se espera que el evaluador encuentre la tarea que vence primero en la fecha actual utilizando todos los recursos dentro de la simulación.
+>- 3- Búsqueda de la tarea que vence primero de geometria en la sección de notificaciones: The evaluator is expected to find the task that is due first on the current date using all the resources within the simulation..
 
 ## Satisfaction survey
 
 - Scale 1 to 5
-**5**-Completely satisfactory: It completely fulfilled what was expected.
-**4**-Satisfied: It fulfilled what was expected.
+**5**-Completamente satisfactorio: It completely fulfilled what was expected.
+**4**-Satisfecho: It fulfilled what was expected.
 **3**-Neutral: The expected was taken in a neutral way, considering between satisfied and somewhat satisfied.
-**2**-Somewhat satisfied: It does not completely fulfill what was expected in a satisfactory manner.
-**1**-Not at all satisfied: It does not fulfill anything of what was expected.
+**2**-Algo satisfecho: It does not completely fulfill what was expected in a satisfactory manner.
+**1**-Nada satisfecho: It does not fulfill anything of what was expected.
 
->- 1.**Ease of use**: How easy was it for you to navigate the simulation?
->- 2.**Interface clarity**: Was the information on the screen clear and understandable?
->- 3.**Overall satisfaction**: How satisfied were you with the overall experience?
->- 4.**Recommendation**: Would you recommend this app to other students?
+>- 1.**Facilidad de uso**: ¿Qué tan fácil fue para usted navegar por la simulación?
+>- 2.**Claridad de la interfaz**: ¿La información en la pantalla era clara y comprensible?
+>- 3.**Satisfacción general**: ¿Qué tan satisfecho quedó con la experiencia general?
+>- 4.**Recomendación**: ¿Recomendaría esta aplicación a otros estudiantes?
 
-#### **Post-test interview**
-- What did you like most about the simulation?
-- Did you find anything confusing or difficult to use?
-- What would you improve or add to the app?
+#### **Entrevista posterior a la prueba**
+- ¿Qué fue lo que más le gustó de la simulación?
+- ¿Encontró algo confuso o difícil de usar?
+- ¿Qué mejoraría o agregaría a la aplicación?
