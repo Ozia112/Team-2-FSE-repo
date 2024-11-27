@@ -24,7 +24,8 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
   
 ### Tareas
   - Busca la tarea que se entrege primero en el curso de grometria.(Resultado esperado ADA#10)
-  - Busca el examen del curso de algoritmia.
+  - Busca el examen del curso de algoritmia.  
+  - Busca el dia de suspension de clases en el curso de geometria.
 
 ## Encuesta de satisfaccion 
 
