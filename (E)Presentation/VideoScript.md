@@ -10,7 +10,9 @@ Además, hoy tendremos entrevistas con los integrantes del equipo para conocer m
 ### **Sección 2: Entrevistas(1 minuto/cdu)**  
 
 - Cambios dentro del area de producto(0.45s)
-  De las principales cosas para el area de producto fue la identificacion de los usuarios primarios, secuandarios y/o potenciales los cuales se identificaron mediante 
+  De las principales cosas para el area de producto fue la identificacion de los usuarios primarios, secuandarios y/o potenciales la informacion de estas 
+  se obtendrian mediante entrevistas a usuarios del mismo nivel academico y superior pidiendoles preguntas como sus datos demograficos,
+  metodos y bjetivos con la aplicacion y cual es su habilidad tecnologica, al informacion nos ayudo a darnos una idea y 
 
 
 **[Pregunta para Alexander]**: *"¿Cómo decidiste el valor del producto en comparación con otras propuestas?"*
@@ -46,14 +48,14 @@ Redefinición: La Gestión de Tareas y Actividades se consolidó como parte de l
 **[Pregunta para Issac]**: *"¿Cual fue el motivo del porque los sprints duran 1 semana?"*
  
  - Cambios dentro del area de competencias(0.45s)  
-   Otro de los cambios mas notables de proyectro fueron las competencias las cuales se 
+   Otro de los cambios mas notables de proyectro fueron las competencias en comparacion con las anteriores entregas 
  
  
 **[Pregunta para Álvaro]**: *"¿Qué aprendieron tú y tu equipo durante este proyecto?"*
 
 
 #### **Conclucion**
-- Despedida 
+- Despedida
 
 
 
