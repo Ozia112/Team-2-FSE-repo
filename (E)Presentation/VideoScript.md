@@ -21,7 +21,6 @@ Además, hoy tendremos entrevistas con los integrantes del equipo para conocer m
   juntando 3 requerimientos en 1.
 
 Requerimientos eliminados en la tercera entrega:
-
 Cambio de idioma
 Requerimientos que se juntaron en la tercera entrega:
 
@@ -35,7 +34,7 @@ Redefinición: La Gestión de Tareas y Actividades se consolidó como parte de l
 **[Pregunta para Rolando]**: *"¿Qué fue lo más difícil a la hora de definir lo que necesitaba la app?"* 
 
 - Cambiso dentro del area de diseño(0.45s) 
-
+ Durante el diseño uno de los cambios mas notables fue la que la interfaz fue mejorada y cambiada de manera que se movieron elementos y se quito texto durante las notificaciones teniendo en cuanta que 
  
 **[Pregunta para Paola]**: *"¿Qué parte del diseño crees que es la más útil o cuál fue el requerimiento más difícil a la hora de construirlo en el prototipo?"*
 
