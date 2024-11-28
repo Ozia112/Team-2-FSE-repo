@@ -19,9 +19,19 @@ The new prototype also introduces a simplified design in the bottom navigation i
 
 ![Main page](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/PHOTO-2024-11-27-16-32-42.jpg)
 
-There were no changes in the notifications interfaces; we continue to handle them in the same way and these were some of the components that we improved compared to the old interfaces
+There were no significant changes to the notification interfaces. The color of the platforms was changed, the name of the teachers was added, apart from that we continued to manage the old interface in the same way.
 
-For the process of choosing the new changes that were made, we went through our meetings where we got together as a team to give our opinion on what could be improved so that it looks more comfortable to the eye, that it is better described, so that you do not have to struggle to find information, we asked some people what they thought about the new ideas that we had and what they thought were good ideas
+![Notifications](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/PHOTO-2024-11-28-14-19-16%202.jpg)
+
+In the add interface, all the components are new since it was added in this third delivery in the old interface this was the configuration section
+
+![Add Page](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/assets/Stage3/IMG_8681%202.jpg)
+
+
+These were some of the components that we improved compared to the old interfaces
+
+
+For the process of choosing the new changes that were made, we went through our meetings where we got together as a team to give our opinion on what could be improved so that it looks more comfortable to the eye, that it is better described, so that you do not have to struggle to find information, we asked some people what they thought about the new ideas that we had and what they thought about the new ideas that we had, what they thought were good ideas, just as we had the feedback from the teacher to improve the project
 
 
 # Tools
