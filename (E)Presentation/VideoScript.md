@@ -43,7 +43,7 @@ Redefinición: La Gestión de Tareas y Actividades se consolidó como parte de l
  previamente desiganado mediante sus cualidades por el lider, las tareas tuvieron uno de los cambios mas relebantes durante la entrega ya que durante esta no fueron asigandas 
  a un miembro en especifico del equipo estas fueron algidas por cada miembro del equipo, si estas no fueron seleccionadas por algun miembro se las desiganaba por un lider del equipo.  
  
-**[Pregunta para Issac]**: *"¿Cómo se dividieron los sprints y por qué?"*
+**[Pregunta para Issac]**: *"¿Cual fue el motivo del porque los sprints duran 1 semana?"*
  
  - Cambios dentro del area de competencias(0.45s)  
    Otro de los cambios mas notables de proyectro fueron las competencias las cuales se 
