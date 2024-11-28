@@ -24,7 +24,8 @@
 **[Pregunta para Paola]**: *"¿Qué parte del diseño crees que es la más útil o cuál fue el requerimiento más difícil a la hora de construirlo en el prototipo?"*
 
 - Cambios dentro del area de proceso(0.45s)  
- Durante esta ultima entrega uno de los cambios mas significativos en el proceso fue que el  proyecto se 
+ Durante esta ultima entrega uno de los cambios mas significativos en el proceso fue que el proyecto se dividio por departamentos los cuales son liderados por un lider de equipo
+ 
  
 **[Pregunta para Issac]**: *"¿Cómo se dividieron los sprints y por qué?"*
  
