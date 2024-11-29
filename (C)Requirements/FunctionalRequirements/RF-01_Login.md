@@ -74,6 +74,32 @@ The user submits the form.
 Expected Result: The system displays an error message indicating the credentials are incorrect.
 
 
+# Interface improvements
+
+![image](https://github.com/user-attachments/assets/a75e7e05-aa2d-43c3-93bc-91ab58b4551f)
+
+## Prototype Comparison: Login Interface Design
+
+### 1. **Initial Prototype (Left)**
+The first prototype of the login interface was developed with a simple approach, considering only the following elements:
+
+- **Text fields**: For entering username and password.  
+- **Basic design**: Focused on minimal functionality.  
+- **Direct login**: Without additional options to personalize the user experience.
+
+### 2. **Improved Prototype (Right)**
+The second prototype incorporated several enhancements to optimize the user experience:
+
+- **"Keep me signed in" option**: A *check box* was added to allow users to stay logged in without re-entering their credentials.  
+- **Interactive interface**: It included a design that allows users to have the experience of writing their information more smoothly and personally.
+
+### 3. **Key Differences**
+- The first prototype focused on basic functionality and a simple design.  
+- The second prototype improved usability by adding new options that enhance user convenience and promote a more personalized experience.
+
+These modifications reflect progress in understanding user needs and developing practical solutions to improve interaction with the interface.
+
 
 > Description section written by `TM-04`  
-> Artifacts section written by `TM-02`
+> Artifacts section written by `TM-02`  
+> Interface improvements section written by `TM-03`
