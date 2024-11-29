@@ -9,10 +9,9 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 
 ## Datos del tester:
 - Name
-- Sex (male/female)
+- gender
 - Age
 - Nationality
-- Disability
 - Language
 
 ## Escenario1
@@ -24,6 +23,8 @@ El objetivo de esta entrevista es evaluar tu opinión mediante el análisis del 
 - Esta desabilitado la opcion de cambiar orden.
   
 ### Tareas
+Se da por completada la tarea una vez que pulses el voton de ver.
+
   - Busca la tarea que se entrege primero en el curso de grometria.(Resultado esperado ADA#10)
   - Busca el examen del curso de algoritmia.(Resultado esperado Prueba de desempeño 3)
   - Busca el dia de suspension de clases en el curso de geometria.(Resultado esperado 2 de dicimbre)
