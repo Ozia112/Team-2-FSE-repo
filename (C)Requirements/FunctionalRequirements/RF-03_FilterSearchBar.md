@@ -60,9 +60,35 @@ The user applies the filter.
 
 Expected Result: The system displays only the records that belong to the selected categories.
 
+# Interface improvements
 
+## Prototype 1
+![image](https://github.com/user-attachments/assets/b720c98e-6c2b-42d6-bc92-9efbb98a5242)
+
+## Prototype 2 
+![image](https://github.com/user-attachments/assets/300a5bcc-05bd-4528-ac29-0b535bf54fb1)
+
+### Prototype 1
+In the first prototype, several issues were identified that limited the functionality and user experience:
+
+- **Design limitation**: The initial design only allowed users to navigate to the notifications section without displaying any additional content.  
+- **Static interaction**: There was no dynamic response or feedback from the system when using the filtering or search bar options.  
+
+### Prototype 2
+The second prototype addressed the issues found in the first version, introducing significant improvements:
+
+- **Enhanced filtering system**: Clicking on the filtering options now presents two distinct choices.  
+- **Dynamic navigation**: Selecting one of the filtering options provides additional related sub-options. Each subsequent click leads to a unique interface tailored to the user's chosen interaction.  
+- **Improved interactivity**: The design now ensures that users receive relevant feedback and can explore related content seamlessly.
+
+### Key Differences Between Prototypes
+- **Navigation**: The first prototype had a static flow, while the second prototype implemented a more dynamic and interactive experience.  
+- **Feedback**: The initial version lacked feedback mechanisms, whereas the improved version added responsive interactions based on user input.  
+- **Usability**: The second prototype enhanced the user's ability to explore different functionalities, making the interface more intuitive and efficient.  
+
+These changes demonstrate a clear focus on addressing user needs and improving the overall design and usability of the login and search bar functions.
 
 
 > Description section written by `TM-04`  
-> Artifacts section written by `TM-02`
-
+> Artifacts section written by `TM-02`  
+> Interface improvements section written by `TM-03`
