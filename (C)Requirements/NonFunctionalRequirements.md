@@ -34,3 +34,5 @@
      - Menus are logically organized and clearly labeled.
      - Buttons are easily identifiable with descriptive labels and noticeable colors.
      - Key functionalities can be accessed within a few clicks.
+
+> Written by `TM-03` 
