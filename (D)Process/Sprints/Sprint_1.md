@@ -7,7 +7,7 @@
 * Organization of work in Git branches:
     * All work will be uploaded to specific department branches before integrating into the main branch for the third delivery
 
-* Implementation of review rules.
+* Implementation of review rules:
     * All work must be reviewed by another person before final acceptance.
 
 * Development tools.
