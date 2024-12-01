@@ -1,10 +1,7 @@
 # General Contribution Tables
 
-Information
 
-
-
-
+![tablas](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/assets/Stage3/tabla.aportegeneral.png)
 
 
 
