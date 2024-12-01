@@ -1,4 +1,3 @@
-
 # User Definition
 
 ## Introduction
