@@ -2,7 +2,12 @@
 
 The following tables show the results and feedback from the usability tests conducted for the UADYHUB prototype.
 
-Imagen-tabla.Grados
+All the information can be found in the link below:<br>
+[Results and FeedBack of Satisfaction Survey](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Binnacle/Changelogs/(G)Design/Results%20and%20feedback.md)
+
+[Informal Testing Videos](https://alumnosuady-my.sharepoint.com/:f:/g/personal/a24216477_alumnos_uady_mx/EmmNiTTA6DdIrgSXghtXWCgBARiSkr1RoLlJaz4Q31YjTw)
+
+![Imagen-tabla.Grados](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-3/assets/Stage3/(D)ChangeLogs/tabla.Grados.png)
 
 |  Participantes | Encontro facil navegar por la interfaz | La informacion en la pantalla era clara y comprensible|Estoy satisfecho con la experiencia general que tuve |Recomendarias esta aplicacion a otros estudiantes|
 |----------------|----------------------------------------|-----------------------------|-----------|--|
@@ -15,8 +20,8 @@ Imagen-tabla.Grados
 |7-Said        |4   | 5                    |     4      | 5  ||
 |8-Perla       |5   | 4                    |     5      | 5  ||
 
-# average
-*imagen aqui* tabla.Promedio
+# Average
+![*imagen aqui* tabla.Promedio](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-3/assets/Stage3/(D)ChangeLogs/tabla.promedio.png)
 
 With the help of the data obtained from the satisfaction survey in the usability tests, we can find the average for each question and make observations based on that.
 
