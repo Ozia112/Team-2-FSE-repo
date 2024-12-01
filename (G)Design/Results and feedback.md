@@ -1,3 +1,4 @@
+
 # Result and FeedBack
 
 The following tables show the results and feedback from the usability tests conducted for the UADYHUB prototype.
@@ -68,12 +69,3 @@ General Conclusions
 # Final Conclusion
 
 Most users were satisfied according to the survey, which indicates that the prototype may be useful for their activities. However, there are still issues that can be improved to ensure users are fully satisfied.
-
-
-
-
-
-
-
-
-

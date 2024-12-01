@@ -24,15 +24,12 @@ Está basada en estándares y paradigmas familiares mediante el uso de elementos
  ###  1.Fundamentos de diseño 
 
   **Tipografía**: Escoge dos o tres tipos de letra que se complementen entre sí. Define el uso de cada uno (títulos, subtítulos, cuerpo de texto):
-  - Tipografia UADYHUB: Passion One
-  - Tipografía LOGIN: Source Sans 3
-  - Tipografia General : Encode Sans Semi Expanded 
+  
     
-   **Paleta de Colores**: Selecciona una paleta de colores coherente. Puede incluir colores principales, secundarios y de acento.
-  ![Colors](image.png), ![alt text](image-1.png), ![alt text](image-2.png), ![alt text](image-3.png)
+   **Paleta de Colores**: Selecciona una paleta de colores coherente. Puede incluir colores principales, secundarios y de 
 
    **Espaciado y Margen**: Define las reglas de espaciado entre elementos, así como los márgenes y el padding.
-- spacing: #25  ![alt text](image-4.png)
+
 
 ### 2. Elementos Gráficos
 
@@ -42,15 +39,12 @@ Está basada en estándares y paradigmas familiares mediante el uso de elementos
    
 
   **Imágenes**: Define el estilo de las imágenes (fotografías, ilustraciones) y cómo deben integrarse en el diseño.
-  - Uso de ilustaciones como logos 
-
-  ![  ](image-7.png)
-    ![ ](image-8.png)
+  
 
 ### 3. Componentes de la Interfaz
 
    **Navegación**: Crea un esquema de navegación, incluyendo menús, barras laterales y breadcrumbs.
-    ![   ](image-10.png)
+   
 
 
 
@@ -65,5 +59,5 @@ Está basada en estándares y paradigmas familiares mediante el uso de elementos
 
    **Logotipo**: Define el uso correcto del logotipo (tamaño mínimo, espacio alrededor, versiones de color).
     
- ![alt text](image-11.png) 
+ 
 
