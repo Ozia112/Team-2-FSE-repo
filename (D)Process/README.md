@@ -1,18 +1,27 @@
-# Process
-In this directory, we will explain the process and management of all the project tasks
-## Table of contents:
-- [Process description]
-- [Process management]
-- [Metrics and contributions]
-##  Binnacles :
-- [TM-01][TM01Binn]
+>- Table of contents:
+>   - [Process description]
+>   - [Monitoring Tools]
+>- Meeting Resume:
+>   - [Sprint 1][MS1]
+>   - [Sprint 2][MS2]
+>   - [Sprint 3][MS3]
+>- Binnacles :
+>   - [Sprint 1][BF1]
+>   - [Sprint 2][BF2]
+>   - [Sprint 3][BF3]
 
 
 
-[Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process%20description.md "Description of sprints, roles, workflow, naming rules and protocols"
-[Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Process-management.md "Explanation of the projects section in GitHub, Milanote, task assignment, task list; problems and their solutions"
-[Metrics and contributions]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/Metrics_and_contributions.md
-[TM01Binn]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/.TM-01_Binnacle.md
+[Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/ProcessDescription.md "Description of sprints, roles, workflow, naming rules and protocols"
 
-Time lapsed: 06:03 07/10/24
+[Monitoring Tools]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/MonitoringTools.md "Explanation of the projects section in GitHub, the assignation of task, etc."
+
+[MS1]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Changelogs/(D)Process/Sprints/Sprint_1.md "Sprint 1 meetings resume"
+[MS2]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Changelogs/(D)Process/Sprints/Sprint_2.md "Sprint 2 meetings resume"
+[MS3]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Changelogs/(D)Process/Sprints/Sprint_3.md "Sprint 3 meetings resume"
+
+[BF1]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_1 "Individual binnacles of sprint 1"
+[BF2]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_2 "Individual binnacles of sprint 2"
+[BF3]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_3 "Individual binnacles of sprint 3"
+
 > Written by ``TM-01``
