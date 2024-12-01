@@ -1,4 +1,3 @@
-
 # Result and FeedBack
 
 The following tables show the results and feedback from the usability tests conducted for the UADYHUB prototype.
@@ -13,14 +12,14 @@ All the information can be found in the link below:<br>
 |  Participantes | Encontro facil navegar por la interfaz | La informacion en la pantalla era clara y comprensible|Estoy satisfecho con la experiencia general que tuve |Recomendarias esta aplicacion a otros estudiantes|
 |----------------|----------------------------------------|-----------------------------|-----------|--|
 |1-Ruby         |5   | 5                    |     5      | 5  ||
-|2-Fabio       |5   | 5                    |     5      | 5  || 
+|2-Fabio        |5   | 5                    |     5      | 5  || 
 |3-Carlos       |5   | 5                    |     5      | 5  ||
 |4-Katherine    |3   | 4                    |     5      | 5  ||
 |5-Cesar        |5   | 5                    |     5      | 5  ||
 |6-Valeria      |5   | 5                    |     5      | 5  ||
-|7-Said        |4   | 5                    |     4      | 5  ||
-|8-Perla       |5   | 4                    |     5      | 5  ||
-
+|7-Said         |4   | 5                    |     4      | 5  ||
+|8-Perla        |5   | 4                    |     5      | 5  ||
+ 
 # Average
 ![*imagen aqui* tabla.Promedio](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-3/assets/Stage3/(D)ChangeLogs/tabla.promedio.png)
 
@@ -69,3 +68,12 @@ General Conclusions
 # Final Conclusion
 
 Most users were satisfied according to the survey, which indicates that the prototype may be useful for their activities. However, there are still issues that can be improved to ensure users are fully satisfied.
+
+
+> Written by ``TM-07``
+
+
+
+
+
+
