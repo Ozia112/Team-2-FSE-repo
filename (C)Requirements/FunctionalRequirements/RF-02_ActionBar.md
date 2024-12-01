@@ -169,4 +169,4 @@ As a user, I want to quickly access different sections of the application throug
 > Description section written by `TM-01`  
 > Artifacts section written by `TM-02`
 
-[`RF-03`]: https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Product/Requirements/(C)Requirements/FunctionalRequirements/RF-03_FilterSearchBar.md
+[`RF-03`]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Requirements/(C)Requirements/FunctionalRequirements/RF-03_FilterSearchBar.md
