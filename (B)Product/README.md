@@ -1,11 +1,18 @@
 #### (B)Product
 
 # Table of contents
- >- [Product](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/Product.md)
->     - This section shows the objectives, scope, and limitations of the product.
- >- [Users-Clients](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/DefinitionOfUsersClients.md)
->     - This section defines the users and clients of the product.
- >- [Value proposition](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ValueProposition.md)
->     - In this section, you will see our value proposition.
- >- [Product evolution](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ProducteEvolution.md)
-Written by `TM-02` and `TM-07`
+ >- [Innovation]
+>    - This document describes the product, its limitations, scope, and its innovation compared to other alternatives available in the market.
+ >- [Definition of users]
+>    - This section defines the users and clients of the product.
+ >- [Feasibility]
+>    - In this section, a brief investigation is conducted regarding the feasibility of the project in a non-hypothetical environment.
+ >- [Product evolution] 
+ >   - In this section, a brief summary of the changes made to the product from the second to the third release is compiled.
+
+>Written by `TM-01`
+
+[Innovation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/Innovation.md
+[Definition of users]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/UsersDefinition.md
+[Feasibility]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/FeasibilityStudy.md
+[Product evolution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/ProductEvolution.md

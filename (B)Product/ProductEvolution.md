@@ -94,17 +94,17 @@ These are the changes made during the first, second, and third iterations:
 
 [Functional Requirements Iteration 2]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md
 
-[Functional Requirements Iteration 3]:https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Product/Requirements/(C)Requirements/FunctionalRequirements
+[Functional Requirements Iteration 3]:https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements
 
 [Non-functional Requirements Iteration 2]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/NonFunctionalRequirements.md
 
-[Non-functional Requirements Iteration 3]:https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Product/Requirements/(C)Requirements/NonFunctionalRequirements.md
+[Non-functional Requirements Iteration 3]:https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/NonFunctionalRequirements.md
   
 [User Definition Iteration 2]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/DefinitionOfUsersClients.md
   
-[User Definition Iteration 3]:https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Product/Requirements/(B)Product/UsersDefinition.md
+[User Definition Iteration 3]:https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/UsersDefinition.md
   
-[Action Bar Diagrams]:https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Product/Requirements/(C)Requirements/FunctionalRequirements/RF-02_ActionBar.md#uady-hubs-data-behavior
+[Action Bar Diagrams]:https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requiremen ts/FunctionalRequirements/RF-02_ActionBar.md#uady-hubs-data-behavior
   
 [Process Description Iteration 1]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/D_task/Process%20description.md
   
@@ -112,9 +112,9 @@ These are the changes made during the first, second, and third iterations:
   
 [User Interface Iteration 2]:https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterfaceSketch.md
   
-[User Interface Evolution]:https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/(G)Design/Evolution%20of%20user%20interface.md
+[User Interface Evolution]:https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/Evolution%20of%20user%20interface.md
   
-[Guia de diseño]:https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Design/(G)Design/Guia%20de%20dise%C3%B1o.md
+[Guia de diseño]:https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/Guia%20de%20dise%C3%B1o.md
   
 [Wireframes]:https://www.figma.com/proto/m0cFFpXTLMjPUJ9HLpExdP/UADY-HUB?node-id=390-3141&node-type=canvas&t=RnHxfKcmh4wAVsUT-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&show-proto-sidebar=1
 
