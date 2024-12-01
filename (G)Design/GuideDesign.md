@@ -1,63 +1,53 @@
-# Guía de diseño 
+# Guide Design
 
-## **La integridad estética**
-Representa qué tan bien la apariencia y el comportamiento de una aplicación se integran con su función.
+### **Aesthetic Integrity**
 
-## **La consistencia en el diseño**
-Está basada en estándares y paradigmas familiares mediante el uso de elementos de interfaz provistos por el sistema operativo, iconos conocidos, estilos de texto estándar y terminología uniforme.
+Represents how well the appearance and behavior of an application integrate with its function.
 
-## **Interacción directa**
+### **Design Consistency**
 
-**La interacción directa** del usuario con el contenido en su pantalla los compromete y les facilita la comprensión de lo que están haciendo.
+Based on familiar standards and paradigms through the use of interface elements provided by the operating system, known icons, standard text styles, and uniform terminology.
 
-##  **La retroalimentación**
-**La retroalimentación** ayuda a los usuarios a reconocer las acciones que son útiles y les muestra resultados para mantenerlos informados.
+### **Direct Manipulation**
 
-##  **Las metáforas**
+**Direct manipulation** of the user with the content on their screen engages them and helps them understand what they are doing.
 
-**Las metáforas** ayudan a que las personas aprendan más rápidamente cuando los objetos y acciones virtuales de una aplicación son similares de experiencias familiares.
+### **Feedback**
 
+**Feedback** helps users recognize useful actions and shows them results to keep them informed.
 
-#  Fundamentos de Diseño 
+### **Metaphors**
 
+**Metaphors** help people learn faster when virtual objects and actions in an application are similar to familiar experiences.
 
- ###  1.Fundamentos de diseño 
+## Design Fundamentals
 
-  **Tipografía**: Escoge dos o tres tipos de letra que se complementen entre sí. Define el uso de cada uno (títulos, subtítulos, cuerpo de texto):
-  
+### 1. Design Fundamentals
+
+**Typography**: Choose two or three typefaces that complement each other. Define the use of each one (titles, subtitles, body text):
+
+**Color Palette**: Select a consistent color palette. It may include primary, secondary, and
+
+**Spacing and Margin**: Define the rules for spacing between elements, as well as margins and padding.
+
+### 2. Graphic Elements
+
+**Icons and Graphics**: Establish a visual style for icons and graphics, ensuring they are consistent throughout the design.
+
+-   Icons: Standard icons are black or white
     
-   **Paleta de Colores**: Selecciona una paleta de colores coherente. Puede incluir colores principales, secundarios y de 
 
-   **Espaciado y Margen**: Define las reglas de espaciado entre elementos, así como los márgenes y el padding.
+**Images**: Define the style of images (photographs, illustrations) and how they should be integrated into the design.
 
+### 3. Interface Components
 
-### 2. Elementos Gráficos
+**Navigation**: Create a navigation scheme, including menus, sidebars, and breadcrumbs.
 
-  **Iconos y Gráficos**: Establece un estilo visual para iconos y gráficos, asegurándote de que sean consistentes en todo el diseño.
-  - Iconos: Los iconos estandar son de color blanco o negro 
+### 4. Design Application
 
-   
+**Templates**: Design templates for specific pages (home, notifications, settings).
 
-  **Imágenes**: Define el estilo de las imágenes (fotografías, ilustraciones) y cómo deben integrarse en el diseño.
-  
+### 5. Brand Manual
 
-### 3. Componentes de la Interfaz
-
-   **Navegación**: Crea un esquema de navegación, incluyendo menús, barras laterales y breadcrumbs.
-   
-
-
-
-### 4. Aplicación del Diseño
-
-   **Plantillas**: Diseña plantillas para páginas específicas (inicio, notificaciones, Ajustes).
-
-    
-  
-
-### 5. Manual de Marca
-
-   **Logotipo**: Define el uso correcto del logotipo (tamaño mínimo, espacio alrededor, versiones de color).
-    
- 
+**Logo**: Define the correct usage of the logo (minimum size, space around, color versions).
 
