@@ -72,3 +72,5 @@ After the last evaluation, the team decided to reduce the functional and non-fun
 
 
 In conclusion, the reduction of requirements enables a clearer focus on critical functionalities and user experience. This process guarantees a more focused and sustainable development, prioritizing measurable and functional deliverables.
+
+> Written by `TM-03` 

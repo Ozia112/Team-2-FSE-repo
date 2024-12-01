@@ -24,6 +24,7 @@ There are similar projects within the UADY aimed at managing academic platforms,
 
 The project will utilize a variety of programming languages and tools, including Python, MySQL, C++, Java, HTML, PHP, and platforms such as Jupyter Notebook. The system must be compatible with a wide range of devices, including smartphones, tablets, and desktop computers, and it must function on both Android and iOS operating systems. This ensures that students can access the platform from any device of their choice.
 
+> Written by `TM-03` 
 ## Identified Risks
 
 Several risks have been identified that could impact the development of the project. The lack of technical experience among some team members is a significant challenge, potentially delaying progress in the initial phases. Additionally, time constraints due to academic and work obligations may affect the overall timeline. Another major risk is the infrastructure, as some team members may not have devices powerful enough to run the necessary tools, leading to delays and potential difficulties during development.
