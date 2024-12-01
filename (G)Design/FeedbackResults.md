@@ -4,11 +4,11 @@
 The following tables show the results and feedback from the usability tests conducted for the UADYHUB prototype.
 
 All the information can be found in the link below:<br>
-[Results and FeedBack of Satisfaction Survey](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Binnacle/Changelogs/(G)Design/InformalTestingEncuestas.md#informal-testing-1)
+[Results and FeedBack of Satisfaction Survey]
 
 [Informal Testing Videos](https://alumnosuady-my.sharepoint.com/:f:/g/personal/a24216477_alumnos_uady_mx/EmmNiTTA6DdIrgSXghtXWCgBARiSkr1RoLlJaz4Q31YjTw)
 
-![Imagen-tabla.Grados](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-3/assets/Stage3/(D)ChangeLogs/tabla.Grados.png)
+![Imagen-tabla.Grados](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/assets/Stage3/(D)ChangeLogs/tabla.Grados.png)
 
 |  Participantes | Encontro facil navegar por la interfaz | La informacion en la pantalla era clara y comprensible|Estoy satisfecho con la experiencia general que tuve |Recomendarias esta aplicacion a otros estudiantes|
 |----------------|----------------------------------------|-----------------------------|-----------|--|
@@ -22,7 +22,7 @@ All the information can be found in the link below:<br>
 |8-Perla       |5   | 4                    |     5      | 5  ||
 
 # Average
-![*imagen aqui* tabla.Promedio](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-3/assets/Stage3/(D)ChangeLogs/tabla.promedio.png)
+![*imagen aqui* tabla.Promedio](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/assets/Stage3/(D)ChangeLogs/tabla.promedio.png)
 
 With the help of the data obtained from the satisfaction survey in the usability tests, we can find the average for each question and make observations based on that.
 
@@ -69,3 +69,5 @@ General Conclusions
 # Final Conclusion
 
 Most users were satisfied according to the survey, which indicates that the prototype may be useful for their activities. However, there are still issues that can be improved to ensure users are fully satisfied.
+
+[Results and FeedBack of Satisfaction Survey]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/SatisfactionInterviews.md
