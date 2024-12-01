@@ -3,7 +3,7 @@
 The following tables show the results and feedback from the usability tests conducted for the UADYHUB prototype.
 
 All the information can be found in the link below:<br>
-[Results and FeedBack of Satisfaction Survey](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Binnacle/Changelogs/(G)Design/Results%20and%20feedback.md)
+[Results and FeedBack of Satisfaction Survey](https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Binnacle/Changelogs/(G)Design/InformalTestingEncuestas.md#informal-testing-1)
 
 [Informal Testing Videos](https://alumnosuady-my.sharepoint.com/:f:/g/personal/a24216477_alumnos_uady_mx/EmmNiTTA6DdIrgSXghtXWCgBARiSkr1RoLlJaz4Q31YjTw)
 
