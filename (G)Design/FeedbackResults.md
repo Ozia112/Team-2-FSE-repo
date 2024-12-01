@@ -70,7 +70,7 @@ General Conclusions
 Most users were satisfied according to the survey, which indicates that the prototype may be useful for their activities. However, there are still issues that can be improved to ensure users are fully satisfied.
 
 
-> Written by ``TM-07``
+
 
 
 

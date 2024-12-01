@@ -131,5 +131,3 @@ Said
 - ¿Qué fue lo que más le gustó de la simulación?<br> "El diseño de las interfaces es atractivo y a mi arecer moderno." 
 - ¿Encontró algo confuso o difícil de usar?<br> "Solo al momento de escoger las materias hay que tocar el puntito para ir a mas notificaciones."
 - ¿Qué mejoraría o agregaría a la aplicación?<br> "Por el momento creo que no." 
- 
-> Written by ``TM-07``
