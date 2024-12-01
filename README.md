@@ -35,6 +35,6 @@
 [Procces]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Process
 [Binnacles/Changelogs]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Binnacle/Changelogs
 [Video/Presentation]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Video/presentation
-[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Competencies
+[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Competencies 
 
 >Written by: ``TM-01``
