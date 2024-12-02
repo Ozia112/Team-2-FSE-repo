@@ -1,4 +1,5 @@
 >- Table of contents:
+>   - [MetricsAndContribution]
 >   - [Process description]
 >   - [Monitoring Tools]
 >- Meeting Resume:
@@ -10,7 +11,7 @@
 >   - [Sprint 2][BF2]
 >   - [Sprint 3][BF3]
 
-
+[MetricsAndContribution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/MetricsAndContribution.md
 
 [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/ProcessDescription.md "Description of sprints, roles, workflow, naming rules and protocols"
 
