@@ -14,7 +14,7 @@ The project consists of the proposal of a software product that serves as a pote
 -	```Assistant```: TM-06
 ## Third Stage
 
-### Product Evoltion
+### Product Evolution
 In this third delivery, we will present the results of the final list of requirements, as well as the usability tests. 
 
 ### Final of Functional and Non-Functional Requirement
