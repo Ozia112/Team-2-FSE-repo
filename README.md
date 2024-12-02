@@ -58,7 +58,12 @@ The project must be well documented through the GitHub repository so that in cas
   - [Binnacle 2]
   - [Binnacle 3]
 - [Video/Presentation]
-- ### Pendientes
+  - [GeneralOutlineVideo](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(E)Presentation/GeneralOutlineVideo.md)
+  - [Video Script](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(E)Presentation/VideoScript.md)
+  - [VideoQualityParameters](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(E)Presentation/VideoQualityParameters.md)
+  - [Storyboard](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(E)Presentation/Storyboards.md)
+  - [VideoPresentation](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(E)Presentation/VideoPresentation.md)
+
 - [Competencies]:
 - ### Pendientes
 
