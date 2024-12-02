@@ -98,12 +98,8 @@ At the start of each iteration, a personal meeting will be scheduled to discuss 
 - Time and record the duration spent on a specific task.
 - Report any changes made in a personal log within the folder of the assigned sprint activity is performed. The  file name and format should follow this structure: 
 
-  - [binnacle format]
+ 
+
+>Written by: ``TM-04``
 
 
-Time lapsed: 14:25:26 30/11/2024
->Written by `TM-01`.
-
-
-
-[binnacle format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Binnacle/Changelogs/(D)Process/BinnacleInformation.md
