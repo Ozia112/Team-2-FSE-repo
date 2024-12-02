@@ -1,6 +1,6 @@
 In this file will be there all the content related with the video creation and presentation.
 # Table of contents:
-- [GeneralOutlineVideo]()
+- [GeneralOutlineVideo](https://github.com/Ozia112/Stage-3/blob/department.Video/presentation/(E)Presentation/GeneralOutlineVideo.md)
 - [Video Script]()
 - [VideoQualityParameters]()
 - [Storyboard]()
