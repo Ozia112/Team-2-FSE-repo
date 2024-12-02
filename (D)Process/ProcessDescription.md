@@ -1,10 +1,34 @@
-# Process Description (FIS Project Stage 1)
+# Process Description (FIS Project Stage 3)
 ## Introduction
-The following document will break down the general project activities and their expected outcomes. It will also provide a detailed explanation of how the iterations for the second stage of the project will work, special cases for certain tasks, and the protocols for correct naming and documentation of participation in the project.
+The following document will break down the general project activities and their expected outcomes. It will also provide a detailed explanation of how the iterations for the third stage of the project will work, special cases for certain tasks, and the protocols for correct naming and documentation of participation in the project.
+### Sprint
+During the process of the third stage of the project, the team will be organized into sprints, with two mandatory meetings held per sprint: a planning session to assign tasks to the production departments and the other will be a progress review and evaluation of artifacts produced.
+### Planning Meetings:
+The sprint planning meeting will be held on Mondays at 11:00 am. During these sessions, the team will discuss and agree on the distribution of tasks and activities among the team members.
+### Evaluation Meetings
+The evaluation meeting will be held on Fridays at 9:00 am. During these sessions, each department’s activities will be reviewed with a progress report prepared by the chief department. This approach aims to streamline the review and minimize the risk of undetected errors.
+### Sprint Size
+Each sprint will last an average of five days, with an additional day allocated to address issues, correct errors, and complete any delayed tasks in preparation for the next meetings.
 
-## ID’s Assignation.
+### Planning
+The work will be conducted throughout November with the goal of completing the project at least four days before the deadline. This will allow an additional sprint for error detection and resolution.
+
+### Problem Detection
+During the second delivery, issues arose with the equitable distribution of project activities, leading to an imbalance in participation that was challenging to measure precisely. Failures in calculating the weight of certain activities required more effort and time than anticipated. It was noted that high-weight activities needed to be divided among each sprint to section and adapted to them as necessary for proper progress.
+
+Due to this, activities will now be divided by production departments. Different team members will be responsible for directing and gathering information on participation within their process. This will allow better individual monitoring, timely reporting of potential anomalies, and facilitate task reassessment in terms of weight or time as needed.
+
+### Production Departments
+- **Product/Requirements:** Improvement and refinement of requirements, scopes, and user definitions. **Lead:** TM-03.
+- **Design:** Definition of visual aspects, interfaces, and quality standards of prototypes. **Lead:** TM-02.
+- **Process:** Definition, description, and establishment of project protocols, activities, regulations, and timelines. **Lead:** TM-01.
+- **Logs/Changelogs:** Monitoring team activities, supervising activity descriptions, and logging sprint meetings. **Lead:** TM-07.
+- **Presentation and Video:** Project presentation to the audience, potential users, and clients, along with documentation quality supervision. **Lead:** TM-05.
+- **Competencies:** Evaluation of competencies acquired by the team during the project, considering general activities and achieved skills. **Lead:** TM-04.
+
+### ID’s Assignation.
 The assignment of Identifiers for team members will be implemented to increase the flexibility of team job changes in case a member is absent or previously assigned roles change in the next stages of the project. The enumeration is assigned in order of integration into the team at the time it was formed. At some point in the process, members may change their identifier with prior notice in case it is needed due to an emergency.
-The assignment with team members (09/21/2024) is as follows:
+The assignment with team members (11/30/2024) is as follows:
 - `TM-01`: Isaac Ortiz
 - `TM-02`: Paola Parra
 - `TM-03`: Rolando Cabrera
@@ -15,11 +39,35 @@ The assignment with team members (09/21/2024) is as follows:
 ### Roles and Responsibilities
 - `Project Manager`: _Responsible for the overall management of the project, in charge of distributing tasks across the different stages among all members, taking into account their skills._
 - `Repository Manager`: _Responsible for organizing the project to improve readability and ensuring that repository navigation is user-friendly for those visiting the directory._
+- `Chief Department`:_Responsible of the department management, they review commits in the categories and approve the changes and creations in the branch to eventually create a PR to the main branch(FIS-Project-Stage-3)._
 - `Log Keeper`: _Responsible for recording and organizing the logs of all project members in a readable and easy-to-analyze format to enable quick and efficient data analysis._
 - `Task Owner`: _Members who have been assigned a specific project task._
 - `Assistant`: _Members assigned to assist the task owner in solving the issues related to the specific task._
 ---
 ## Workflow
+The workflow has been modified to avoid errors made in previous deliveries. Activities will now be distributed weekly, depending on completion, progress, or unexpected delays, following a weekly schedule instead of a fixed table from the start. This will reflect the actual needs of the project process.
+
+Additionally, document creation, modification, or correction will now be managed from each team member's local repository for assigned activities, which will then be uploaded to the respective department. As a result, GitHub Desktop and GitBash applications will be used to comfortably and securely update each member's local repository through merging the main branch.
+
+Changes concentrated in department branches will be reviewed in the revision meetings. Possible issues or necessary changes in pull requests will be evaluated to finalize or merge them into the main branch. After each revision meeting, team members must update their personal branches with the main branch to avoid compatibility errors.
+
+```mermaid
+graph
+main([main])
+   ==>Stg1([FIS-Project-Stage-1])
+   ==>Stg2([FIS-Project-Stage-2])
+      ==>Stg3([FIS-Project-Stage-3])
+         ==Clone/Merge==>RL([Local Repository: Personal branch])
+         -.->cmm[/commit/]
+         -.->push[/push origin/]
+         --Pull Request-->RPR{Review Pull Request}
+            RPR--Fix-->RL
+            RPR--Merge-->DprB([Department Branch])
+            ==Pull Request==>DRM{Departments Review Meeting}
+            DRM--Fix-->DprB
+            DRM--Merge-->Stg3
+```
+
 ### Iterations
 The workflow will be structured in six-day iterations (except in specific cases), during which the different activities have been distributed. At the beginning of each iteration, a general report will be made on all changes implemented, objectives achieved, possible corrections, and the resolution of any questions the team may have regarding the previous iteration or upcoming activities.  
 
@@ -48,48 +96,14 @@ At the start of each iteration, a personal meeting will be scheduled to discuss 
 ### Logs 
 - The general log for both video call and in-person meetings will continue to be recorded by ``TM-03`` and now also by ``TM-07`` simultaneously.
 - Time and record the duration spent on a specific task.
-- Report any changes made in a personal log within the folder where the assigned activity is performed. The  file name should follow this structure: [.] Team ID [_] Binnacle. Example: .TM-01_Binnacle.
-- Activity reports must include the following information:
-   - Activity ID
-   - Description of changes/tasks completed
-   - Date
-   - Duration of the activity
-   - Example:
->---   
->### 06/10/2024 
-   > D2.0 Creation of the file and sections: Introduction, Project (GitHub), Milanote, Task Assignment, Timeline, and Task List. Time lapsed: 06:30:50
-   > 
->---
+- Report any changes made in a personal log within the folder of the assigned sprint activity is performed. The  file name and format should follow this structure: 
+
+  - [binnacle format]
 
 
-
-
-### Repository changes
-Once progress has been made on the work in the repository, a commit should be made, and the change should be applied to the main branch of the corresponding project stage (FIS-Project-Stage-1) through the creation of a pull request, where the changes to be implemented can be reviewed.
-Each day, before starting the assigned activities, the team member must create a pull request to copy the files from the main project branch into their personal branch to work with the updated files and avoid accidental overwriting or duplication of unwanted files.
-Below are the steps to follow to create the mentioned pull requests:
-##
-![Pull request step1](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage1/click_in_the_pull_request_section.png)
-> Click in the pull request section
-##
-![Pull request step2](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage1/create_pull_request.png)
-> Click in the create new pull request button
-##
-![Compare branchs](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage1/compare_branches_reference.png)
-
-> Make a comparision between the two branches to create a copy
-
-### Workflow protocol
-The workflow follows simple Git protocols for faster work, so no other person is needed to confirm changes to the main branch. All changes must be stored in different files for modular management, as outlined in the following diagram:
-![Flujo de trbajo](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-01-Branch/assets/Stage1/work_flow_graph.png)
-### Branch Creation
-To be able to work in an orderly manner on the project, the creation of personal branches for each team member is completely necessary. The creation of these branches must follow rules and protocols so that order is maintained in the course of the work.
-#### Branch Rules:
->    - Branch names should be composed of the team member’s ID followed by the word “Branch”. Example: TM-01-Branch
->    - The source Branch for the personal Branch it must be the main branch of the project stage (FIS-Project-Stage-1)
->    - In your Branch you need to create a directory for your work with the main category of your task followed by the word “_task”, for example if your task assigned is BA1.1 you need to create a directory named as B_task
->    -	Team members must keep their personal branches organized and clean, with their corresponding files placed in their assigned folders for images and task categories.
->    - The usage of assets like images need to be upload in the folder named “assets”  
-
-Time lapsed: 02:34:26 07/10/2024
+Time lapsed: 14:25:26 30/11/2024
 >Written by `TM-01`.
+
+
+
+[binnacle format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/department.Binnacle/Changelogs/(D)Process/BinnacleInformation.md

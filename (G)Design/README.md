@@ -1,18 +1,19 @@
+>- [UI Evolution]
+>- [Feedback Results]
+>- [Guide Design]
+>- [Format of interviews]
+>- [Matching artifacts evidence]
+>- [Matching Requirements evidence]
+>- [Satisfaction Interview results]
+>- [Scenery 1 description]
 
+>Written by: `TM-01`
 
-## :diamond_shape_with_a_dot_inside: Simulation Tests
-> In this section, the prototype of the project was developed, which includes a simulation of the login process, as well as the conceptualization of a proposal to integrate various virtual platforms.
-## :diamond_shape_with_a_dot_inside: Interview Format: Non-Functional Requirements and Functional Requirements
-> In this section, you can see the interview format that was created to gather information about the prototype.
-## :diamond_shape_with_a_dot_inside: Interview Results Graphs
-> In this section, you can see the evaluation charts and tables that show the interview results.
-## 
-
-# Table of Contents:
-- [Simulation Tests](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/Interface_Sketch.md#second-sketch)
-- [Interview Format](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md)
-- [Interview Results Graphs](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewResultsGraphs.md)
-
-# Binnacles :
-> [TM-7](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-07-branch/(G)Design/.TM-07_Binnacle.md)
-- Written by `TM-07`
+[UI Evolution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/EvolutionUI.md
+[Feedback Results]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/FeedbackResults.md
+[Guide Design]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/GuideDesign.md
+[Format of interviews]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/InterviewFormat.md
+[Matching artifacts evidence]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/MatchingArtefacts.md
+[Matching Requirements evidence]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/MatchingRequirements.md
+[Satisfaction Interview results]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/SatisfactionInterviews.md
+[Scenery 1 description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/Scenery1.md

@@ -1,23 +1,23 @@
 ## Table of Contents:
 
-- [Functional Requirements](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md)
-    - This section contains a list of the project's functional requirements, presented in a user story format, as well as the specifications for each one.
+>- [Functional Requirements/]
+>    - [RF-01]
+>    - [RF-02]
+>    - [RF-03]
+>- [Non Functional Requirements]
+>- [Evolution Requirements]
 
-- [Non Functional Requirements](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/NonFuncionalRequirements.md)
-    - In this section there will be a list of non functional requirements for our project in a user Stories format.
+>Written by `TM-01`
 
-- [Priority Levels](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/PriorityLevels.md)
-   - In this section there will be a list of priority levels of the requirements, both the functional requirements and the non-functional requirements, these will be ranked high, medium and low.
 
-- [Diagram Use Cases](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/DiagramUseCases.md)
-    - A visual presentation of the project's use cases in diagram format.
+[Functional Requirements/]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements "This section includes the refined functional requirements, their descriptions, user stories, artifacts, data flow diagrams, and the improvements made to the UI throughout the stages"
 
-- [TM-03_Binnacle](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-03-Branch/(C)Requirements/.TM-03_Binnacle.md)
-    - The logbook of member TM-03, where progress, timelines, and changes made during the project development are recorded.
+[RF-01]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements/RF-01_Login.md
 
-- [TM-02_Binnacle](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/TM-02_Binnacle.md)
-    - The logbook of member TM-02, where progress, timelines, and changes made during the project development are recorded.
+[RF-02]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements/RF-02_ActionBar.md
 
-Written by `TM-03`
+[RF-03]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements/RF-03_FilterSearchBar.md
 
-Collaborators `TM-02`
+[Non Functional Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/NonFunctionalRequirements.md "In this section there will be a list of non functional requirements for our project in a user Stories format."
+
+[Evolution Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/EvolutionRequirements.md "This section contains a summary of the changes made to the functional and non-functional requirements throughout the different stages of the project."

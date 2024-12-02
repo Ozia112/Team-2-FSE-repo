@@ -1,83 +1,120 @@
-# FIS Project Stage 2 (UADY HUB)
+# FIS Project Stage 3 (UADY HUB)
 ## Introduction
->The project consists of the [**proposal**][Product] of a software product that serves as a potential solution to a social issue in the environment. It should be able to facilitate certain aspects for the [**target users**][Definition of users/clients] we have in mind when defining the product proposal.
-Throughout this month, the proposal evolves to a product that might help and resolve problems found in situations that some new students at the Autonomous University of Yucatan (UADY) can face. These students often struggle with remembering and constantly checking the various online courses platforms that the university offers. Currently, the potential user group is limited to the Faculty of Mathematics. 
+The project consists of the proposal of a software product that serves as a potential solution to a social issue in the environment. It should be able to facilitate certain aspects for the target users we have in mind when defining the product proposal. Throughout this month, the proposal evolves to a product that might help and resolve problems found in situations that some new students at the Autonomous University of Yucatan (UADY) can face. These students often struggle with remembering and constantly checking the various online courses platforms that the university offers. Currently, the potential user group is limited to the Faculty of Mathematics.
+
 ## Roles
--	```Project Manager```: TM-01
--	```Repository Manager```: TM-01
--	```Log Keeper```: TM-07, 
-- ```Log keeper assistant```: TM-03
--	```Task Owner```: All members
--	```Assistant```: TM-03, TM-05, TM-06, TM-07
+#### Department Heads
+-	```Process```: TM-01
+-	```Design```: TM-02
+-	```Product/Requirements```: TM-03
+- ```Competencies```: TM-04
+-	```Video/Presentation```: TM-05
+-	```Binnacles/Changelogs```: TM-07
+### Assistant
+-	```Assistant```: TM-06
+## Third Stage
 
-## Second Stage
 ### Product Evolution
->In this second delivery, changes were made compared to the first, which were then evaluated and compared to more precisely identify when began the project increment between September and October.
-#### Definition of functional and non-functional requirements.
->During the first stage of the project, it is also necessary to define the functional and non-functional requirements of the product. All of this is important for the proper documentation of the development, so that later well-structured prototypes can be created, allowing a clear understanding of how the product would function.
->Initially, the functional requirements were reviewed again to determine which were essential and which should be eliminated, allowing us to focus more precisely on those fundamental to the platform’s operation. Similarly, the non-functional requirements were reviewed to correct possible errors not found in the first delivery due to the lack of information and researched feedback. 
-#### UI Design
->As part of the requirements for the second delivery, high fidelity UI proposals was developed to effectively validate the functional requirements of UADY HUB, in other words, to assure that can be located in the interface(evidence).
-#### Documentation and production of the video
->The project must be well documented through the GitHub repository so that in case you need to consult any aspect of the product, it can be reviewed at any time and have a clear overview of all aspects of its development.
->We will also need documents that explain the development of the product from the developer's point of view to create a working context and facilitate processes later.
->We will also need to create a summary/documentary video that encompasses the most important aspects of the second stage of the project, with a script that is clear and with a pleasant rhythm for the viewer. In addition to multimedia content that accompanies the video and graphically illustrates its documentary intention.
+In this third delivery, we will present the results of the final list of requirements, as well as the usability tests. 
 
+### Final of Functional and Non-Functional Requirement
+With the help of the functional and non-functional requirements created in the first delivery, and later evaluated in the second delivery, we refined our focus on the requirements critical to the platform's functionality. Non-functional requirements were also reviewed to correct errors that were overlooked in the first delivery.
+Using the information gathered from the first and second deliveries, we were able to finalize the list of functional and non-functional requirements.
+
+### Documentation and production of the video
+The project must be well documented through the GitHub repository so that in case you need to consult any aspect of the product, it can be reviewed at any time and have a clear overview of all aspects of its development. We will also need documents that explain the development of the product from the developer's point of view to create a working context and facilitate processes later. We will also need to create a summary/documentary video that encompasses the most important aspects of the second stage of the project, with a script that is clear and with a pleasant rhythm for the viewer. In addition to multimedia content that accompanies the video and graphically illustrates its documentary intention.
 
 ## Table of Contents:
->- [Product]
->    - [Product description][Product_description]
->    - [Definition of users/clients]
->    - [Value proposition]
->    - [Product Evolution]
->- [Requirements]
->    - [Functional requirements]
->    - [Non functional requirements]
->    - [Priority Levels]
->    - [Artifacts(Case use diagram)]
->- [Process]
->   - [Process description]
->   - [Process management]
->   - [Individual contribution metrics]
->- [Design]
->   - [UI sketchs]
->   - [Feedback interview  format]
->   - [FeedBack Information]
->- [Video]
->   - [Source assets]
->   - [Video Script]
->   - [Video presentation]
->- [Competencies]
->   - [Generic competencies]
->   - [Specific competencies]
 
->- Extra:
->   - [PD2]
 
-[Product]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(B)Product
-  [Product_description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/Product.md
-  [Definition of users/clients]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/DefinitionOfUsersClients.md
-  [Value proposition]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ValueProposition.md
-  [Product Evolution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(B)Product/ProductEvolution.md
-[Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(C)Requirements
-  [Functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/FunctionalRequirements.md
-  [Non functional requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/NonFunctionalRequirements.md
-  [Priority Levels]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/PriorityLevels.md
-  [Artifacts(Case use diagram)]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(C)Requirements/DiagramUseCases.md
-[Process]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(D)Process
-  [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/ProcessDescription.md
-  [Process management]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/ProcessManagement.md
-  [Individual contribution metrics]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(D)Process/MetricsAndContributions.md
-[Design]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(G)Design
-  [UI sketchs]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterfaceSketch.md
-  [Feedback interview  format]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewsFormat.md
-  [FeedBack Information]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(G)Design/InterviewResultsGraphs.md
-[Video]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(E)Presentation
-  [Source assets]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/assets/Stage2/(E)Presentation
-  [Video Script]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(E)Presentation/VideoScriptP1.md
-  [Video presentation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(E)Presentation/VideoPresentation.md
-[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/(F)Competencies
-  [Generic competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(F)Competencies/GenericCompetencies.md
-  [Specific competencies]: https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/(F)Competencies/SpecificCompetences.md
-[PD2]: https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-2/PD/PD2
-Written by `TM-01`
+- [Product/Requirements]
+  - [Product Evolution]
+  - [Feasibility]
+  - [Definition of users]
+  - [Innovation]
+  - [Functional Requirements]
+    - [RF-01]
+    - [RF-02]
+    - [RF-03]
+  - [Non Functional Requirements]
+  - [Evolution Requirements]
+- [Design]
+  - [UI Evolution]
+  - [Feedback Results]
+  - [Guide Design]
+  - [Format of interviews]
+  - [Matching artifacts evidence]
+  - [Matching Requirements evidence]
+  - [Satisfaction Interview results]
+  - [Scenery 1 description]
+- [Process-Binnacles/Changelogs]
+  - [MetricsAndContribution]
+  - [Process description]
+  - [Monitoring Tools]
+  - [Sprint 1]
+  - [Sprint 2]
+  - [Sprint 3]
+  - [Binnacle 1]
+  - [Binnacle 2]
+  - [Binnacle 3]
+- [Video/Presentation]
+- ### Pendientes
+- [Competencies]:
+- ### Pendientes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Product/Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Product/Requirements
+[Product Evolution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/ProductEvolution.md#product-evolution
+[Innovation]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/Innovation.md 
+[Definition of users]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/UsersDefinition.md 
+[Feasibility]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(B)Product/FeasibilityStudy.md
+[Functional Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements
+
+[RF-01]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements/RF-01_Login.md
+
+[RF-02]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements/RF-02_ActionBar.md
+
+[RF-03]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/FunctionalRequirements/RF-03_FilterSearchBar.md
+
+[Non Functional Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/NonFunctionalRequirements.md 
+
+[Evolution Requirements]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(C)Requirements/EvolutionRequirements.md 
+[Design]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Design
+[UI Evolution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/EvolutionUI.md
+[Feedback Results]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/FeedbackResults.md
+[Guide Design]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/GuideDesign.md
+[Format of interviews]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/InterviewFormat.md
+[Matching artifacts evidence]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/MatchingArtefacts.md
+[Matching Requirements evidence]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/MatchingRequirements.md
+[Satisfaction Interview results]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/SatisfactionInterviews.md
+[Scenery 1 description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/Scenery1.md
+[Process-Binnacles/Changelogs]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Process
+[MetricsAndContribution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/MetricsAndContribution.md
+[Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/ProcessDescription.md "Description of sprints, roles, workflow, naming rules and protocols"
+[Monitoring Tools]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/MonitoringTools.md "Explanation of the projects section in GitHub, the assignation of task, etc."
+[Sprint 1]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Changelogs/(D)Process/Sprints/Sprint_1.md "Sprint 1 meetings resume"
+[Sprint 2]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Changelogs/(D)Process/Sprints/Sprint_2.md "Sprint 2 meetings resume"
+[Sprint 3]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/Changelogs/(D)Process/Sprints/Sprint_3.md "Sprint 3 meetings resume"
+[Binnacle 1]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_1 "Individual binnacles of sprint 1"
+[Binnacle 2]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_2 "Individual binnacles of sprint 2"
+[Binnacle 3]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_3 "Individual binnacles of sprint 3"
+[Video/Presentation]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Video/presentation
+[Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Competencies 
