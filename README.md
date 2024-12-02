@@ -1,4 +1,4 @@
-# FIS Project Stage 2 (UADY HUB)
+# FIS Project Stage 3 (UADY HUB)
 ## Introduction
 The project consists of the proposal of a software product that serves as a potential solution to a social issue in the environment. It should be able to facilitate certain aspects for the target users we have in mind when defining the product proposal. Throughout this month, the proposal evolves to a product that might help and resolve problems found in situations that some new students at the Autonomous University of Yucatan (UADY) can face. These students often struggle with remembering and constantly checking the various online courses platforms that the university offers. Currently, the potential user group is limited to the Faculty of Mathematics.
 
