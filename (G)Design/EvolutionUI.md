@@ -48,3 +48,5 @@ We chose *Penpot* as our first tool to begin creating interface simulations. How
 
 Finally, we turned to *Figma* as the last option for interface development. *Figma* proved to be the right tool, allowing us to meet all the necessary requirements in terms of resources and elements within the application.
 
+>Written by: ``TM-04``
+
