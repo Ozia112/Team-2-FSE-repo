@@ -1,6 +1,3 @@
-<br />
 
-[Video Stage 2](https://github.com/user-attachments/assets/c9324494-9bff-43a8-af39-edff8af0f659)
 
-<br />
-
+[Video Stage 3](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a24216365_alumnos_uady_mx/EYmX2BpP6-9Ci7SwzD48f98BfOc3jXyvav7ZNL1pJeWMCg?e=Vn3HiW)

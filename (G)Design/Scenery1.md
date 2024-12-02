@@ -10,12 +10,8 @@ Usability aims to measure how easy it is for users to complete a specific task w
 
 Through metrics such as the number of touches required to complete specific tasks. Additionally, this assessment will provide valuable information on potential friction points in the flow of use helping to improve for future changes and documenting information for the project, helping us prioritize changes or adjustments to the iteration.
 
-## Testers
 
-
-# Scenario
 - Only the FMAT Online platform is added.
 - You are enrolled in 2 different FMAT Online courses.
 - By default they are ordered from the earliest to the least soon by date.
 - By default the elements are ordered alphabetically.
-- The option to add a platform is disabled.

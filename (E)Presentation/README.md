@@ -1,6 +1,9 @@
 In this file will be there all the content related with the video creation and presentation.
 # Table of contents:
-- [Audio Tracks](https://github.com/Ozia112/Team-2-FSE-repo/tree/FIS-Project-Stage-1/E_task/audio_track/)
-- [Video Script](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/E_task/video_script)
-- [Video Presentation](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-1/E_task/Video%20Presentation.md)
-- [TM-03_Binnacle](https://github.com/Ozia112/Team-2-FSE-repo/blob/TM-04-Branch/(E)Presentation/.TM-03_Binnacle.md)
+- [GeneralOutlineVideo](https://github.com/Ozia112/Stage-3/blob/department.Video/presentation/(E)Presentation/GeneralOutlineVideo.md)
+- [Video Script](https://github.com/Ozia112/Stage-3/department.Video/presentation/(E)Presentation/VideoScript.md)
+- [VideoQualityParameters](https://github.com/Ozia112/Stage-3/department.Video/presentation/(E)Presentation/VideoQualityParameters.md)
+- [Storyboard](https://github.com/Ozia112/Stage-3/blob/department.Video/presentation/(E)Presentation/Storyboards.md)
+- [VideoPresentation](https://github.com/Ozia112/Stage-3/blob/department.Video/presentation/(E)Presentation/VideoPresentation.md)
+
+Written by `TM-05`
