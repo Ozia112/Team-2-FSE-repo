@@ -106,7 +106,7 @@ The project must be well documented through the GitHub repository so that in cas
 [Matching Requirements evidence]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/MatchingRequirements.md
 [Satisfaction Interview results]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/SatisfactionInterviews.md
 [Scenery 1 description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(G)Design/Scenery1.md
-[Procces]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Process
+[Process-Binnacles/Changelogs]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Process
 [MetricsAndContribution]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/MetricsAndContribution.md
 [Process description]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/ProcessDescription.md "Description of sprints, roles, workflow, naming rules and protocols"
 [Monitoring Tools]: https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-3/(D)Process/MonitoringTools.md "Explanation of the projects section in GitHub, the assignation of task, etc."
@@ -116,6 +116,5 @@ The project must be well documented through the GitHub repository so that in cas
 [Binnacle 1]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_1 "Individual binnacles of sprint 1"
 [Binnacle 2]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_2 "Individual binnacles of sprint 2"
 [Binnacle 3]: https://github.com/Ozia112/Team-2-FSE-repo/tree/Stage-3/(D)Process/Binnacles/Sprint_3 "Individual binnacles of sprint 3"
-[Binnacles/Changelogs]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Binnacle/Changelogs
 [Video/Presentation]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Video/presentation
 [Competencies]: https://github.com/Ozia112/Team-2-FSE-repo/tree/department.Competencies 
