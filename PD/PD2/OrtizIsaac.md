@@ -34,7 +34,12 @@ Despues de darle click al boton aparecen mas opciones para elegir una base como 
 
 ---
 
-Aqui hay una visualizacion a modo de prototipo desarrollado en figma:  
+### Aqui hay una visualizacion a modo de prototipo desarrollado en figma:  
 [Simulacion del requerimiento]
 
 [Simulacion del requerimiento]: https://www.figma.com/proto/37HdcaruMB2WpG45AIRpfB/OrtizIsaac_PD2?node-id=0-1&t=iX38NHdEBiL81KHb-1 
+
+---
+
+## Requerimiento funcional original:
+![Image](https://github.com/user-attachments/assets/be4a8cd4-f96f-467d-bfdb-e7128eec041c)
