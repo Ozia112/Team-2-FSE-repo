@@ -4,9 +4,15 @@
 - El usuario debe ser capaz de crear pizarrones digitales que faciliten la organizacion de la informacion en la que esta trabajando. Esta informacion puede ser puesta en cuadros de texto, listas de chequeo, documentos de texto(.doc, .txt, .md). El nombre del pizarron puede ser cualquiera que desee el usuario y se podra definir en el momento de la creación.
 - El usuario podra ``administrar`` el pizarron para permitir que otras personas puedan ver y modificar su pizarron(``pizarron publico``) o mantenerlo cerrado al acceso y vista d eotras personas(``pizarron privado``). Además dentro de los pizarrones privados podra invitar a otros usuarios a modificar el pizarrón, pudiendo administrar los permisos de lectura, escritura y elimnacion de archivos.
 - El usuario podrá eliminar los pizarrones digitales que le pertenezcan una vez que ya no los necesite.
+
+  ### RF original:
+  - RF1: El usuario podrá crear y administrar pizarrones digitales los cuáles podrá dejar en modo público o privado
+  - RF2: El líder podrá ver y administrar los pizarrones digitales de todos los integrantes del equipo.
+    > Escrito por: ``Katherine Ordoñez Pacheco``
+    
 ## Historias de usuario
 **Como** ``usuario`` **quiero** un espacio virtual interactuable a través del ``arrastre`` en donde pueda organizar mi informacion de forma espacial **para** poder identificar de formas mas intuitivas en donde tengo localizada mi información, crear carpetas y mover archivos de forma agil y organizada. Poder encontrar erorres inmediatamente y poder solucionarlos de forma efectiva. Entender como funciona correctamente un espacio de trabajo como github de manera sencilla y visual para poder acercarme a un entorno de desarrollo que en el futuro aumentara mi potencial como trabajador en la industria del software.
-
+    
 ## Criterios de aceptación
 - El usuario debe ser contribuyente de un repositorio en github.
 - El requerimiento funcional debe contar con las especificaciones de ``administrar``, ``usuario``, ``arrastre``, ``pizarrón público`` y ``pizarrón privado``.
@@ -41,5 +47,5 @@ Despues de darle click al boton aparecen mas opciones para elegir una base como 
 
 ---
 
-## Requerimiento funcional original:
+## Evidencia de requerimiento original:
 ![Image](https://github.com/user-attachments/assets/be4a8cd4-f96f-467d-bfdb-e7128eec041c)
