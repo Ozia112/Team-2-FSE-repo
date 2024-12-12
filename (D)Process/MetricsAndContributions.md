@@ -20,7 +20,7 @@ Location: Library
 * E1.0: TM-4 showed progress on the video script
 * TM-1 fixed issues with TM-4's pull request for E1.0
   
- ![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto1.png)
+ ![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto1.png)
 ## :large_blue_diamond: Second project progress review
 ### Iteration 2
 15/10/24
@@ -39,8 +39,8 @@ A meeting was held to discuss progress and provide feedback to the team. Key poi
 * Isaac requested Paola to create another design for the functional requirement tasks and activity management:
     - Regarding this: "The student wants to view and manage all their tasks from different applications in a consolidated list in UADY HUB, in order to have complete control over what needs to be done."**
   
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto2.png)
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto3.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto2.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto3.png)
 
 ## :large_blue_diamond: Third project progress review
 ### Iteration 3 
@@ -61,24 +61,24 @@ For the interface:
 * Isaac to Adrián: product evolution - reviewing.
 * The video was recorded.
 
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto4.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto4.png)
 
 
 # Assigned tasks.
 
 :orange_square: This table shows the tasks assigned by the Project Manager (TM-1).
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto5.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto5.png)
 
 :orange_square: In the following tables, you can see the number of days each assigned task took to complete.
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto6.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto6.png)
 
 ## Graphic 
 :orange_square: The assigned tasks took time to complete.
 
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto7.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto7.png)
 # Dedicated time 
 :orange_square: In this table, you can see the time each member dedicated to their activities.
-![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/(D)Process/foto8.png)
+![image](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/(D)Process/foto8.png)
 
 
 
