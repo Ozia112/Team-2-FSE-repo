@@ -26,11 +26,11 @@
 ## Wireframes y simulaciones
 
 Este es el estado inicial del requerimiento, se inicia dando click en el boton de ``new board``  
-![Frame 1](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/PD/PD2/OrtizIsaac_PD2(1).png)
+![Frame 1](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/PD/PD2/OrtizIsaac_PD2(1).png)
 
 ---
 Despues de darle click al boton aparecen mas opciones para elegir una base como board que permite hacer una copia del pizarron principal al nuevo y trabajar sobre la copia. Además puedes elegir la ubicacion de este pizarron, invitar gente y poner la privacidad a tu gusto.   
-![Frame 2](https://github.com/Ozia112/Team-2-FSE-repo/blob/FIS-Project-Stage-2/assets/Stage2/PD/PD2/OrtizIsaac_PD2(2).png)
+![Frame 2](https://github.com/Ozia112/Team-2-FSE-repo/blob/Stage-2/assets/Stage2/PD/PD2/OrtizIsaac_PD2(2).png)
 
 ---
 
